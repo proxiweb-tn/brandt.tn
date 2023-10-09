@@ -1,0 +1,4865 @@
+# Translation of Plugins - Toolkit for Block Theme (Gutenberg Blocks, Templates, Patterns, Google Fonts) – Twentig - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Toolkit for Block Theme (Gutenberg Blocks, Templates, Patterns, Google Fonts) – Twentig - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-03 13:39:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Toolkit for Block Theme (Gutenberg Blocks, Templates, Patterns, Google Fonts) – Twentig - Stable (latest release)\n"
+
+#: inc/settings.php:132
+msgid "Enable Openverse"
+msgstr "Activer Openverse"
+
+#: inc/settings.php:56
+msgid "Openverse"
+msgstr "Openverse"
+
+#: inc/patterns/text-image.php:156
+msgid "Horizontal cards: unstretched image"
+msgstr "Cartes horizontales : image non étirée"
+
+#: inc/patterns/text-image.php:75
+msgid "Image and text"
+msgstr "Image et texte"
+
+#: inc/patterns/text-image.php:39
+msgid "Text and image on left x 2"
+msgstr "Texte et image à gauche x 2"
+
+#: inc/patterns/testimonials.php:39
+msgid "Testimonial: colored background with thumbnail"
+msgstr "Témoignages : arrière-plan coloré avec miniature"
+
+#: inc/patterns/single-page.php:82
+msgid "Coming soon distributed vertically"
+msgstr "Bientôt disponible réparti verticalement"
+
+#: inc/patterns/single-page.php:52
+msgid "Bio with centered content"
+msgstr "Bio avec contenu centré"
+
+#: inc/patterns/single-page.php:32
+msgid "Link in bio with image on left"
+msgstr "Lien en bio avec image à gauche"
+
+#: inc/patterns/single-page.php:12
+msgid "Link in bio with profile picture"
+msgstr "Lien en bio avec image du profil"
+
+#: inc/patterns/pricing.php:237
+msgid "Price list: image on left and centered text"
+msgstr "Liste de prix : image à gauche et texte centré"
+
+#: inc/patterns/pricing.php:228
+msgid "Price list: image on left"
+msgstr "Liste de prix : image à gauche"
+
+#: inc/patterns/pricing.php:174
+msgid "Price list: description"
+msgstr "Liste de prix : description"
+
+#: inc/patterns/pricing.php:165
+msgid "Price list: centered text"
+msgstr "Liste de prix :  texte centré"
+
+#: inc/patterns/pricing.php:156
+msgid "Price list: short description"
+msgstr "Liste de prix : description courte"
+
+#: inc/patterns/pricing.php:147
+msgid "Price list: card"
+msgstr "Liste de prix : carte"
+
+#: inc/patterns/pricing.php:30
+msgid "Pricing with heading on left"
+msgstr "Tarifs avec titre à gauche"
+
+#: inc/patterns/posts.php:31
+msgid "Posts stack: sidebar"
+msgstr "Articles empilés : colonne latérale"
+
+#: inc/patterns/pages.php:15
+msgctxt "Block pattern content"
+msgid "Write a page title"
+msgstr "Rédigez un titre de page"
+
+#: inc/patterns/numbers.php:65
+msgid "Numbers: 2 columns x 2"
+msgstr "Nombres : 2 colonnes x 2"
+
+#: inc/patterns/numbers.php:38
+msgid "Stats: 4 columns x 2"
+msgstr "Statistiques : 4 colonnes x 2"
+
+#: inc/patterns/numbers.php:29
+msgid "Stats: 4 column cards"
+msgstr "Statistiques : 4 colonnes cartes"
+
+#: inc/patterns/numbers.php:20
+msgid "Stats: 3 column cards"
+msgstr "Statistiques : 3 colonnes cartes"
+
+#: inc/patterns/footer.php:8
+msgctxt "Block pattern content"
+msgid "© 2023. Made with Twentig."
+msgstr "© 2023. Fait avec Twentig."
+
+#: inc/compat/wordpress-6.2/html-api/class-wp-html-tag-processor.php:2156
+msgid "The query argument must be an array or a tag name."
+msgstr "L‘argument de la requête doit être un tableau ou une balise."
+
+#: inc/compat/wordpress-6.2/html-api/class-wp-html-tag-processor.php:1851
+msgid "Invalid attribute name."
+msgstr "Nom d’attribut invalide."
+
+#: inc/compat/wordpress-6.2/html-api/class-wp-html-tag-processor.php:1529
+msgid "Too many calls to seek() - this can lead to performance issues."
+msgstr "Trop d’appels à la fonction seek(). Cela peut conduire à des problèmes de performances."
+
+#: inc/compat/wordpress-6.2/html-api/class-wp-html-tag-processor.php:1520
+msgid "Unknown bookmark name."
+msgstr "Nom de marque-page inconnu."
+
+#: inc/compat/wordpress-6.2/html-api/class-wp-html-tag-processor.php:673
+msgid "Too many bookmarks: cannot create any more."
+msgstr "Nombre maximal de signets atteint : impossible d’en créer de nouveaux"
+
+#: inc/classic/patterns/text-image.php:75 inc/patterns/text-image.php:84
+msgid "Circle image and text"
+msgstr "Image circulaire avec texte"
+
+#: inc/classic/patterns/single-page.php:72 inc/patterns/single-page.php:113
+msgid "Info 3 columns"
+msgstr "Infos 3 colonnes"
+
+#: inc/classic/patterns/single-page.php:62 inc/patterns/single-page.php:103
+msgid "Info 2 columns"
+msgstr "Infos 2 colonnes"
+
+#: inc/classic/patterns/single-page.php:52 inc/patterns/single-page.php:93
+msgid "Info card"
+msgstr "Carte infos"
+
+#: inc/classic/patterns/single-page.php:42 inc/patterns/single-page.php:72
+msgid "Coming soon with call to action"
+msgstr "Bientôt disponible avec appel à l’action"
+
+#: inc/classic/patterns/single-page.php:32 inc/patterns/single-page.php:62
+msgid "Bio with wide text"
+msgstr "Bio avec texte en grande largeur"
+
+#: inc/classic/patterns/single-page.php:22 inc/patterns/single-page.php:42
+msgid "Bio with image on left"
+msgstr "Bio avec image à gauche"
+
+#: inc/classic/patterns/single-page.php:12 inc/patterns/single-page.php:22
+msgid "Link in bio with background image"
+msgstr "Lien en bio avec image d’arrière-plan"
+
+#: inc/classic/patterns/gallery.php:66 inc/patterns/gallery.php:57
+msgid "Gallery 3 columns: full width"
+msgstr "Galerie 3 colonnes : plein largeur"
+
+#: inc/classic/patterns/contact.php:41 inc/patterns/contact.php:39
+msgid "Contact: stack with headings and info"
+msgstr "Contact: empilement avec titres et infos"
+
+#: inc/classic/patterns/contact.php:32 inc/patterns/contact.php:30
+msgid "Contact: stack with info"
+msgstr "Contact: empilement avec infos"
+
+#: inc/classic/patterns/contact.php:23 inc/patterns/contact.php:21
+msgid "Contact: stack with social icons"
+msgstr "Contact: empilement avec icônes de réseaux sociaux"
+
+#: inc/classic/patterns/contact.php:14 inc/patterns/contact.php:12
+msgid "Contact: stack with call to action"
+msgstr "Contact: empilement avec appel à l’action"
+
+#: inc/classic/patterns/banner.php:30 inc/patterns/banner.php:30
+msgid "Fullscreen cover"
+msgstr "Bannière en plein écran"
+
+#: inc/block-styles.php:114
+msgid "Subtle border"
+msgstr "Bordure subtile"
+
+#: inc/block-styles.php:49 inc/block-styles.php:82 inc/block-styles.php:132
+#: inc/block-styles.php:174
+msgid "Small rounded"
+msgstr "Petit arrondi"
+
+#: inc/block-presets.php:211
+msgid "Make the corners of the input and textarea rounded."
+msgstr "Arrondir les coins des zones de texte."
+
+#: inc/about.php:83
+msgid "Twentig helps you customize your theme and build pages easily."
+msgstr "Twentig vous aide à personnaliser votre site et à créer des pages facilement."
+
+#: inc/classic/twentytwentyone/block-editor.php:374
+msgid "Hide \"Continue reading\"."
+msgstr "Masquer le lien « Lire la suite »."
+
+#: inc/block-presets.php:95
+msgid "Order last on mobile."
+msgstr "Mettre en dernier sur mobile."
+
+#: inc/block-presets.php:93
+msgid "Order last on tablet and mobile."
+msgstr "Mettre en dernier sur tablette et mobile."
+
+#: inc/block-presets.php:92
+msgid "Order first on tablet and mobile."
+msgstr "Mettre en premier sur tablette et mobile."
+
+#: inc/block-presets.php:79 inc/block-presets.php:133
+msgid "Justify items from the end on tablet and mobile."
+msgstr "Justifier les blocs à droite sur tablette et mobile."
+
+#: inc/block-presets.php:78 inc/block-presets.php:132
+msgid "Justify items center on tablet and mobile."
+msgstr "Justifier les blocs au centre sur tablette et mobile."
+
+#: inc/block-presets.php:77 inc/block-presets.php:131
+msgid "Justify items from the start on tablet and mobile."
+msgstr "Justifier les blocs à gauche sur tablette et mobile."
+
+#: inc/block-presets.php:25 inc/block-presets.php:42 inc/block-presets.php:54
+#: inc/block-presets.php:175 inc/block-presets.php:201
+msgid "Align text right on tablet and mobile."
+msgstr "Aligner le texte à droite sur tablette et mobile."
+
+#: inc/block-presets.php:24 inc/block-presets.php:41 inc/block-presets.php:53
+#: inc/block-presets.php:174 inc/block-presets.php:200
+msgid "Align text center on tablet and mobile."
+msgstr "Centrer le texte sur tablette et mobile."
+
+#: inc/block-presets.php:23 inc/block-presets.php:40 inc/block-presets.php:52
+#: inc/block-presets.php:173 inc/block-presets.php:199
+msgid "Align text left on tablet and mobile."
+msgstr "Aligner le texte à gauche sur tablette et mobile."
+
+#. translators: link to header panel and link to footer panel
+#: inc/classic/twentytwenty/customizer.php:157
+msgid "Visit the <a href=\"%1$s\">Header panel</a> and the <a href=\"%2$s\">Footer panel</a> to set their link color."
+msgstr "Consultez le <a href=\"%1$s\">panneau En-tête</a> et le <a href=\"%2$s\">panneau Pied de page</a> pour définir leur couleur de lien."
+
+#: inc/block-presets.php:99
+msgid "Make the inner content width 100%."
+msgstr "Mettre la largeur du contenu à 100%."
+
+#: inc/block-presets.php:83
+msgid "Align items baseline."
+msgstr "Aligner les éléments baseline."
+
+#: inc/block-presets.php:73
+msgid "Arrange blocks inline."
+msgstr "Disposer les blocs inline."
+
+#: inc/block-presets.php:72
+msgid "Make the block width 100%."
+msgstr "Mettre la largeur du bloc à 100%."
+
+#: inc/block-presets.php:71
+msgid "Make the block height 100%."
+msgstr "Mettre la hauteur du bloc à 100%."
+
+#: inc/block-presets.php:20 inc/block-presets.php:36 inc/block-presets.php:51
+#: inc/block-presets.php:172 inc/block-presets.php:192
+msgid "Apply background gradient to text."
+msgstr "Appliquer le dégradé d’arrière-plan au texte."
+
+#: inc/block-presets.php:94
+msgid "Order first on mobile."
+msgstr "Mettre en premier sur mobile."
+
+#: inc/classic/twentytwenty/customizer.php:1041
+#: inc/classic/twentytwentyone/customizer.php:930 dist/index.js:1
+msgid "Host Google Fonts locally"
+msgstr "Héberger les Google Fonts en local"
+
+#: inc/custom-fonts.php:64 dist/index.js:1
+msgid "Font 2"
+msgstr "Police 2"
+
+#: inc/custom-fonts.php:53 dist/index.js:1
+msgid "Font 1"
+msgstr "Police"
+
+#: inc/classic/twentytwenty/customizer.php:1022
+#: inc/classic/twentytwentyone/customizer.php:911 dist/index.js:1
+msgid "Font Hosting"
+msgstr "Hébergement des polices"
+
+#: inc/block-styles.php:350
+msgid "Dashed"
+msgstr "Tiret"
+
+#: inc/block-styles.php:342
+msgid "Dotted"
+msgstr "Pointillé"
+
+#: inc/block-styles.php:334
+msgid "Asterisks"
+msgstr "Astérisques"
+
+#: inc/block-presets.php:196
+msgid "Set margin-right to 0."
+msgstr "Définir la marge droite sur 0."
+
+#: inc/block-presets.php:195
+msgid "Set margin-left to 0."
+msgstr "Définir la marge gauche sur 0."
+
+#: inc/block-styles.php:473
+msgid "Outline button"
+msgstr "Bouton contour"
+
+#: inc/block-styles.php:465
+msgid "Fill button"
+msgstr "Bouton plein"
+
+#: inc/block-presets.php:141
+msgid "Justify items from the end on tablet."
+msgstr "Justifier les blocs à droite sur tablette."
+
+#: inc/block-presets.php:140
+msgid "Justify items center on tablet."
+msgstr "Justifier les blocs au centre sur tablette."
+
+#: inc/block-presets.php:139
+msgid "Justify items from the start on tablet."
+msgstr "Justifier les blocs à gauche sur tablette."
+
+#: inc/block-presets.php:21 inc/block-presets.php:37 inc/block-presets.php:64
+msgid "Add padding to the highlighted text’s background."
+msgstr "Ajouter des marges internes à l’arrière-plan du texte mis en évidence."
+
+#: inc/block-styles.php:376 inc/block-styles.php:426 inc/block-styles.php:507
+msgid "Plain"
+msgstr "Simple"
+
+#: inc/block-presets.php:82 inc/block-presets.php:136 inc/block-presets.php:144
+msgid "Justify items from the end on mobile."
+msgstr "Justifier les blocs à droite sur mobile."
+
+#: inc/block-presets.php:81 inc/block-presets.php:135 inc/block-presets.php:143
+msgid "Justify items center on mobile."
+msgstr "Justifier les blocs au centre sur mobile."
+
+#: inc/block-presets.php:80 inc/block-presets.php:134 inc/block-presets.php:142
+msgid "Justify items from the start on mobile."
+msgstr "Justifier les blocs à gauche sur mobile."
+
+#: inc/block-presets.php:96
+msgid "Hide column if empty."
+msgstr "Masquer la colonne si elle est vide."
+
+#: inc/block-presets.php:76
+msgid "Apply backdrop blur filter."
+msgstr "Appliquer un effet de flou sur la zone derrière l’élément."
+
+#. Description of the plugin
+msgid "With its powerful tools, Twentig makes it easy to create and customize your own website."
+msgstr "Grâce à ses outils puissants, Twentig facilite la création et la personnalisation de votre site web."
+
+#: inc/block-styles.php:418
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: inc/block-styles.php:394
+msgid "Outline"
+msgstr "Contour"
+
+#: inc/block-presets.php:117
+msgid "Reveal the caption on hover."
+msgstr "Révéler la légende au survol."
+
+#: inc/block-presets.php:19 inc/block-presets.php:35 inc/block-presets.php:50
+#: inc/block-presets.php:122 inc/block-presets.php:171
+#: inc/block-presets.php:191
+msgid "Add shadow to text."
+msgstr "Ajouter une ombre au texte."
+
+#: inc/block-styles.php:499 dist/index.js:1
+msgid "Circle"
+msgstr "Cercle"
+
+#: inc/twentytwentytwo.php:47
+msgid "Extra Extra Large"
+msgstr "Très très grand"
+
+#: inc/patterns/testimonials.php:165
+msgid "Testimonials: horizontal cards"
+msgstr "Témoignages : cartes horizontales"
+
+#: inc/patterns/testimonials.php:93
+msgid "Testimonials 2 columns: masonry"
+msgstr "Témoignages 2 colonnes : masonry"
+
+#: inc/patterns/posts.php:34
+msgctxt "Block pattern content"
+msgid "About"
+msgstr "À propos"
+
+#: inc/patterns/posts.php:21
+msgid "Posts: small image on left"
+msgstr "Articles : petites images à gauche"
+
+#: inc/classic/patterns/pages.php:104 inc/classic/patterns/pages.php:114
+#: inc/classic/patterns/pages.php:124 inc/patterns/pages.php:136
+#: inc/patterns/pages.php:146 inc/patterns/pages.php:156
+#: inc/patterns/pages.php:166
+msgctxt "Block pattern category"
+msgid "Page - Contact"
+msgstr "Page - Contact"
+
+#: inc/classic/patterns/pages.php:74 inc/classic/patterns/pages.php:84
+#: inc/classic/patterns/pages.php:94 inc/patterns/pages.php:95
+#: inc/patterns/pages.php:105 inc/patterns/pages.php:115
+#: inc/patterns/pages.php:125
+msgctxt "Block pattern category"
+msgid "Page - Services"
+msgstr "Page - Services"
+
+#: inc/classic/patterns/pages.php:44 inc/classic/patterns/pages.php:54
+#: inc/classic/patterns/pages.php:64 inc/patterns/pages.php:52
+#: inc/patterns/pages.php:62 inc/patterns/pages.php:75
+#: inc/patterns/pages.php:85
+msgctxt "Block pattern category"
+msgid "Page - About"
+msgstr "Page - À propos"
+
+#: inc/classic/patterns/pages.php:14 inc/classic/patterns/pages.php:24
+#: inc/classic/patterns/pages.php:34 inc/classic/patterns/twentytwenty.php:87
+#: inc/patterns/pages.php:12 inc/patterns/pages.php:22
+#: inc/patterns/pages.php:32 inc/patterns/pages.php:42
+msgctxt "Block pattern category"
+msgid "Page - Home"
+msgstr "Page - Accueil"
+
+#: inc/patterns/logos.php:67
+msgid "Logos in row"
+msgstr "Logos en ligne"
+
+#: inc/patterns/header.php:21
+msgid "Wide width header with shadow"
+msgstr "En-tête large avec ombre"
+
+#: inc/patterns/header.php:11
+msgid "Full width header with border"
+msgstr "En-tête pleine largeur avec bordure"
+
+#: inc/patterns/footer.php:46
+msgid "Footer 2 columns: text and navigation"
+msgstr "Pied de page 2 colonnes : texte et navigation"
+
+#: inc/patterns/footer.php:36
+msgid "Footer stack: navigation"
+msgstr "Pied de page empilé : navigation"
+
+#: inc/patterns/footer.php:26
+msgid "Footer inline: 2 rows"
+msgstr "Pied de page inline : 2 lignes"
+
+#: inc/patterns/footer.php:16
+msgid "Footer inline: copyright and social links"
+msgstr "Pied de page inline : copyright et liens sociaux"
+
+#: inc/patterns/call-to-action.php:39
+msgid "CTA: cover with buttons"
+msgstr "CTA : bannière avec boutons"
+
+#: inc/patterns/call-to-action.php:30
+msgid "CTA: wide cover"
+msgstr "CTA : bannière en grande largeur"
+
+#: inc/block-styles.php:307
+msgctxt "block style"
+msgid "Icon"
+msgstr "Icône"
+
+#: inc/block-styles.php:299
+msgctxt "block style"
+msgid "Plain"
+msgstr "Uni"
+
+#: inc/block-styles.php:106 inc/block-styles.php:156 inc/block-styles.php:182
+msgid "White frame"
+msgstr "Cadre blanc"
+
+#: inc/block-presets.php:182 inc/block-presets.php:186
+msgid "Remove bullet from list."
+msgstr "Retirer les puces de la liste."
+
+#: inc/block-presets.php:164
+msgid "Set margin-left to auto."
+msgstr "Définir la marge gauche sur auto."
+
+#: inc/block-patterns.php:31
+msgctxt "Block pattern category"
+msgid "Single Pages"
+msgstr "Pages uniques"
+
+#: inc/block-patterns.php:30
+msgctxt "Block pattern category"
+msgid "Pages"
+msgstr "Pages"
+
+#: inc/about.php:120
+msgid "Customize Website"
+msgstr "Personnalisation du site"
+
+#: inc/about.php:107
+msgid "Site icon"
+msgstr "Icône du site"
+
+#: inc/about.php:102
+msgid "Templates"
+msgstr "Modèles"
+
+#: inc/about.php:97
+msgid "Site editor"
+msgstr "Éditeur de site"
+
+#: inc/about.php:61
+msgid "Twentig helps you customize your website and build pages easily with additional styles, enhanced blocks, and patterns."
+msgstr "Twentig vous aide à personnaliser votre site et à créer des pages facilement avec des options de style supplémentaires, des blocs magnifiés et des compositions ."
+
+#. Author of the plugin
+msgid "Twentig.com"
+msgstr "Twentig.com"
+
+#: inc/classic/twentytwenty/block-editor.php:381
+#: inc/classic/twentytwentyone/block-editor.php:413
+msgctxt "block style"
+msgid "Short line"
+msgstr "Ligne courte"
+
+#: inc/block-styles.php:384 inc/block-styles.php:434
+msgid "List"
+msgstr "Liste"
+
+#: inc/patterns/posts.php:14 inc/patterns/posts.php:24
+#: inc/patterns/posts.php:34
+msgid "Next"
+msgstr "Suivant"
+
+#: inc/patterns/posts.php:14 inc/patterns/posts.php:24
+#: inc/patterns/posts.php:34
+msgid "Previous"
+msgstr "Précédent"
+
+#. translators: %s: https://wordpress.org/support/plugin/twentig/reviews
+#: inc/about.php:336
+msgid "Enjoying Twentig? Rate it <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">★★★★★</a> on <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>."
+msgstr "Vous aimez Twentig ? Notez-le <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">★★★★★</a> sur <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>."
+
+#: inc/about.php:298
+msgid "By entering your email, you agree to our <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
+msgstr "En fournissant votre adresse e-mail, vous acceptez notre <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">politique de confidentialité</a>."
+
+#: inc/about.php:288 inc/about.php:290
+msgid "Your email address"
+msgstr "Votre adresse e-mail"
+
+#: inc/about.php:284
+msgid "Subscribe to our newsletter to receive exclusive content, tips and updates."
+msgstr "Abonnez-vous à notre newsletter pour recevoir du contenu exclusif, des conseils et des mises à jour."
+
+#: inc/about.php:282
+msgid "Get more out of Twentig"
+msgstr "Et plus encore"
+
+#: inc/about.php:269
+msgid "Rate us on WordPress.org"
+msgstr "Notez-nous sur WordPress.org"
+
+#: inc/about.php:263
+msgid "YouTube channel"
+msgstr "Chaîne YouTube"
+
+#: inc/about.php:251
+msgid "Quickstart guide"
+msgstr "Guide de démarrage rapide"
+
+#: inc/about.php:245
+msgid "Explore More"
+msgstr "Liens utiles"
+
+#: inc/about.php:236 inc/about.php:238
+msgid "Add a blog post"
+msgstr "Écrivez un article"
+
+#: inc/about.php:232 inc/about.php:235 inc/about.php:239
+msgid "Add additional pages"
+msgstr "Ajoutez de nouvelles pages"
+
+#: inc/about.php:231 inc/about.php:234
+msgid "Edit your front page"
+msgstr "Modifiez votre page d’accueil"
+
+#: inc/about.php:228
+msgid "Create Pages"
+msgstr "Création de pages"
+
+#: inc/about.php:200
+msgid "Customize Theme"
+msgstr "Personnalisation du thème"
+
+#: inc/about.php:112 inc/about.php:193
+msgid "Set up your homepage"
+msgstr "Configurez votre page d’accueil"
+
+#: inc/about.php:188
+msgid "Menus"
+msgstr "Menus"
+
+#: inc/about.php:163
+msgid "Site layout"
+msgstr "Mise en page du site"
+
+#: inc/about.php:153
+msgid "Colors"
+msgstr "Couleurs"
+
+#: inc/about.php:148
+msgid "Site logo"
+msgstr "Logo du site"
+
+#: inc/about.php:65
+msgid "Twentig helps you customize the default theme and build pages easily. To take full advantage of Twentig, we recommend that you use the Twenty Twenty-Two theme."
+msgstr "Twentig vous aide à personnaliser le thème par défaut et à créer facilement des pages. Pour profiter pleinement de Twentig, nous vous recommandons d’utiliser le thème Twenty Twenty-Two."
+
+#: inc/about.php:57
+msgid "Welcome to Twentig"
+msgstr "Bienvenue sur Twentig"
+
+#: inc/about.php:25
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/about.php:24
+msgid "Twentig Home"
+msgstr "Accueil Twentig"
+
+#: inc/classic/twentytwentyone/customizer.php:1740
+msgid "Display page title on posts page"
+msgstr "Afficher le titre de la page sur la page des articles"
+
+#: inc/settings.php:118
+msgid "Enable Widgets Block Editor"
+msgstr "Activer l’éditeur de blocs pour gérer les widgets."
+
+#: inc/settings.php:47
+msgid "Widgets Editor"
+msgstr "Éditeur de widgets"
+
+#: inc/block-patterns.php:16
+msgctxt "Block pattern category"
+msgid "Banners"
+msgstr "En-têtes"
+
+#: inc/block-patterns.php:15
+msgctxt "Block pattern category"
+msgid "Hero"
+msgstr "Section de titre de page"
+
+#. translators: link to external site
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:79
+msgid "More starter websites are coming soon. Stay updated by <a href=\"%1$s\" %2$s>subscribing to our newsletter</a>"
+msgstr "De nouveaux sites web de démarrage seront bientôt disponibles. Restez informé en vous <a href=\"%1$s\" %2$s>inscrivant à notre newsletter</a>"
+
+#. translators: links to Unsplash site
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:66
+msgid "The photos are provided by Unsplash. By loading a starter website, you are agreeing to Unsplash’s <a href=\"%1$s\" %2$s>Terms</a> and <a href=\"%3$s\" %4$s>Privacy Policy</a>."
+msgstr "Les photos sont fournies par Unsplash. En chargeant un site web de démarrage, vous acceptez les <a href=\"%1$s\" %2$s>Termes</a> et la <a href=\"%3$s\" %4$s>Politique de confidentialité</a> d’Unsplash."
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:58
+msgid "Load"
+msgstr "Charger"
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:55
+msgid "Customizer style"
+msgstr "Style"
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:53
+msgid "Content (pages, posts, menus, widgets)"
+msgstr "Contenu (pages, articles, menus, widgets)"
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:52
+msgid "All"
+msgstr "Tout"
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:46
+msgid "Import Type"
+msgstr "Type d’importation"
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:38
+msgid "Starter Website"
+msgstr "Site web de démarrage"
+
+#. translators: link to external demos site
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:31
+msgid "Choose a starting point to set up your site. <br><a href=\"%1$s\" %2$s>Preview demos</a>"
+msgstr "Choisissez un point de départ pour la création de votre site. <br><a href=\"%1$s\" %2$s>Prévisualiser les démos</a>"
+
+#: inc/classic/theme-tools/starters.php:107
+msgid "Sharing your stories has never been easier"
+msgstr "Partager vos histoires n’a jamais été aussi facile"
+
+#: inc/classic/theme-tools/starters.php:82
+msgid "An unexpected error occurred."
+msgstr "Une erreur inattendue s’est produite."
+
+#: inc/about.php:143
+msgid "Starter websites"
+msgstr "Sites web de démarrage"
+
+#: inc/classic/twentytwenty/customizer.php:2261
+#: inc/classic/twentytwentyone/customizer.php:2628
+msgid "Twentig Starter Websites"
+msgstr "Sites web de démarrage Twentig"
+
+#: inc/classic/twentytwenty/customizer.php:2255
+#: inc/classic/twentytwentyone/customizer.php:2622
+msgid "New posts and pages are created."
+msgstr "De nouveaux articles et de nouvelles pages sont créés."
+
+#: inc/classic/twentytwenty/customizer.php:2254
+#: inc/classic/twentytwentyone/customizer.php:2621
+msgid "Your current menus and widgets are replaced."
+msgstr "Vos menus et widgets actuels sont remplacés."
+
+#: inc/classic/twentytwenty/customizer.php:2253
+#: inc/classic/twentytwentyone/customizer.php:2620
+msgid "Your current Customizer settings are replaced."
+msgstr "Vos réglages actuels de l’outil de personnalisation sont remplacés."
+
+#: inc/classic/twentytwenty/customizer.php:2251
+#: inc/classic/twentytwentyone/customizer.php:2618
+msgid "When clicking \"Publish\", your existing posts and pages are preserved, and depending on the selected Import Type:"
+msgstr "Lorsque vous cliquez sur \"Publier\", vos articles et pages existants sont préservés, et selon le type d’importation sélectionné :"
+
+#: inc/classic/twentytwenty/customizer.php:2250
+#: inc/classic/twentytwentyone/customizer.php:2617
+msgid "When loading a starter website, you can preview it in the Customizer. No changes appear on your live site until you click \"Publish\"."
+msgstr "Lorsque vous chargez un site web de démarrage, vous pouvez le prévisualiser dans l’outil de personnalisation. Aucune modification n’apparaît sur votre site en ligne tant que vous n’avez pas cliqué sur \"Publier\"."
+
+#: inc/classic/twentytwentyone/customizer.php:2433
+msgid "Additional Styling"
+msgstr "Style additionnel"
+
+#: inc/classic/patterns/single-page.php:65 inc/patterns/single-page.php:106
+msgctxt "Block pattern content"
+msgid "Date"
+msgstr "Date"
+
+#: inc/classic/patterns/single-page.php:25 inc/patterns/single-page.php:45
+msgctxt "Button to download Curriculum Vitae"
+msgid "Resume"
+msgstr "Curriculum Vitae"
+
+#: inc/classic/patterns/single-page.php:25 inc/patterns/single-page.php:15
+msgctxt "Block pattern content - Referring to a man"
+msgid "Freelance developer"
+msgstr "Développeur indépendant"
+
+#: inc/classic/patterns/single-page.php:45 inc/patterns/single-page.php:75
+#: inc/patterns/single-page.php:85
+msgctxt "Block pattern content"
+msgid "Coming soon"
+msgstr "Bientôt disponible"
+
+#: inc/classic/twentytwentyone/customizer.php:310
+msgid "Site Max-Width (px)"
+msgstr "Largeur maximale du site (px)"
+
+#: inc/classic/twentytwentyone/customizer.php:175
+msgid "Inner Background Color"
+msgstr "Couleur d’arrière-plan interne"
+
+#: inc/block-presets.php:28 inc/block-presets.php:45 inc/block-presets.php:57
+#: inc/block-presets.php:178 inc/block-presets.php:204
+msgid "Align text right on mobile."
+msgstr "Aligner le texte à droite sur mobile."
+
+#: inc/block-presets.php:27 inc/block-presets.php:44 inc/block-presets.php:56
+#: inc/block-presets.php:177 inc/block-presets.php:203
+msgid "Align text center on mobile."
+msgstr "Centrer le texte sur mobile."
+
+#: inc/block-presets.php:26 inc/block-presets.php:43 inc/block-presets.php:55
+#: inc/block-presets.php:176 inc/block-presets.php:202
+msgid "Align text left on mobile."
+msgstr "Aligner le texte à gauche sur mobile."
+
+#: inc/classic/twentytwentyone/class-twentig-nav-menu.php:131
+msgctxt "submit button"
+msgid "Search"
+msgstr "Rechercher"
+
+#: inc/classic/twentytwentyone/customizer.php:2574
+msgid "Minify the theme stylesheet to reduce its load time."
+msgstr "Minifier la feuille de style du thème pour réduire son temps de chargement."
+
+#: inc/classic/twentytwentyone/customizer.php:2556
+msgid "Performance"
+msgstr "Performance"
+
+#: inc/classic/twentytwentyone/customizer.php:1085
+msgid "Landscape Tablet"
+msgstr "Tablette paysage"
+
+#: inc/classic/twentytwentyone/customizer.php:1084
+msgid "Portrait Tablet"
+msgstr "Tablette portrait"
+
+#: inc/classic/twentytwentyone/customizer.php:979
+msgctxt "layout"
+msgid "Centered Stack"
+msgstr "Empilement centré"
+
+#: inc/classic/twentytwentyone/customizer.php:977
+msgid "Centered Menu"
+msgstr "Menu centré"
+
+#: inc/classic/twentytwentyone/customizer.php:2517
+msgid "Button Size"
+msgstr "Taille du bouton"
+
+#: inc/classic/twentytwentyone/customizer.php:2420
+msgid "Post"
+msgstr "Article"
+
+#: inc/classic/twentytwentyone/customizer.php:2415
+msgid "Single Post Layout"
+msgstr "Mise en page des articles uniques"
+
+#: inc/classic/twentytwentyone/customizer.php:2395
+msgid "Archive Layout"
+msgstr "Mise en page d’archive"
+
+#: inc/classic/twentytwentyone/customizer.php:2376
+msgid "Custom Post Types"
+msgstr "Types de contenu personnalisé"
+
+#: inc/block-presets.php:86
+msgid "Make the blocks inside the columns (Image, Group, Cover) the same height."
+msgstr "Rendre les blocs à l’intérieur des colonnes (Image, Groupe, Bannière) de la même hauteur."
+
+#: inc/classic/twentytwenty/customizer.php:2229
+#: inc/classic/twentytwentyone/customizer.php:2596
+msgid "Only loads the Contact Form 7 scripts on the selected page."
+msgstr "Charge uniquement les scripts Contact Form 7 sur la page sélectionnée."
+
+#. translators: %s: URL to the Reusable Blocks admin page.
+#: inc/classic/twentytwenty/customizer.php:1373
+#: inc/classic/twentytwentyone/customizer.php:1296
+msgid "Create the footer with <a href=\"%s\" target=\"_blank\" class=\"external-link\">Reusable Blocks</a>."
+msgstr "Créez le pied de page avec des <a href=\"%s\" target=\"_blank\" class=\"external-link\">blocks réutilisables</a>."
+
+#: inc/classic/twentytwenty/customizer.php:1369
+#: inc/classic/twentytwentyone/customizer.php:1292
+msgid "Footer Content"
+msgstr "Contenu du pied de page"
+
+#: inc/classic/twentytwenty/customizer.php:1350
+#: inc/classic/twentytwentyone/customizer.php:1273
+msgid "Blocks"
+msgstr "Blocs"
+
+#: inc/classic/twentytwentyone/customizer.php:978
+msgctxt "layout"
+msgid "Stack on Right"
+msgstr "Empilement à droite"
+
+#: inc/classic/twentytwentyone/customizer.php:976
+msgid "Menu on Right"
+msgstr "Menu à droite"
+
+#: inc/classic/twentytwentyone/customizer.php:3053
+msgid "Add widgets here to appear in your blog sidebar."
+msgstr "Ajoutez ici des widgets qui apparaîtront dans votre colonne latérale du blog."
+
+#: inc/classic/twentytwentyone/customizer.php:3051
+msgid "Blog Sidebar"
+msgstr "Colonne latérale du blog"
+
+#: inc/classic/twentytwentyone/customizer.php:2539
+msgid "Button Text Transform"
+msgstr "Transformation de texte du bouton"
+
+#: inc/classic/twentytwentyone/customizer.php:2478
+msgctxt "border thickness"
+msgid "Thick"
+msgstr "Épaisse"
+
+#: inc/classic/twentytwentyone/customizer.php:2477
+msgctxt "border thickness"
+msgid "Thin"
+msgstr "Fine"
+
+#. translators: link to widgets panel
+#: inc/classic/twentytwentyone/customizer.php:1783
+#: inc/classic/twentytwentyone/customizer.php:2123
+msgid "Create the sidebar in the <a href=\"%s\">Widgets panel</a>."
+msgstr "Créez la colonne latérale dans le <a href=\"%s\"> panneau Widgets </a>."
+
+#: inc/classic/twentytwentyone/customizer.php:1778
+#: inc/classic/twentytwentyone/customizer.php:2118
+msgid "Display sidebar"
+msgstr "Afficher la colonne latérale"
+
+#: inc/classic/twentytwentyone/customizer.php:1617
+#: inc/classic/twentytwentyone/customizer.php:2022
+#: inc/classic/twentytwentyone/customizer.php:2212
+msgid "Center"
+msgstr "﻿Centré"
+
+#: inc/classic/twentytwentyone/customizer.php:1193
+msgid "Convert last menu item into a button"
+msgstr "Convertir le dernier lien du menu en bouton"
+
+#: inc/classic/twentytwentyone/customizer.php:621
+msgid "Applies to meta, footer, buttons, captions, inputs…"
+msgstr "S’applique aux métas, pied de page, boutons, légendes, champs de texte…"
+
+#: inc/classic/twentytwenty/customizer.php:418
+#: inc/classic/twentytwenty/customizer.php:552
+#: inc/classic/twentytwenty/customizer.php:740
+#: inc/classic/twentytwentyone/customizer.php:424
+msgid "System UI Font"
+msgstr "Police système"
+
+#: inc/classic/twentytwentyone/customizer.php:194
+msgid "Hover Background Color"
+msgstr "Couleur d’arrière-plan au survol"
+
+#: inc/classic/twentytwentyone/customizer.php:189
+msgid "Buttons"
+msgstr "Boutons"
+
+#: inc/classic/twentytwentyone/customizer.php:187
+msgid "Content Link Color"
+msgstr "Couleur de lien du contenu"
+
+#: inc/classic/twentytwentyone/front-end.php:556
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#. translators: %s: WordPress.
+#: inc/classic/twentytwentyone/front-end.php:555
+msgid "Proudly powered by %s."
+msgstr "Fièrement propulsé par %s"
+
+#: inc/classic/twentytwentyone/front-end.php:516
+msgid "Secondary menu"
+msgstr "Menu secondaire"
+
+#. translators: %s author name.
+#: inc/classic/twentytwentyone/template-tags.php:261
+msgid "By %s"
+msgstr "Par %s"
+
+#. translators: %s: list of tags.
+#: inc/classic/twentytwentyone/template-tags.php:171
+#: inc/classic/twentytwentyone/template-tags.php:237
+#: inc/classic/twentytwentyone/template-tags.php:322
+msgid "Tagged %s"
+msgstr "Étiqueté %s"
+
+#. translators: %s: list of categories.
+#: inc/classic/twentytwentyone/template-tags.php:161
+#: inc/classic/twentytwentyone/template-tags.php:227
+#: inc/classic/twentytwentyone/template-tags.php:312
+msgid "Categorized as %s"
+msgstr "Catégorisé comme %s"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/classic/twentytwentyone/template-tags.php:157
+#: inc/classic/twentytwentyone/template-tags.php:167
+#: inc/classic/twentytwentyone/template-tags.php:223
+#: inc/classic/twentytwentyone/template-tags.php:233
+#: inc/classic/twentytwentyone/template-tags.php:308
+#: inc/classic/twentytwentyone/template-tags.php:318
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/classic/twentytwentyone/template-tags.php:141
+#: inc/classic/twentytwentyone/template-tags.php:207
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: inc/classic/twentytwentyone/template-tags.php:120
+msgctxt "Label for sticky posts"
+msgid "Featured post"
+msgstr "Publication mise en avant"
+
+#: inc/classic/twentytwentyone/template-tags.php:88
+msgid "Older <span class=\"nav-short\">posts</span>"
+msgstr "<span class=\"nav-short\">Articles</span> plus anciens"
+
+#: inc/classic/twentytwentyone/template-tags.php:77
+msgid "Newer <span class=\"nav-short\">posts</span>"
+msgstr "<span class=\"nav-short\">Articles</span> plus récents"
+
+#: inc/classic/twentytwentyone/block-editor.php:387
+msgctxt "block style"
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/classic/twentytwentyone/block-editor.php:329
+msgid "Subtle Background"
+msgstr "Arrière-plan subtil"
+
+#: inc/classic/twentytwentyone/block-editor.php:301
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Moyenne"
+
+#: inc/classic/twentytwentyone/customizer.php:2473
+msgid "Applies to buttons, separators, inputs, and elements with border."
+msgstr "S’applique aux boutons, séparateurs, champs de texte et éléments avec bordure."
+
+#: inc/classic/twentytwentyone/customizer.php:2472
+msgid "Border Thickness"
+msgstr "Épaisseur de bordure"
+
+#: inc/classic/twentytwentyone/customizer.php:2457
+msgid "The minimal style removes the background focus style and the post titles underline."
+msgstr "Le style minimal retire la couleur d’arrière-plan du focus et le soulignement des titres des articles."
+
+#: inc/classic/twentytwentyone/customizer.php:2454 dist/index.js:1
+msgctxt "style"
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/classic/twentytwentyone/customizer.php:2450
+msgid "Links Style"
+msgstr "Style des liens"
+
+#: inc/classic/twentytwentyone/customizer.php:2320
+msgid "Post Meta below Content"
+msgstr "Métas de la publication sous le contenu"
+
+#: inc/classic/twentytwentyone/customizer.php:2289
+msgid "Post Meta below Title"
+msgstr "Métas de la publication sous le titre"
+
+#: inc/classic/twentytwentyone/customizer.php:2230
+msgid "Post Title Font Size (px)"
+msgstr "Taille de police du titre de l’article (px)"
+
+#: inc/classic/twentytwentyone/customizer.php:2207
+msgid "Post Title Text Alignment"
+msgstr "Alignement du titre de l’article"
+
+#: inc/classic/twentytwentyone/customizer.php:2186
+msgid "Post Title Width"
+msgstr "Largeur du titre de l’article"
+
+#: inc/classic/twentytwentyone/customizer.php:2090
+msgid "Minimal Center"
+msgstr "Minimal centré"
+
+#: inc/classic/twentytwentyone/customizer.php:2084
+msgid "Pagination Style"
+msgstr "Style de la pagination"
+
+#: inc/classic/twentytwentyone/customizer.php:2069
+msgid "Display meta label"
+msgstr "Afficher le libellé des métas"
+
+#: inc/classic/twentytwentyone/customizer.php:2017
+msgid "Text Alignment"
+msgstr "Alignement du texte"
+
+#. translators: link to theme options panel
+#: inc/classic/twentytwentyone/customizer.php:1963
+msgid "Set the post content in the <a href=\"%s\">Excerpt Settings panel</a>."
+msgstr "Définissez le contenu de la publication dans le <a href=\"%s\">panneau Réglages d’extrait</a>."
+
+#: inc/classic/twentytwentyone/customizer.php:1941
+msgid "Extra Large"
+msgstr "Très grand"
+
+#: inc/classic/twentytwentyone/customizer.php:1933
+msgid "Posts Title Font Size"
+msgstr "Taille de police des titres des articles"
+
+#: inc/classic/twentytwentyone/customizer.php:1885
+msgid "Featured Image Width"
+msgstr "Largeur de l’image mise en avant"
+
+#: inc/classic/twentytwentyone/customizer.php:1805
+msgid "Separator"
+msgstr "Séparateur"
+
+#: inc/classic/twentytwentyone/customizer.php:1800
+msgid "Blog Style"
+msgstr "Style du blog"
+
+#: inc/classic/twentytwentyone/customizer.php:1635
+#: inc/classic/twentytwentyone/customizer.php:2271
+msgid "Display a separator between the title and the content"
+msgstr "Afficher un séparateur entre le titre et le contenu"
+
+#: inc/classic/twentytwentyone/customizer.php:1616
+#: inc/classic/twentytwentyone/customizer.php:2021
+#: inc/classic/twentytwentyone/customizer.php:2211
+msgid "Left"
+msgstr "À gauche"
+
+#: inc/classic/twentytwentyone/customizer.php:1612
+msgid "Page Title Text Alignment"
+msgstr "Alignement du titre de la page"
+
+#: inc/classic/twentytwentyone/customizer.php:1591
+msgid "Page Title Width"
+msgstr "Largeur du titre de la page"
+
+#: inc/classic/twentytwentyone/customizer.php:1574
+#: inc/classic/twentytwentyone/customizer.php:1868
+#: inc/classic/twentytwentyone/customizer.php:2169
+msgid "Below"
+msgstr "En dessous"
+
+#: inc/classic/twentytwentyone/customizer.php:1573
+#: inc/classic/twentytwentyone/customizer.php:1867
+#: inc/classic/twentytwentyone/customizer.php:2168
+msgid "Above"
+msgstr "Au-dessus"
+
+#: inc/classic/twentytwentyone/customizer.php:1569
+#: inc/classic/twentytwentyone/customizer.php:1863
+#: inc/classic/twentytwentyone/customizer.php:2164
+msgid "Featured Image Placement"
+msgstr "Emplacement de l’image mise en avant"
+
+#: inc/classic/twentytwentyone/customizer.php:1552
+#: inc/classic/twentytwentyone/customizer.php:2147
+msgid "Cover"
+msgstr "Bannière"
+
+#: inc/classic/twentytwentyone/customizer.php:1499
+msgid "Footer Widgets Width"
+msgstr "Largeur du pied de page widgets"
+
+#: inc/classic/twentytwentyone/customizer.php:1447
+msgctxt "style"
+msgid "Underline on hover"
+msgstr "Souligné au survol"
+
+#: inc/classic/twentytwentyone/customizer.php:1446
+msgctxt "style"
+msgid "Underline"
+msgstr "Souligné"
+
+#: inc/classic/twentytwentyone/customizer.php:1442
+msgid "Footer Link Style"
+msgstr "Style de lien du pied de page"
+
+#: inc/classic/twentytwentyone/customizer.php:1389
+msgid "Display site title/logo"
+msgstr "Afficher le titre du site/logo"
+
+#: inc/classic/twentytwentyone/customizer.php:1266
+msgid "Footer Layout"
+msgstr "Mise en page du pied de page"
+
+#: inc/classic/twentytwentyone/customizer.php:1211
+msgid "Display a search bar"
+msgstr "Afficher une barre de recherche"
+
+#: inc/classic/twentytwentyone/customizer.php:1175
+#: inc/classic/twentytwentyone/customizer.php:1416
+msgid "Convert menu social links into social icons"
+msgstr "Convertir les liens de réseaux sociaux du menu en icônes"
+
+#: inc/classic/twentytwentyone/customizer.php:1156
+msgid "Additional Elements"
+msgstr "Éléments additionnels"
+
+#: inc/classic/twentytwentyone/customizer.php:1083 dist/index.js:1
+msgid "Mobile"
+msgstr "Mobile"
+
+#: inc/classic/twentytwentyone/customizer.php:1079
+msgid "Header Breakpoint"
+msgstr "Point de rupture de l’en-tête"
+
+#: inc/classic/twentytwentyone/customizer.php:1023
+msgctxt "width"
+msgid "Large"
+msgstr "Grande"
+
+#: inc/classic/twentytwentyone/customizer.php:1022
+msgctxt "width"
+msgid "Medium"
+msgstr "Moyenne"
+
+#: inc/classic/twentytwentyone/customizer.php:1021
+msgctxt "width"
+msgid "Small"
+msgstr "Petite"
+
+#: inc/classic/twentytwentyone/customizer.php:1017
+msgid "Header Padding"
+msgstr "Marge interne de l’en-tête"
+
+#: inc/classic/twentytwentyone/customizer.php:999
+#: inc/classic/twentytwentyone/customizer.php:1318
+#: inc/classic/twentytwentyone/customizer.php:1503
+#: inc/classic/twentytwentyone/customizer.php:1596
+#: inc/classic/twentytwentyone/customizer.php:2191
+msgctxt "width"
+msgid "Wide"
+msgstr "Large"
+
+#: inc/classic/twentytwentyone/customizer.php:978
+msgctxt "layout"
+msgid "Stack on Left"
+msgstr "Empilement à gauche"
+
+#: inc/classic/twentytwentyone/customizer.php:872
+msgid "Menu Letter Spacing"
+msgstr "Interlettrage du menu"
+
+#: inc/classic/twentytwentyone/customizer.php:847
+msgid "Menu Font Size (px)"
+msgstr "Taille de police du menu (px)"
+
+#: inc/classic/twentytwentyone/customizer.php:785
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: inc/classic/twentytwentyone/customizer.php:614
+msgid "Secondary Elements Font"
+msgstr "Police des éléments secondaires"
+
+#: inc/classic/twentytwentyone/customizer.php:579
+msgid "Page Title Font Size (px)"
+msgstr "Taille de police du titre de la page (px)"
+
+#: inc/classic/twentytwentyone/customizer.php:447
+msgid "Body Font Size (px)"
+msgstr "Taille de police du corps (px)"
+
+#: inc/classic/twentytwentyone/customizer.php:427
+#: inc/classic/twentytwentyone/customizer.php:515
+#: inc/classic/twentytwentyone/customizer.php:657
+msgid "Additional Google Fonts"
+msgstr "Polices Google Fonts additionnelles"
+
+#: inc/classic/twentytwentyone/customizer.php:512
+msgid "System Font"
+msgstr "Police système"
+
+#: inc/classic/twentytwentyone/customizer.php:360
+msgid "Wide Width (px)"
+msgstr "Grande largeur (px)"
+
+#: inc/classic/twentytwentyone/customizer.php:335
+msgid "Text Width (px)"
+msgstr "Largeur du texte (px)"
+
+#: inc/classic/twentytwentyone/customizer.php:211
+#: inc/classic/twentytwentyone/customizer.php:1457
+msgid "Footer Widgets"
+msgstr "Pied de page widgets"
+
+#: inc/classic/twentytwentyone/customizer.php:202
+msgid "Link Hover/Active Color"
+msgstr "Couleur du lien survolé/actif"
+
+#: inc/classic/twentytwentyone/customizer.php:201
+#: inc/classic/twentytwentyone/customizer.php:209
+#: inc/classic/twentytwentyone/customizer.php:216
+msgid "Link Color"
+msgstr "Couleur de lien"
+
+#: inc/classic/twentytwentyone/customizer.php:200
+msgid "Site Title Color"
+msgstr "Couleur du titre du site"
+
+#: inc/classic/twentytwentyone/customizer.php:192
+#: inc/classic/twentytwentyone/customizer.php:199
+#: inc/classic/twentytwentyone/customizer.php:207
+#: inc/classic/twentytwentyone/customizer.php:214
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: inc/classic/twentytwentyone/customizer.php:114
+msgid "Logo Width (px)"
+msgstr "Largeur du logo (px)"
+
+#: inc/classic/twentytwentyone/customizer.php:86
+msgid "Hide Tagline"
+msgstr "Masquer le slogan"
+
+#: inc/classic/twentytwentyone/customizer.php:54
+msgid "White version of the logo for transparent header and footer with dark background."
+msgstr "Version blanche du logo pour en-tête transparent et pied de page avec arrière-plan foncé."
+
+#: inc/classic/twentytwentyone/customizer.php:53
+msgid "Alternate Logo"
+msgstr "Logo alternatif"
+
+#. translators: %: page number.
+#: inc/classic/twentytwentyone/templates/tw-header-transparent-light.php:25
+#: inc/classic/twentytwentyone/templates/tw-header-transparent.php:25
+#: inc/classic/twentytwentyone/templates/tw-no-header-footer.php:41
+#: inc/classic/twentytwentyone/templates/tw-no-title.php:25
+msgid "Page %"
+msgstr "Page %"
+
+#: inc/classic/twentytwentyone/class-twentig-nav-menu.php:129
+#: inc/classic/twentytwentyone/class-twentig-nav-menu.php:130
+msgid "Search&hellip;"
+msgstr "Rechercher…"
+
+#: inc/classic/twentytwenty/block-editor.php:365
+#: inc/classic/twentytwenty/block-editor.php:373
+#: inc/classic/twentytwentyone/block-editor.php:394
+#: inc/classic/twentytwentyone/block-editor.php:402
+msgctxt "block style"
+msgid "Minimal"
+msgstr "Minimal"
+
+#: inc/classic/twentytwenty/customizer.php:1229
+#: inc/classic/twentytwentyone/customizer.php:1140
+msgid "Menu Link Hover/Active Style"
+msgstr "Style de lien survolé/actif du menu"
+
+#: inc/block-presets.php:87
+msgid "Center the columns horizontally."
+msgstr "Centrer les colonnes horizontalement."
+
+#: inc/classic/twentytwenty/customizer.php:811
+#: inc/classic/twentytwentyone/customizer.php:675
+msgid "Site Title Font Weight"
+msgstr "Épaisseur de police du titre du site"
+
+#: inc/classic/twentytwenty/customizer.php:787
+msgid "Fallback Site Title Font"
+msgstr "Police de secours du titre du site"
+
+#: inc/classic/twentytwenty/customizer.php:761
+msgid "Custom Site Title Font"
+msgstr "Police personnalisée du titre du site"
+
+#: inc/classic/twentytwenty/customizer.php:735
+#: inc/classic/twentytwentyone/customizer.php:650
+msgid "Site Title Font"
+msgstr "Police du titre du site"
+
+#: inc/classic/patterns/text.php:65 inc/patterns/text.php:29
+msgid "Heading on left and text"
+msgstr "Titre à gauche et texte"
+
+#: inc/block-styles.php:247
+msgctxt "list style"
+msgid "Inline"
+msgstr "En ligne"
+
+#: inc/block-styles.php:239
+msgctxt "list style"
+msgid "No bullet"
+msgstr "Sans puce"
+
+#: inc/block-styles.php:23
+msgctxt "noun"
+msgid "Overlap"
+msgstr "Chevauchement"
+
+#: inc/classic/patterns/list.php:92 inc/patterns/list.php:92
+msgid "Lists: 4 columns with image"
+msgstr "Listes : 4 colonnes avec image"
+
+#: inc/classic/patterns/list.php:83 inc/patterns/list.php:83
+msgid "Lists: 3 columns with border"
+msgstr "Listes : 3 colonnes avec bordure"
+
+#: inc/classic/patterns/list.php:56 inc/patterns/list.php:56
+msgid "Alternating list and image"
+msgstr "Liste et image alternées"
+
+#: inc/classic/patterns/list.php:47 inc/patterns/list.php:47
+msgid "Bold list and image on left"
+msgstr "Liste en gras et image à gauche"
+
+#: inc/classic/patterns/list.php:38 inc/patterns/list.php:38
+msgid "List and image on left"
+msgstr "Liste et image à gauche"
+
+#: inc/classic/patterns/list.php:29 inc/patterns/list.php:29
+msgid "Emphasized list and heading on left"
+msgstr "Liste mise en avant et titre à gauche"
+
+#: inc/classic/patterns/list.php:20 inc/patterns/list.php:20
+msgid "List and heading on left"
+msgstr "Liste et titre à gauche"
+
+#: inc/classic/patterns/faq.php:29 inc/patterns/faq.php:21
+msgid "FAQ: list with separator"
+msgstr "FAQ : liste avec séparateur"
+
+#: inc/classic/patterns/faq.php:20
+msgid "FAQ: list with bordered heading"
+msgstr "FAQ : liste avec titre borduré"
+
+#: inc/classic/patterns/faq.php:13 inc/classic/patterns/faq.php:22
+#: inc/classic/patterns/faq.php:31 inc/classic/patterns/faq.php:40
+#: inc/classic/patterns/faq.php:49 inc/patterns/faq.php:13
+#: inc/patterns/faq.php:23 inc/patterns/faq.php:32 inc/patterns/faq.php:41
+#: inc/patterns/pages.php:128
+msgctxt "Block pattern content"
+msgid "How can I contact you?"
+msgstr "Comment puis-je vous contacter ?"
+
+#: inc/classic/patterns/text-image.php:166 inc/patterns/text-image.php:176
+msgid "Small headings and image on left"
+msgstr "Petits titres et image à gauche"
+
+#: inc/classic/patterns/text-image.php:157
+msgid "List with text and image on left"
+msgstr "Liste avec texte et image à gauche"
+
+#: inc/classic/patterns/text-image.php:148 inc/patterns/text-image.php:166
+msgid "List with text and image on right"
+msgstr "Liste avec texte et image à droite"
+
+#: inc/classic/patterns/text-image.php:139
+#: inc/classic/patterns/twentytwenty.php:33 inc/patterns/text-image.php:147
+msgid "Horizontal cards"
+msgstr "Cartes horizontales"
+
+#: inc/classic/patterns/text-image.php:112 inc/patterns/text-image.php:120
+msgid "Alternating text and image: full width"
+msgstr "Texte et image alternés : pleine largeur"
+
+#: inc/classic/patterns/text-image.php:102
+#: inc/classic/patterns/twentytwenty.php:15 inc/patterns/text-image.php:111
+msgid "Text columns and image at the top"
+msgstr "Colonnes de texte et image au-dessus"
+
+#: inc/classic/patterns/text-image.php:93
+#: inc/classic/patterns/twentytwenty.php:6 inc/patterns/text-image.php:102
+msgid "Text columns and image at the bottom"
+msgstr "Colonnes de texte et image en dessous"
+
+#: inc/classic/patterns/text-image.php:39 inc/patterns/text-image.php:48
+msgid "Text and image: alternating colored backgrounds"
+msgstr "Texte et image : arrière-plans colorés alternés"
+
+#: inc/classic/patterns/text-image.php:30 inc/patterns/text-image.php:30
+msgid "Alternating text and image"
+msgstr "Texte et image alternés"
+
+#: inc/classic/patterns/text-image.php:21 inc/patterns/text-image.php:21
+msgid "Text and image on right"
+msgstr "Texte et image à droite"
+
+#: inc/classic/patterns/text-image.php:12 inc/patterns/text-image.php:12
+msgid "Text and image on left"
+msgstr "Texte et image à gauche"
+
+#: inc/classic/patterns/events.php:65 inc/patterns/events.php:56
+msgid "Schedule: weekly"
+msgstr "Programme : hebdomadaire"
+
+#: inc/classic/patterns/events.php:40 inc/classic/patterns/events.php:49
+#: inc/classic/patterns/events.php:58 inc/classic/patterns/events.php:67
+#: inc/patterns/events.php:40 inc/patterns/events.php:49
+#: inc/patterns/events.php:58
+msgctxt "Block pattern content (noun)"
+msgid "Schedule"
+msgstr "Programme"
+
+#: inc/classic/patterns/events.php:31 inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Tuesday, January 5"
+msgstr "Mardi 5 janvier"
+
+#: inc/classic/patterns/events.php:20 inc/patterns/events.php:20
+msgid "Events: list with image on left"
+msgstr "Évènements : liste avec image à gauche"
+
+#: inc/classic/patterns/logos.php:30 inc/patterns/logos.php:31
+msgid "Logos: heading on left"
+msgstr "Logos : titre à gauche"
+
+#: inc/classic/patterns/team.php:129 inc/patterns/team.php:121
+msgid "Team: overlap image"
+msgstr "Équipe : chevauchement d’image"
+
+#: inc/classic/patterns/team.php:120 inc/patterns/team.php:112
+msgid "Team: alternating text and image"
+msgstr "Équipe : texte et image alternés"
+
+#: inc/classic/patterns/team.php:111 inc/patterns/team.php:103
+msgid "Team: image on left"
+msgstr "Équipe : image à gauche"
+
+#: inc/classic/patterns/team.php:21 inc/patterns/team.php:21
+msgid "Team 2 columns: centered content"
+msgstr "Équipe 2 colonnes : contenu centré"
+
+#: inc/classic/patterns/latest-posts.php:83
+msgid "Posts 3 columns: card with text only"
+msgstr "Articles 3 colonnes : carte avec texte uniquement"
+
+#: inc/classic/patterns/latest-posts.php:47
+msgid "Posts 2 columns: image on left"
+msgstr "Articles 2 colonnes : image à gauche"
+
+#: inc/classic/patterns/latest-posts.php:38
+msgid "Posts: list with image on left"
+msgstr "Articles : liste avec image à gauche"
+
+#: inc/classic/patterns/latest-posts.php:29
+msgid "Posts: list with image on right"
+msgstr "Articles : liste avec image à droite"
+
+#: inc/classic/patterns/latest-posts.php:20
+msgid "Posts: list with separator"
+msgstr "Articles : liste avec séparateur"
+
+#: inc/patterns/pricing.php:210
+msgid "Price list: 3 columns with image"
+msgstr "Liste de prix : 3 colonnes avec image"
+
+#: inc/classic/patterns/pricing.php:192 inc/patterns/pricing.php:201
+msgid "Price list: 3 columns with centered text"
+msgstr "Liste de prix : 3 colonnes avec texte centré"
+
+#: inc/classic/patterns/pricing.php:174
+msgid "Price list: 2 columns with top border"
+msgstr "Liste de prix : 2 colonnes avec bordure supérieure"
+
+#: inc/classic/patterns/pricing.php:156
+msgid "Price list: stack with separator"
+msgstr "Liste de prix : pile avec séparateur"
+
+#: inc/classic/patterns/pricing.php:147
+msgid "Price List: stack"
+msgstr "Liste de prix : pile"
+
+#: inc/classic/patterns/pricing.php:77 inc/classic/patterns/pricing.php:86
+#: inc/classic/patterns/pricing.php:95 inc/classic/patterns/pricing.php:104
+#: inc/classic/patterns/pricing.php:113 inc/classic/patterns/pricing.php:122
+msgctxt "Block pattern content (refers to a pricing plan, smaller than Enterprise)"
+msgid "Business"
+msgstr "Business"
+
+#: inc/classic/patterns/pages.php:67 inc/patterns/pages.php:78
+msgctxt "Block pattern content - In the context of a resume"
+msgid "Education"
+msgstr "Formation"
+
+#: inc/classic/patterns/pages.php:67 inc/patterns/pages.php:78
+msgctxt "Block pattern content"
+msgid "Experience"
+msgstr "Expérience"
+
+#: inc/classic/patterns/pages.php:57 inc/classic/patterns/team.php:23
+#: inc/classic/patterns/team.php:32 inc/classic/patterns/team.php:41
+#: inc/classic/patterns/team.php:50 inc/classic/patterns/team.php:59
+#: inc/classic/patterns/team.php:68 inc/classic/patterns/team.php:77
+#: inc/classic/patterns/team.php:86 inc/classic/patterns/team.php:95
+#: inc/classic/patterns/team.php:104 inc/patterns/pages.php:66
+#: inc/patterns/team.php:23 inc/patterns/team.php:33 inc/patterns/team.php:42
+#: inc/patterns/team.php:51 inc/patterns/team.php:60 inc/patterns/team.php:78
+#: inc/patterns/team.php:87 inc/patterns/team.php:96
+msgctxt "Block pattern content - Referring to a woman"
+msgid "Founder"
+msgstr "Fondatrice"
+
+#: inc/classic/patterns/media.php:47 inc/patterns/media.php:47
+msgid "Text columns and video"
+msgstr "Colonnes de texte et vidéo"
+
+#: inc/classic/patterns/media.php:38
+msgid "Video with frame and text on right"
+msgstr "Vidéo avec cadre et texte à droite"
+
+#: inc/patterns/media.php:29
+msgid "Video with text on right"
+msgstr "Vidéo avec texte à droite"
+
+#: inc/classic/patterns/media.php:20 inc/patterns/media.php:20
+msgid "Text and video"
+msgstr "Texte et vidéo"
+
+#: inc/classic/patterns/gallery.php:48
+msgid "Gallery: center alignment"
+msgstr "Galerie : alignement au centre"
+
+#: inc/classic/patterns/gallery.php:39 inc/patterns/gallery.php:39
+msgid "Gallery: stretched images"
+msgstr "Galerie : images étirées"
+
+#: inc/classic/patterns/contact.php:131 inc/patterns/contact.php:120
+msgid "Contact: map"
+msgstr "Contact : carte"
+
+#: inc/classic/patterns/contact.php:122 inc/patterns/contact.php:111
+msgid "Contact: opening hours"
+msgstr "Contact : horaires d’ouverture"
+
+#: inc/classic/patterns/contact.php:104
+msgid "Contact: cover with inline Links"
+msgstr "Contact : bannière avec liens en ligne"
+
+#: inc/classic/patterns/contact.php:77 inc/patterns/contact.php:75
+msgid "Contact: image on right"
+msgstr "Contact : image à droite"
+
+#: inc/classic/patterns/contact.php:68 inc/patterns/contact.php:66
+msgid "Contact: heading on left"
+msgstr "Contact : titre à gauche"
+
+#: inc/classic/patterns/contact.php:59 inc/patterns/contact.php:57
+msgid "Contact: emphasized info"
+msgstr "Contact : infos mises en avant"
+
+#: inc/classic/patterns/numbers.php:29 inc/patterns/numbers.php:47
+msgid "Numbers: list with headings"
+msgstr "Nombres : liste avec titres"
+
+#: inc/classic/patterns/hero.php:75 inc/patterns/hero.php:48
+msgid "Hero with title on left and image at the bottom"
+msgstr "Titre de page à gauche et image en dessous"
+
+#: inc/classic/patterns/hero.php:48
+msgid "Hero with eyebrow title and image on right"
+msgstr "Titre de page en avant-titre avec image à droite"
+
+#: inc/classic/patterns/hero.php:39 inc/patterns/hero.php:30
+msgid "Hero with button and image on right"
+msgstr "Titre de page avec bouton et image à droite"
+
+#: inc/classic/patterns/hero.php:12 inc/patterns/hero.php:12
+msgid "Hero with colored background"
+msgstr "Titre de page avec arrière-plan coloré"
+
+#: inc/classic/patterns/call-to-action.php:93
+#: inc/patterns/call-to-action.php:84
+msgid "CTA: 2 columns with cover"
+msgstr "CTA : 2 colonnes avec bannière"
+
+#: inc/classic/patterns/call-to-action.php:66
+#: inc/patterns/call-to-action.php:57
+msgid "CTA: image on right"
+msgstr "CTA : image à droite"
+
+#: inc/classic/patterns/call-to-action.php:57
+#: inc/patterns/call-to-action.php:48
+msgid "CTA: heading on left"
+msgstr "CTA : titre à gauche"
+
+#: inc/classic/patterns/call-to-action.php:39
+msgid "CTA: gradient background with buttons"
+msgstr "CTA : arrière-plan en dégradé avec boutons"
+
+#: inc/classic/patterns/call-to-action.php:30
+msgid "CTA: wide gradient background"
+msgstr "CTA : large arrière-plan en dégradé"
+
+#: inc/classic/patterns/call-to-action.php:21
+#: inc/patterns/call-to-action.php:21
+msgid "CTA: colored background with text"
+msgstr "CTA : arrière-plan coloré avec texte"
+
+#: inc/classic/patterns/call-to-action.php:12
+#: inc/patterns/call-to-action.php:12
+msgid "CTA: colored background"
+msgstr "CTA : arrière-plan coloré"
+
+#: inc/classic/patterns/text.php:83
+msgid "Bordered heading and small headings"
+msgstr "Titre borduré et petits titres"
+
+#: inc/classic/patterns/text.php:74
+msgid "Small heading and wide text"
+msgstr "Petit titre et texte en grande largeur"
+
+#: inc/classic/patterns/banner.php:84 inc/patterns/banner.php:75
+msgid "2 columns with cover x 2: full width"
+msgstr "2 colonnes avec bannière x 2 : pleine largeur"
+
+#: inc/classic/patterns/banner.php:75 inc/patterns/banner.php:66
+msgid "2 columns with cover x 2: top aligned text"
+msgstr "2 colonnes avec bannière x 2 : texte aligné en haut"
+
+#: inc/classic/patterns/banner.php:66 inc/patterns/banner.php:57
+msgid "2 columns with cover: bottom aligned text"
+msgstr "2 colonnes avec bannière : texte aligné en bas"
+
+#: inc/classic/patterns/banner.php:57 inc/patterns/banner.php:48
+msgid "2 columns with cover"
+msgstr "2 colonnes avec bannière"
+
+#: inc/classic/patterns/banner.php:50 inc/classic/patterns/text.php:49
+msgctxt "Block pattern content"
+msgid "Write a lead paragraph."
+msgstr "Rédigez un paragraphe d’introduction."
+
+#: inc/classic/patterns/text.php:137 inc/patterns/text.php:74
+msgid "3 text columns: centered text"
+msgstr "3 colonnes de texte : texte centré"
+
+#: inc/classic/patterns/text.php:92
+msgid "2 text columns: centered text"
+msgstr "2 colonnes de texte : texte centré"
+
+#: inc/classic/patterns/columns.php:164 inc/patterns/columns.php:137
+msgid "4 columns: centered content"
+msgstr "4 colonnes : contenu centré"
+
+#: inc/classic/patterns/columns.php:128 inc/patterns/columns.php:119
+msgid "3 column cards: image on left"
+msgstr "3 colonnes cartes : image à gauche"
+
+#: inc/classic/patterns/columns.php:110 inc/patterns/columns.php:101
+msgid "3 columns: centered content"
+msgstr "3 colonnes : contenu centré"
+
+#: inc/classic/patterns/columns.php:101 inc/patterns/columns.php:92
+msgid "3 column cards: unstretched image"
+msgstr "3 colonnes cartes : image non étirée"
+
+#: inc/classic/patterns/columns.php:47 inc/patterns/columns.php:38
+msgid "2 columns x 2: image on left"
+msgstr "2 colonnes x 2 : image à gauche"
+
+#: inc/classic/patterns/columns.php:38
+msgid "2 columns: centered content"
+msgstr "2 colonnes : contenu centré"
+
+#: inc/classic/patterns/columns.php:29 inc/patterns/columns.php:29
+msgid "2 column cards: unstretched image"
+msgstr "2 colonnes cartes : image non étirée"
+
+#: inc/classic/patterns/testimonials.php:129 inc/patterns/testimonials.php:147
+msgid "Testimonials 3 columns: card with image"
+msgstr "Témoignages 3 colonnes : carte avec image"
+
+#: inc/classic/patterns/testimonials.php:111
+#: inc/classic/patterns/twentytwenty.php:78 inc/patterns/testimonials.php:129
+msgid "Testimonials 3 columns: card with icon"
+msgstr "Témoignages 3 colonnes : carte avec icône"
+
+#: inc/classic/patterns/pages.php:57 inc/classic/patterns/pages.php:67
+#: inc/classic/patterns/team.php:14 inc/classic/patterns/team.php:23
+#: inc/classic/patterns/team.php:32 inc/classic/patterns/team.php:41
+#: inc/classic/patterns/team.php:50 inc/classic/patterns/team.php:59
+#: inc/classic/patterns/team.php:68 inc/classic/patterns/team.php:77
+#: inc/classic/patterns/team.php:86 inc/classic/patterns/team.php:95
+#: inc/classic/patterns/team.php:104 inc/classic/patterns/team.php:113
+#: inc/classic/patterns/team.php:122 inc/classic/patterns/team.php:131
+#: inc/classic/patterns/testimonials.php:77
+#: inc/classic/patterns/testimonials.php:104
+#: inc/classic/patterns/testimonials.php:140
+#: inc/classic/patterns/twentytwenty.php:62
+#: inc/classic/patterns/twentytwenty.php:71 inc/patterns/pages.php:35
+#: inc/patterns/pages.php:45 inc/patterns/pages.php:66
+#: inc/patterns/pages.php:78 inc/patterns/pages.php:128
+#: inc/patterns/team.php:14 inc/patterns/team.php:23 inc/patterns/team.php:33
+#: inc/patterns/team.php:42 inc/patterns/team.php:51 inc/patterns/team.php:60
+#: inc/patterns/team.php:78 inc/patterns/team.php:87 inc/patterns/team.php:96
+#: inc/patterns/team.php:105 inc/patterns/team.php:114
+#: inc/patterns/team.php:123 inc/patterns/testimonials.php:32
+#: inc/patterns/testimonials.php:41 inc/patterns/testimonials.php:50
+#: inc/patterns/testimonials.php:59 inc/patterns/testimonials.php:68
+#: inc/patterns/testimonials.php:86 inc/patterns/testimonials.php:95
+#: inc/patterns/testimonials.php:122 inc/patterns/testimonials.php:158
+msgctxt "Block pattern content - Referring to a man"
+msgid "Designer"
+msgstr "Designer"
+
+#: inc/classic/patterns/testimonials.php:57 inc/patterns/testimonials.php:66
+msgid "Testimonial: image on right"
+msgstr "Témoignage : image à droite"
+
+#: inc/classic/patterns/testimonials.php:48 inc/patterns/testimonials.php:57
+msgid "Testimonial: image on left"
+msgstr "Témoignage : image à gauche"
+
+#: inc/classic/patterns/testimonials.php:30 inc/patterns/testimonials.php:30
+msgid "Testimonial: colored background"
+msgstr "Témoignage : arrière-plan coloré"
+
+#: inc/classic/patterns/pages.php:57 inc/classic/patterns/pages.php:67
+#: inc/classic/patterns/team.php:23 inc/classic/patterns/team.php:50
+#: inc/classic/patterns/team.php:59 inc/classic/patterns/team.php:68
+#: inc/classic/patterns/team.php:77 inc/classic/patterns/team.php:86
+#: inc/classic/patterns/team.php:95 inc/classic/patterns/testimonials.php:14
+#: inc/classic/patterns/testimonials.php:23
+#: inc/classic/patterns/testimonials.php:77
+#: inc/classic/patterns/testimonials.php:104
+#: inc/classic/patterns/testimonials.php:113
+#: inc/classic/patterns/testimonials.php:122
+#: inc/classic/patterns/testimonials.php:131
+#: inc/classic/patterns/testimonials.php:140
+#: inc/classic/patterns/twentytwenty.php:62
+#: inc/classic/patterns/twentytwenty.php:71
+#: inc/classic/patterns/twentytwenty.php:80 inc/patterns/pages.php:45
+#: inc/patterns/pages.php:66 inc/patterns/pages.php:78 inc/patterns/team.php:23
+#: inc/patterns/team.php:51 inc/patterns/team.php:60 inc/patterns/team.php:78
+#: inc/patterns/team.php:87 inc/patterns/testimonials.php:14
+#: inc/patterns/testimonials.php:23 inc/patterns/testimonials.php:86
+#: inc/patterns/testimonials.php:95 inc/patterns/testimonials.php:122
+#: inc/patterns/testimonials.php:131 inc/patterns/testimonials.php:140
+#: inc/patterns/testimonials.php:149 inc/patterns/testimonials.php:158
+msgctxt "Block pattern content - Referring to a man"
+msgid "Photographer"
+msgstr "Photographe"
+
+#: inc/classic/patterns/pages.php:57 inc/classic/patterns/team.php:14
+#: inc/classic/patterns/team.php:23 inc/classic/patterns/team.php:32
+#: inc/classic/patterns/team.php:41 inc/classic/patterns/team.php:50
+#: inc/classic/patterns/team.php:59 inc/classic/patterns/team.php:68
+#: inc/classic/patterns/team.php:77 inc/classic/patterns/team.php:86
+#: inc/classic/patterns/team.php:95 inc/classic/patterns/team.php:104
+#: inc/classic/patterns/team.php:113 inc/classic/patterns/team.php:122
+#: inc/classic/patterns/team.php:131 inc/classic/patterns/testimonials.php:14
+#: inc/classic/patterns/testimonials.php:23
+#: inc/classic/patterns/testimonials.php:68
+#: inc/classic/patterns/testimonials.php:77
+#: inc/classic/patterns/testimonials.php:86
+#: inc/classic/patterns/testimonials.php:95
+#: inc/classic/patterns/testimonials.php:104
+#: inc/classic/patterns/testimonials.php:113
+#: inc/classic/patterns/testimonials.php:122
+#: inc/classic/patterns/testimonials.php:131
+#: inc/classic/patterns/testimonials.php:140
+#: inc/classic/patterns/twentytwenty.php:62
+#: inc/classic/patterns/twentytwenty.php:71
+#: inc/classic/patterns/twentytwenty.php:80 inc/patterns/pages.php:45
+#: inc/patterns/pages.php:66 inc/patterns/team.php:14 inc/patterns/team.php:23
+#: inc/patterns/team.php:33 inc/patterns/team.php:42 inc/patterns/team.php:51
+#: inc/patterns/team.php:60 inc/patterns/team.php:78 inc/patterns/team.php:87
+#: inc/patterns/team.php:96 inc/patterns/team.php:105 inc/patterns/team.php:114
+#: inc/patterns/team.php:123 inc/patterns/testimonials.php:14
+#: inc/patterns/testimonials.php:23 inc/patterns/testimonials.php:77
+#: inc/patterns/testimonials.php:86 inc/patterns/testimonials.php:95
+#: inc/patterns/testimonials.php:104 inc/patterns/testimonials.php:113
+#: inc/patterns/testimonials.php:122 inc/patterns/testimonials.php:131
+#: inc/patterns/testimonials.php:140 inc/patterns/testimonials.php:149
+#: inc/patterns/testimonials.php:158 inc/patterns/testimonials.php:167
+msgctxt "Block pattern content - Referring to a woman"
+msgid "Developer"
+msgstr "Développeuse"
+
+#: inc/classic/patterns/pages.php:37 inc/classic/patterns/testimonials.php:14
+#: inc/classic/patterns/testimonials.php:23
+#: inc/classic/patterns/testimonials.php:32
+#: inc/classic/patterns/testimonials.php:41
+#: inc/classic/patterns/testimonials.php:50
+#: inc/classic/patterns/testimonials.php:59
+#: inc/classic/patterns/testimonials.php:68
+#: inc/classic/patterns/testimonials.php:77
+#: inc/classic/patterns/testimonials.php:86
+#: inc/classic/patterns/testimonials.php:95
+#: inc/classic/patterns/testimonials.php:104
+#: inc/classic/patterns/testimonials.php:113
+#: inc/classic/patterns/testimonials.php:122
+#: inc/classic/patterns/testimonials.php:131
+#: inc/classic/patterns/testimonials.php:140
+#: inc/classic/patterns/twentytwenty.php:62
+#: inc/classic/patterns/twentytwenty.php:71
+#: inc/classic/patterns/twentytwenty.php:80
+#: inc/classic/patterns/twentytwenty.php:89 inc/patterns/pages.php:45
+#: inc/patterns/testimonials.php:14 inc/patterns/testimonials.php:23
+#: inc/patterns/testimonials.php:77 inc/patterns/testimonials.php:86
+#: inc/patterns/testimonials.php:95 inc/patterns/testimonials.php:104
+#: inc/patterns/testimonials.php:113 inc/patterns/testimonials.php:122
+#: inc/patterns/testimonials.php:131 inc/patterns/testimonials.php:140
+#: inc/patterns/testimonials.php:149 inc/patterns/testimonials.php:158
+#: inc/patterns/testimonials.php:167
+msgctxt "Block pattern content - Referring to a man"
+msgid "Teacher"
+msgstr "Professeur"
+
+#: inc/block-presets.php:120
+msgid "Add a black & white filter to the images."
+msgstr "Ajouter un filtre noir et blanc aux images."
+
+#: inc/block-presets.php:110 inc/block-presets.php:116
+msgid "Make the font size of the caption larger."
+msgstr "Augmenter la taille de police des légendes."
+
+#: inc/block-presets.php:100 inc/block-presets.php:109
+#: inc/block-presets.php:113
+msgid "Add a black & white filter to the image."
+msgstr "Ajouter un filtre noir et blanc à l’image."
+
+#: inc/block-presets.php:106 inc/block-presets.php:148
+msgid "Make the corners of the image rounded."
+msgstr "Arrondir les coins de l’image."
+
+#: inc/block-presets.php:103
+msgid "Limit the media width when the media and the text are stacked."
+msgstr "Limiter la largeur du média lorsque le média et le texte sont empilés."
+
+#: inc/block-presets.php:147
+msgid "Make the corners of the cards rounded."
+msgstr "Arrondir les coins des cartes."
+
+#: inc/block-presets.php:75 inc/block-presets.php:91 inc/block-presets.php:105
+msgid "Make the corners of the block rounded."
+msgstr "Arrondir les coins du bloc."
+
+#: inc/block-presets.php:70
+msgid "Make the block full height."
+msgstr "Mettre le bloc en pleine hauteur."
+
+#: inc/block-presets.php:67
+msgid "Vertically align top the text in the cells."
+msgstr "Aligner verticalement en haut le texte dans les cellules."
+
+#: inc/classic/twentytwenty/block-editor.php:342
+#: inc/classic/twentytwenty/block-editor.php:343
+#: inc/classic/twentytwentyone/block-editor.php:372
+#: inc/classic/twentytwentyone/block-editor.php:373
+msgid "Make the block wide width."
+msgstr "Mettre le bloc en grande largeur."
+
+#: inc/block-presets.php:33
+msgid "Add a border below the heading."
+msgstr "Ajouter une bordure sous le titre."
+
+#: inc/block-presets.php:22 inc/block-presets.php:39
+msgid "Make the corners of the block rounded if a background color is set."
+msgstr "Arrondir les coins du bloc si une couleur d’arrière-plan est définie."
+
+#: inc/block-presets.php:16 inc/block-presets.php:38
+msgid "Make the text small and uppercase."
+msgstr "Passer le texte en petit et en majuscules."
+
+#: inc/classic/twentytwenty/customizer.php:2241
+#: inc/classic/twentytwentyone/customizer.php:2608
+msgid "Get more for free"
+msgstr "Obtenez plus gratuitement"
+
+#: inc/classic/twentytwenty/customizer.php:2195
+msgid "Logos Only - Large Size"
+msgstr "Logos uniquement - grande taille"
+
+#: inc/classic/twentytwenty/customizer.php:2171
+msgid "Mobile Menu"
+msgstr "Menu sur mobile"
+
+#: inc/classic/twentytwenty/customizer.php:2170
+msgid "Desktop Expanded Menu"
+msgstr "Menu étendu grands écrans"
+
+#: inc/classic/twentytwenty/customizer.php:2131
+msgid "Make the button text uppercase"
+msgstr "Passer le texte du bouton en majuscules"
+
+#: inc/classic/twentytwenty/customizer.php:2093
+#: inc/classic/twentytwentyone/customizer.php:2501
+msgctxt "button shape"
+msgid "Pill"
+msgstr "Pilule"
+
+#: inc/classic/twentytwenty/customizer.php:2092
+#: inc/classic/twentytwentyone/customizer.php:2500
+msgctxt "button shape"
+msgid "Rounded"
+msgstr "Arrondi"
+
+#: inc/classic/twentytwenty/customizer.php:2091
+#: inc/classic/twentytwentyone/customizer.php:2499
+msgctxt "button shape"
+msgid "Square"
+msgstr "Carré"
+
+#: inc/classic/twentytwenty/customizer.php:2070
+#: inc/classic/twentytwentyone/customizer.php:2455
+msgctxt "style"
+msgid "Minimal"
+msgstr "Minimal"
+
+#: inc/classic/twentytwenty/customizer.php:2007
+#: inc/classic/twentytwentyone/customizer.php:2347
+msgctxt "navigation"
+msgid "None"
+msgstr "Aucune"
+
+#: inc/classic/twentytwenty/customizer.php:1873
+#: inc/classic/twentytwenty/customizer.php:1980
+msgid "Categories above Title"
+msgstr "Catégories au-dessus du titre"
+
+#: inc/classic/twentytwenty/customizer.php:1839
+#: inc/classic/twentytwentyone/customizer.php:1910 dist/index.js:1
+msgctxt "image aspect ratio"
+msgid "Original"
+msgstr "Originale"
+
+#: inc/classic/twentytwenty/customizer.php:1738
+#: inc/classic/twentytwentyone/customizer.php:1476
+#: inc/classic/twentytwentyone/customizer.php:1824
+msgid "Columns"
+msgstr "Colonnes"
+
+#: inc/classic/twentytwenty/customizer.php:1697
+#: inc/classic/twentytwentyone/customizer.php:1722
+msgid "Posts Page"
+msgstr "Page des articles"
+
+#: inc/classic/twentytwenty/customizer.php:1620
+#: inc/classic/twentytwentyone/customizer.php:1645
+msgid "Search Page"
+msgstr "Page de recherche"
+
+#. translators: link to cover template panel
+#: inc/classic/twentytwenty/customizer.php:1609
+#: inc/classic/twentytwenty/customizer.php:1935
+msgid "Visit the <a href=\"%s\">Cover Template panel</a> if you want to change the settings of the cover."
+msgstr "Consultez le <a href=\"%s\">panneau Modèle avec bannière</a> si vous souhaitez modifier les réglages de la bannière."
+
+#: inc/classic/twentytwenty/customizer.php:1604
+#: inc/classic/twentytwenty/customizer.php:1930
+#: inc/classic/twentytwentyone/customizer.php:1550
+#: inc/classic/twentytwentyone/customizer.php:2145
+msgid "Full Width"
+msgstr "Pleine largeur"
+
+#: inc/classic/twentytwenty/customizer.php:1603
+#: inc/classic/twentytwenty/customizer.php:1929
+#: inc/classic/twentytwentyone/customizer.php:1549
+#: inc/classic/twentytwentyone/customizer.php:2144
+msgctxt "image width"
+msgid "Narrow"
+msgstr "Étroite"
+
+#: inc/classic/twentytwenty/customizer.php:1526
+#: inc/classic/twentytwentyone/customizer.php:1357
+msgid "Custom Credit"
+msgstr "Crédit personnalisé"
+
+#: inc/classic/twentytwenty/customizer.php:1510
+#: inc/classic/twentytwentyone/customizer.php:1341
+msgctxt "footer credit"
+msgid "None"
+msgstr "Aucun"
+
+#: inc/classic/twentytwenty/customizer.php:1509
+#: inc/classic/twentytwentyone/customizer.php:1340
+msgctxt "footer credit"
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: inc/classic/twentytwenty/customizer.php:1351
+msgctxt "layout"
+msgid "Hidden"
+msgstr "Masquée"
+
+#: inc/classic/twentytwenty/customizer.php:1348
+msgctxt "layout"
+msgid "Inline Center"
+msgstr "En ligne centrée"
+
+#: inc/classic/twentytwenty/customizer.php:1347
+msgid "Inline with Menu on Right"
+msgstr "En ligne avec menu à droite"
+
+#: inc/classic/twentytwenty/customizer.php:1346
+msgid "Inline with Menu on Left"
+msgstr "En ligne avec menu à gauche"
+
+#: inc/classic/twentytwenty/customizer.php:1234
+#: inc/classic/twentytwenty/customizer.php:2113
+msgctxt "adjective"
+msgid "Underline"
+msgstr "Souligné"
+
+#: inc/classic/twentytwenty/customizer.php:1233 dist/index.js:1
+msgctxt "style"
+msgid "None"
+msgstr "Aucun"
+
+#: inc/classic/twentytwenty/customizer.php:1191
+#: inc/classic/twentytwentyone/customizer.php:1124
+msgctxt "spacing"
+msgid "Large"
+msgstr "Grand"
+
+#: inc/classic/twentytwenty/customizer.php:1190
+#: inc/classic/twentytwentyone/customizer.php:1123
+msgctxt "spacing"
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/classic/twentytwenty/customizer.php:1189
+#: inc/classic/twentytwentyone/customizer.php:1122
+msgctxt "spacing"
+msgid "Small"
+msgstr "Petit"
+
+#: inc/classic/twentytwenty/customizer.php:1150
+#: inc/classic/twentytwentyone/customizer.php:1061
+msgctxt "decoration"
+msgid "None"
+msgstr "Aucune"
+
+#: inc/classic/twentytwenty/customizer.php:1112
+#: inc/classic/twentytwenty/customizer.php:1419
+#: inc/classic/twentytwentyone/customizer.php:1000
+#: inc/classic/twentytwentyone/customizer.php:1319
+#: inc/classic/twentytwentyone/customizer.php:1504
+msgctxt "width"
+msgid "Full"
+msgstr "Pleine"
+
+#: inc/classic/twentytwenty/customizer.php:1111
+#: inc/classic/twentytwenty/customizer.php:1418
+msgctxt "width"
+msgid "Wider (1680px)"
+msgstr "Très large (1680px)"
+
+#: inc/classic/twentytwenty/customizer.php:1110
+#: inc/classic/twentytwenty/customizer.php:1417
+msgctxt "width"
+msgid "Wide (1200px)"
+msgstr "Large (1200px)"
+
+#: inc/classic/twentytwenty/customizer.php:1089
+#: inc/classic/twentytwenty/customizer.php:1349
+#: inc/classic/twentytwenty/customizer.php:1642
+#: inc/classic/twentytwenty/customizer.php:1719
+#: inc/classic/twentytwentyone/customizer.php:1272
+#: inc/classic/twentytwentyone/customizer.php:1761
+msgctxt "layout"
+msgid "Stack"
+msgstr "Empilée"
+
+#: inc/classic/twentytwenty/customizer.php:1088
+#: inc/classic/twentytwentyone/customizer.php:976
+msgid "Menu on Left"
+msgstr "Menu à gauche"
+
+#: inc/classic/twentytwenty/customizer.php:907
+#: inc/classic/twentytwenty/customizer.php:1009
+#: inc/classic/twentytwentyone/customizer.php:772
+#: inc/classic/twentytwentyone/customizer.php:898
+#: inc/classic/twentytwentyone/customizer.php:2543
+msgctxt "text transform"
+msgid "None"
+msgstr "Aucune"
+
+#: inc/classic/twentytwenty/customizer.php:857
+#: inc/classic/twentytwentyone/customizer.php:720
+msgid "Site Title Font Size on Mobile (px)"
+msgstr "Taille de police du titre du site sur mobile (px)"
+
+#: inc/classic/twentytwenty/customizer.php:669
+#: inc/classic/twentytwenty/customizer.php:989
+msgctxt "font size"
+msgid "Larger"
+msgstr "Très grande"
+
+#: inc/classic/twentytwenty/customizer.php:646
+msgctxt "letter spacing"
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/classic/twentytwenty/customizer.php:645
+msgctxt "letter spacing"
+msgid "Tight"
+msgstr "Serré"
+
+#: inc/classic/twentytwenty/customizer.php:517
+msgctxt "line height"
+msgid "Loose"
+msgstr "Ample"
+
+#: inc/classic/twentytwenty/customizer.php:516
+msgctxt "line height"
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/classic/twentytwenty/customizer.php:515
+msgctxt "line height"
+msgid "Tight"
+msgstr "Serré"
+
+#: inc/classic/twentytwenty/customizer.php:495
+#: inc/classic/twentytwenty/customizer.php:668
+#: inc/classic/twentytwenty/customizer.php:988
+#: inc/classic/twentytwenty/customizer.php:1453 dist/index.js:1
+msgctxt "font size"
+msgid "Large"
+msgstr "Grande"
+
+#: inc/classic/twentytwenty/customizer.php:494
+#: inc/classic/twentytwenty/customizer.php:667
+#: inc/classic/twentytwenty/customizer.php:987
+#: inc/classic/twentytwenty/customizer.php:1452 dist/index.js:1
+msgctxt "font size"
+msgid "Medium"
+msgstr "Moyenne"
+
+#: inc/classic/twentytwenty/customizer.php:493
+#: inc/classic/twentytwenty/customizer.php:666
+#: inc/classic/twentytwenty/customizer.php:986
+#: inc/classic/twentytwenty/customizer.php:1451 dist/index.js:1
+msgctxt "font size"
+msgid "Small"
+msgstr "Petite"
+
+#: inc/classic/twentytwenty/customizer.php:359
+msgctxt "text width"
+msgid "Wide"
+msgstr "Large"
+
+#: inc/classic/twentytwenty/customizer.php:358
+msgctxt "text width"
+msgid "Medium"
+msgstr "Moyenne"
+
+#: inc/classic/twentytwenty/customizer.php:357
+msgctxt "text width"
+msgid "Narrow (default)"
+msgstr "Étroite (par défaut)"
+
+#: inc/classic/twentytwenty/customizer.php:290
+msgid "Display scroll indicator on page cover"
+msgstr "Afficher l’indicateur de défilement pour la bannière de page"
+
+#: inc/classic/twentytwenty/customizer.php:273
+#: inc/classic/twentytwenty/customizer.php:312
+msgctxt "height"
+msgid "Full"
+msgstr "Pleine"
+
+#: inc/classic/twentytwenty/customizer.php:272
+#: inc/classic/twentytwenty/customizer.php:311
+msgctxt "height"
+msgid "Medium"
+msgstr "Moyenne"
+
+#: inc/classic/twentytwenty/customizer.php:124
+msgid "Custom Hexadecimal Color"
+msgstr "Couleur hexadécimale personnalisée"
+
+#: inc/classic/twentytwenty/customizer.php:103
+#: inc/classic/twentytwentyone/customizer.php:138
+msgid "Logo Width on Mobile (px)"
+msgstr "Largeur du logo sur mobile (px)"
+
+#: inc/classic/theme-tools/class-twentig-page-templater.php:50
+msgctxt "page template name"
+msgid "Twentig - Transparent header light"
+msgstr "Twentig - En-tête transparent clair"
+
+#: inc/classic/theme-tools/class-twentig-page-templater.php:49
+msgctxt "page template name"
+msgid "Twentig - Transparent header"
+msgstr "Twentig - En-tête transparent"
+
+#: inc/classic/theme-tools/class-twentig-page-templater.php:48
+msgctxt "page template name"
+msgid "Twentig - No header, no footer"
+msgstr "Twentig - Pas d’en-tête, pas de pied de page"
+
+#: inc/classic/theme-tools/class-twentig-page-templater.php:47
+msgctxt "page template name"
+msgid "Twentig - No title"
+msgstr "Twentig - Pas de titre"
+
+#: inc/block-styles.php:581 dist/index.js:1
+msgid "Top border"
+msgstr "Bordure supérieure"
+
+#: inc/classic/twentytwentyone/customizer.php:1807 dist/index.js:1
+msgid "Card with border"
+msgstr "Carte avec bordure"
+
+#: inc/classic/twentytwentyone/customizer.php:1806 dist/index.js:1
+msgid "Card with shadow"
+msgstr "Carte avec ombre"
+
+#: inc/classic/twentytwenty/customizer.php:1877
+#: inc/classic/twentytwenty/customizer.php:1984
+#: inc/classic/twentytwentyone/customizer.php:2051
+#: inc/classic/twentytwentyone/customizer.php:2296
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commentaire"
+
+#: inc/classic/twentytwenty/customizer.php:1721
+msgid "Card Grid"
+msgstr "Grille de cartes"
+
+#. translators: link to theme options panel
+#: inc/classic/twentytwenty/customizer.php:1298
+#: inc/classic/twentytwenty/customizer.php:1555
+msgid "Visit the <a href=\"%s\">Additional Settings panel</a> to set the locations and style of the social icons."
+msgstr "Consultez le <a href=\"%s\">panneau des Réglages supplémentaires </a> pour définir les emplacements et le style des icônes de réseaux sociaux."
+
+#: inc/classic/twentytwenty/customizer.php:1447
+msgid "Footer Font Size"
+msgstr "Taille de police du pied de page"
+
+#: inc/classic/twentytwenty/customizer.php:1246
+msgid "Menu & Search Buttons"
+msgstr "Boutons de menu et de recherche"
+
+#: inc/classic/twentytwenty/customizer.php:324
+#: inc/classic/twentytwentyone/customizer.php:280
+msgid "Twentig Options"
+msgstr "Options Twentig"
+
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:54
+msgid "Pages"
+msgstr "Pages"
+
+#: inc/classic/patterns/gallery.php:12 inc/patterns/gallery.php:12
+msgid "Gallery: stack"
+msgstr "Galerie : empilement"
+
+#: inc/block-styles.php:273
+msgid "Card"
+msgstr "Carte"
+
+#: inc/classic/twentytwenty/block-editor.php:357
+msgid "Large icon"
+msgstr "Grande icône"
+
+#: inc/block-styles.php:290
+msgid "Icon"
+msgstr "Icône"
+
+#: inc/block-styles.php:264
+msgid "Horizontal inner border"
+msgstr "Bordure intérieure horizontale"
+
+#: inc/block-styles.php:256
+msgid "Horizontal border"
+msgstr "Bordure horizontale"
+
+#: inc/classic/twentytwentyone/customizer.php:1271
+msgid "Inline"
+msgstr "En ligne"
+
+#: inc/block-styles.php:231
+msgid "Table"
+msgstr "Tableau"
+
+#: inc/block-styles.php:207
+msgid "Arrow"
+msgstr "Flèche"
+
+#: inc/block-styles.php:199
+msgid "Checkmark"
+msgstr "Coche"
+
+#: inc/block-styles.php:191
+msgid "Dash"
+msgstr "Tiret"
+
+#: inc/block-styles.php:164
+msgid "Subtle Border"
+msgstr "Bordure subtile"
+
+#: inc/block-styles.php:57 inc/block-styles.php:223
+msgid "Inner border"
+msgstr "Bordure intérieure"
+
+#: inc/block-styles.php:31 inc/block-styles.php:73 inc/block-styles.php:98
+#: inc/block-styles.php:148 inc/block-styles.php:573 inc/block-styles.php:608
+#: dist/index.js:1
+msgid "Hard shadow"
+msgstr "Ombre dure"
+
+#: inc/classic/patterns/call-to-action.php:84
+#: inc/patterns/call-to-action.php:75
+msgid "CTA: 2 columns"
+msgstr "CTA : 2 colonnes"
+
+#: inc/classic/patterns/call-to-action.php:75
+#: inc/patterns/call-to-action.php:66
+msgid "CTA: horizontal card"
+msgstr "CTA : carte horizontale"
+
+#: inc/classic/patterns/call-to-action.php:50
+#: inc/classic/patterns/call-to-action.php:86 inc/classic/patterns/pages.php:17
+#: inc/classic/patterns/pages.php:27 inc/classic/patterns/pages.php:57
+#: inc/classic/patterns/pages.php:87 inc/classic/patterns/pages.php:97
+msgctxt "Block pattern content"
+msgid "Write a call to action heading to engage your audience"
+msgstr "Rédigez un titre d’appel à l’action pour engager votre audience"
+
+#: inc/classic/patterns/call-to-action.php:48
+msgid "CTA: cover"
+msgstr "CTA : bannière"
+
+#: inc/classic/patterns/call-to-action.php:14
+#: inc/classic/patterns/call-to-action.php:41
+#: inc/classic/patterns/call-to-action.php:59
+#: inc/patterns/call-to-action.php:14 inc/patterns/call-to-action.php:41
+#: inc/patterns/call-to-action.php:50 inc/patterns/call-to-action.php:77
+#: inc/patterns/pages.php:15 inc/patterns/pages.php:25
+#: inc/patterns/pages.php:66 inc/patterns/pages.php:108
+#: inc/patterns/pages.php:118
+msgctxt "Block pattern content"
+msgid "Write a call to action heading"
+msgstr "Rédigez un titre d’appel à l’action"
+
+#: inc/classic/patterns/columns.php:173 inc/patterns/columns.php:146
+msgid "4 columns: circle image"
+msgstr "4 colonnes : image circulaire"
+
+#: inc/classic/patterns/columns.php:155 inc/patterns/columns.php:128
+msgid "4 columns"
+msgstr "4 colonnes"
+
+#: inc/classic/patterns/columns.php:146
+msgid "3 columns x 2"
+msgstr "3 colonnes x 2"
+
+#: inc/classic/patterns/columns.php:137
+msgid "3 column cards: cover"
+msgstr "3 colonnes cartes : bannière"
+
+#: inc/classic/patterns/columns.php:119 inc/patterns/columns.php:110
+msgid "3 columns: circle image"
+msgstr "3 colonnes : image circulaire"
+
+#: inc/classic/patterns/columns.php:92 inc/patterns/columns.php:83
+msgid "3 column cards"
+msgstr "3 colonnes cartes"
+
+#: inc/classic/patterns/columns.php:83 inc/patterns/columns.php:74
+msgid "3 columns"
+msgstr "3 colonnes"
+
+#: inc/classic/patterns/columns.php:74 inc/patterns/columns.php:65
+msgid "2 columns x 2"
+msgstr "2 colonnes x 2"
+
+#: inc/classic/patterns/columns.php:65 inc/patterns/columns.php:56
+msgid "2 column cards: cover"
+msgstr "2 colonnes cartes : bannière"
+
+#: inc/classic/patterns/columns.php:56 inc/patterns/columns.php:47
+msgid "2 columns: middle alignment"
+msgstr "2 colonnes : alignement au milieu"
+
+#: inc/classic/patterns/columns.php:20 inc/patterns/columns.php:20
+msgid "2 column cards"
+msgstr "2 colonnes cartes"
+
+#: inc/classic/patterns/columns.php:11 inc/patterns/columns.php:11
+msgid "2 columns"
+msgstr "2 colonnes"
+
+#: inc/classic/patterns/text.php:164 inc/patterns/text.php:92
+msgid "4 text columns"
+msgstr "4 colonnes de texte"
+
+#: inc/classic/patterns/text.php:155 inc/patterns/text.php:83
+msgid "3 text columns x 2: top border"
+msgstr "3 colonnes de texte x 2 : bordure supérieure"
+
+#: inc/classic/patterns/text.php:146
+msgid "3 text columns x 2"
+msgstr "3 colonnes de texte x 2"
+
+#: inc/classic/patterns/text.php:128 inc/patterns/text.php:65
+msgid "3 text columns"
+msgstr "3 colonnes de texte"
+
+#: inc/classic/patterns/text.php:119
+msgid "2 text columns: index"
+msgstr "2 colonnes de texte : index"
+
+#: inc/classic/patterns/text.php:110 inc/patterns/text.php:56
+msgid "2 text columns x 2"
+msgstr "2 colonnes de texte x 2"
+
+#: inc/classic/patterns/text.php:101 inc/patterns/text.php:47
+msgid "2 text columns"
+msgstr "2 colonnes de texte"
+
+#: inc/classic/patterns/numbers.php:56
+msgid "Numbers: 4 columns"
+msgstr "Nombres : 4 colonnes"
+
+#: inc/classic/patterns/numbers.php:47 inc/patterns/numbers.php:74
+msgid "Numbers: 3 columns with top border"
+msgstr "Nombres : 3 colonnes avec bordure supérieure"
+
+#: inc/classic/patterns/numbers.php:38 inc/patterns/numbers.php:56
+msgid "Numbers: 3 columns"
+msgstr "Nombres : 3 colonnes"
+
+#: inc/classic/patterns/numbers.php:20
+msgid "Stats: 4 columns"
+msgstr "Statistiques : 4 colonnes"
+
+#: inc/classic/patterns/numbers.php:11 inc/patterns/numbers.php:11
+msgid "Stats: 3 columns"
+msgstr "Statistiques : 3 colonnes"
+
+#: inc/classic/patterns/testimonials.php:138 inc/patterns/testimonials.php:156
+msgid "Testimonials 4 columns: thumbnail"
+msgstr "Témoignages 4 colonnes : miniature"
+
+#: inc/classic/patterns/testimonials.php:120 inc/patterns/testimonials.php:138
+msgid "Testimonials 3 columns: card with thumbnail"
+msgstr "Témoignages 3 colonnes : carte avec miniature"
+
+#: inc/classic/patterns/testimonials.php:102
+#: inc/classic/patterns/twentytwenty.php:69 inc/patterns/testimonials.php:120
+msgid "Testimonials 3 columns x 2"
+msgstr "Témoignages 3 colonnes x 2"
+
+#: inc/classic/patterns/testimonials.php:93 inc/patterns/testimonials.php:111
+msgid "Testimonials 2 columns: cover"
+msgstr "Témoignages 2 colonnes : bannière"
+
+#: inc/classic/patterns/testimonials.php:84 inc/patterns/testimonials.php:102
+msgid "Testimonials 2 columns: image"
+msgstr "Témoignages 2 colonnes : image"
+
+#: inc/classic/patterns/testimonials.php:77
+#: inc/classic/patterns/testimonials.php:104
+#: inc/classic/patterns/testimonials.php:113
+#: inc/classic/patterns/testimonials.php:140
+#: inc/classic/patterns/twentytwenty.php:62
+#: inc/classic/patterns/twentytwenty.php:71
+#: inc/classic/patterns/twentytwenty.php:80 inc/patterns/testimonials.php:86
+#: inc/patterns/testimonials.php:122 inc/patterns/testimonials.php:131
+#: inc/patterns/testimonials.php:158 inc/patterns/testimonials.php:167
+msgctxt "Block pattern content"
+msgid "What our customers are saying about us"
+msgstr "Ce que nos clients disent de nous"
+
+#: inc/classic/patterns/testimonials.php:75
+#: inc/classic/patterns/twentytwenty.php:60 inc/patterns/testimonials.php:84
+msgid "Testimonials 2 columns x 2"
+msgstr "Témoignages 2 colonnes x 2"
+
+#: inc/classic/patterns/testimonials.php:66 inc/patterns/testimonials.php:75
+msgid "Testimonials: overlap image"
+msgstr "Témoignages : chevauchement d’image"
+
+#: inc/classic/patterns/testimonials.php:39 inc/patterns/testimonials.php:48
+msgid "Testimonial: cover"
+msgstr "Témoignage : bannière"
+
+#: inc/classic/patterns/testimonials.php:21 inc/patterns/testimonials.php:21
+msgid "Testimonials: list with large quote"
+msgstr "Témoignages : liste avec grande citation"
+
+#: inc/classic/patterns/testimonials.php:14
+#: inc/classic/patterns/testimonials.php:23
+#: inc/classic/patterns/testimonials.php:68
+#: inc/classic/patterns/testimonials.php:86
+#: inc/classic/patterns/testimonials.php:122
+#: inc/classic/patterns/testimonials.php:131 inc/patterns/pages.php:45
+#: inc/patterns/testimonials.php:14 inc/patterns/testimonials.php:77
+#: inc/patterns/testimonials.php:95 inc/patterns/testimonials.php:104
+#: inc/patterns/testimonials.php:140 inc/patterns/testimonials.php:149
+msgctxt "Block pattern content"
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: inc/classic/patterns/testimonials.php:12 inc/patterns/testimonials.php:12
+msgid "Testimonials: list with separator"
+msgstr "Témoignages : liste avec séparateur"
+
+#: inc/classic/patterns/events.php:56 inc/patterns/events.php:47
+msgid "Schedule: list with description"
+msgstr "Programme : liste avec description"
+
+#: inc/classic/patterns/events.php:47
+msgid "Schedule: list"
+msgstr "Programme : liste"
+
+#: inc/classic/patterns/events.php:38 inc/patterns/events.php:38
+msgid "Schedule: table"
+msgstr "Programme : tableau"
+
+#: inc/classic/patterns/events.php:31 inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Fourth event"
+msgstr "Quatrième évènement"
+
+#: inc/classic/patterns/events.php:29 inc/patterns/events.php:29
+msgid "Events: column cards"
+msgstr "Évènements : colonnes cartes"
+
+#: inc/classic/patterns/events.php:13 inc/classic/patterns/events.php:22
+#: inc/classic/patterns/events.php:31 inc/patterns/events.php:13
+#: inc/patterns/events.php:22 inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Saturday, December 12"
+msgstr "Samedi 12 décembre"
+
+#: inc/classic/patterns/events.php:13 inc/classic/patterns/events.php:22
+#: inc/classic/patterns/events.php:31 inc/patterns/events.php:13
+#: inc/patterns/events.php:22 inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Third event"
+msgstr "Troisième évènement"
+
+#: inc/classic/patterns/events.php:13 inc/classic/patterns/events.php:22
+#: inc/classic/patterns/events.php:31 inc/classic/patterns/single-page.php:65
+#: inc/patterns/events.php:13 inc/patterns/events.php:22
+#: inc/patterns/events.php:31 inc/patterns/single-page.php:106
+msgctxt "Block pattern content"
+msgid "Monday, October 24"
+msgstr "Lundi 24 octobre"
+
+#: inc/classic/patterns/events.php:13 inc/classic/patterns/events.php:22
+#: inc/classic/patterns/events.php:31 inc/patterns/events.php:13
+#: inc/patterns/events.php:22 inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Second event"
+msgstr "Deuxième évènement"
+
+#: inc/classic/patterns/events.php:13 inc/classic/patterns/events.php:22
+#: inc/classic/patterns/events.php:31 inc/patterns/events.php:13
+#: inc/patterns/events.php:22 inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Friday, September 18"
+msgstr "Vendredi 18 septembre"
+
+#: inc/classic/patterns/events.php:13 inc/classic/patterns/events.php:22
+#: inc/classic/patterns/events.php:31 inc/patterns/events.php:13
+#: inc/patterns/events.php:22 inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "First event"
+msgstr "Premier évènement"
+
+#: inc/classic/patterns/events.php:13 inc/classic/patterns/events.php:22
+#: inc/classic/patterns/events.php:31 inc/patterns/events.php:13
+#: inc/patterns/events.php:22 inc/patterns/events.php:31
+msgctxt "Block pattern content"
+msgid "Our events"
+msgstr "Nos évènements"
+
+#: inc/classic/patterns/events.php:11 inc/patterns/events.php:11
+msgid "Events: list"
+msgstr "Évènements : liste"
+
+#: inc/classic/patterns/contact.php:124
+msgctxt "Block pattern content"
+msgid "Closed"
+msgstr "Fermé"
+
+#: inc/classic/patterns/contact.php:124 inc/classic/patterns/events.php:67
+#: inc/patterns/contact.php:113 inc/patterns/events.php:58
+msgctxt "Block pattern content"
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: inc/classic/patterns/contact.php:124 inc/classic/patterns/events.php:67
+#: inc/patterns/contact.php:113 inc/patterns/events.php:58
+msgctxt "Block pattern content"
+msgid "Saturday"
+msgstr "Samedi"
+
+#: inc/classic/patterns/contact.php:124 inc/classic/patterns/events.php:67
+#: inc/patterns/contact.php:113 inc/patterns/events.php:58
+msgctxt "Block pattern content"
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: inc/classic/patterns/contact.php:124 inc/patterns/contact.php:113
+msgctxt "Block pattern content"
+msgid "9am - 4pm"
+msgstr "9h-16h"
+
+#: inc/classic/patterns/contact.php:124 inc/classic/patterns/events.php:67
+#: inc/patterns/contact.php:113 inc/patterns/events.php:58
+msgctxt "Block pattern content"
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: inc/classic/patterns/contact.php:124 inc/classic/patterns/events.php:67
+#: inc/patterns/contact.php:113 inc/patterns/events.php:58
+msgctxt "Block pattern content"
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: inc/classic/patterns/contact.php:124 inc/patterns/contact.php:113
+msgctxt "Block pattern content"
+msgid "9am - 7pm"
+msgstr "9h-19h"
+
+#: inc/classic/patterns/contact.php:124 inc/classic/patterns/events.php:67
+#: inc/patterns/contact.php:113 inc/patterns/events.php:58
+msgctxt "Block pattern content"
+msgid "Monday"
+msgstr "Lundi"
+
+#: inc/classic/patterns/contact.php:43 inc/classic/patterns/contact.php:88
+#: inc/classic/patterns/contact.php:124 inc/classic/patterns/contact.php:133
+#: inc/classic/patterns/single-page.php:75 inc/patterns/contact.php:41
+#: inc/patterns/contact.php:86 inc/patterns/contact.php:113
+#: inc/patterns/contact.php:122
+msgctxt "Block pattern content"
+msgid "Opening hours"
+msgstr "Horaires d’ouverture"
+
+#: inc/classic/patterns/contact.php:113 inc/patterns/contact.php:102
+msgid "Contact: cover"
+msgstr "Contact : bannière"
+
+#: inc/classic/patterns/contact.php:97 inc/patterns/contact.php:95
+msgctxt "Block pattern contact content"
+msgid "Press"
+msgstr "Presse"
+
+#: inc/classic/patterns/contact.php:97 inc/patterns/contact.php:95
+msgctxt "Block pattern contact content"
+msgid "Careers"
+msgstr "Carrières"
+
+#: inc/classic/patterns/contact.php:97 inc/patterns/contact.php:95
+msgctxt "Block pattern contact content"
+msgid "General"
+msgstr "Général"
+
+#: inc/classic/patterns/contact.php:95 inc/patterns/contact.php:93
+msgid "Contact: 4 columns"
+msgstr "Contact : 4 colonnes"
+
+#: inc/classic/patterns/contact.php:86 inc/patterns/contact.php:84
+msgid "Contact: 3 columns"
+msgstr "Contact : 3 colonnes"
+
+#: inc/classic/patterns/contact.php:79 inc/classic/patterns/contact.php:97
+#: inc/classic/patterns/pages.php:117 inc/classic/patterns/pages.php:127
+#: inc/patterns/contact.php:77 inc/patterns/contact.php:95
+#: inc/patterns/pages.php:159 inc/patterns/pages.php:169
+msgctxt "Block pattern content"
+msgid "Social"
+msgstr "Réseaux sociaux"
+
+#: inc/classic/patterns/contact.php:61 inc/classic/patterns/pages.php:127
+#: inc/patterns/contact.php:59 inc/patterns/pages.php:169
+#: inc/patterns/single-page.php:96
+msgctxt "Block pattern content"
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/classic/patterns/contact.php:61 inc/classic/patterns/pages.php:127
+#: inc/patterns/contact.php:59 inc/patterns/pages.php:169
+msgctxt "Block pattern content"
+msgid "Phone"
+msgstr "Téléphone"
+
+#: inc/classic/patterns/contact.php:52 inc/patterns/contact.php:50
+#: inc/patterns/pages.php:149 inc/patterns/posts.php:34
+msgctxt "Block pattern content"
+msgid "Follow us"
+msgstr "Suivez-nous"
+
+#: inc/classic/patterns/contact.php:50 inc/patterns/contact.php:48
+msgid "Contact: 2 columns"
+msgstr "Contact : 2 colonnes"
+
+#: inc/classic/patterns/contact.php:43 inc/classic/patterns/contact.php:52
+#: inc/classic/patterns/contact.php:70 inc/classic/patterns/contact.php:79
+#: inc/classic/patterns/contact.php:88 inc/classic/patterns/contact.php:124
+#: inc/classic/patterns/pages.php:117 inc/classic/patterns/single-page.php:25
+#: inc/classic/patterns/single-page.php:55
+#: inc/classic/patterns/single-page.php:75 inc/patterns/contact.php:41
+#: inc/patterns/contact.php:50 inc/patterns/contact.php:68
+#: inc/patterns/contact.php:77 inc/patterns/contact.php:86
+#: inc/patterns/contact.php:113 inc/patterns/pages.php:149
+#: inc/patterns/pages.php:159 inc/patterns/single-page.php:45
+#: inc/patterns/single-page.php:116
+msgctxt "Block pattern content"
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/classic/patterns/contact.php:43 inc/classic/patterns/contact.php:88
+#: inc/classic/patterns/contact.php:133 inc/patterns/contact.php:41
+#: inc/patterns/contact.php:86 inc/patterns/contact.php:122
+#: inc/patterns/single-page.php:116
+msgctxt "Block pattern content"
+msgid "Saturday: 9am - 10pm"
+msgstr "Samedi : 9h-22h"
+
+#: inc/classic/patterns/contact.php:43 inc/classic/patterns/contact.php:88
+#: inc/classic/patterns/contact.php:133 inc/patterns/contact.php:41
+#: inc/patterns/contact.php:86 inc/patterns/contact.php:122
+#: inc/patterns/single-page.php:116
+msgctxt "Block pattern content"
+msgid "Monday - Friday: 9am - 7pm"
+msgstr "Lundi - Vendredi : 9h-19h"
+
+#: inc/classic/patterns/contact.php:43 inc/classic/patterns/contact.php:61
+#: inc/classic/patterns/contact.php:70 inc/classic/patterns/contact.php:88
+#: inc/classic/patterns/contact.php:124 inc/classic/patterns/contact.php:133
+#: inc/classic/patterns/pages.php:117 inc/classic/patterns/single-page.php:65
+#: inc/classic/patterns/single-page.php:75 inc/patterns/contact.php:41
+#: inc/patterns/contact.php:59 inc/patterns/contact.php:68
+#: inc/patterns/contact.php:86 inc/patterns/contact.php:113
+#: inc/patterns/contact.php:122 inc/patterns/pages.php:149
+#: inc/patterns/pages.php:159 inc/patterns/single-page.php:106
+#: inc/patterns/single-page.php:116
+msgctxt "Block pattern content"
+msgid "Address"
+msgstr "Adresse"
+
+#: inc/classic/patterns/call-to-action.php:86
+#: inc/classic/patterns/call-to-action.php:95
+#: inc/classic/patterns/contact.php:16 inc/classic/patterns/contact.php:133
+#: inc/classic/patterns/pages.php:57 inc/patterns/call-to-action.php:77
+#: inc/patterns/call-to-action.php:86 inc/patterns/contact.php:14
+#: inc/patterns/contact.php:122
+msgctxt "Block pattern content"
+msgid "Contact us"
+msgstr "Nous contacter"
+
+#: inc/classic/patterns/contact.php:16 inc/classic/patterns/contact.php:25
+#: inc/classic/patterns/contact.php:43 inc/classic/patterns/contact.php:52
+#: inc/classic/patterns/contact.php:61 inc/classic/patterns/contact.php:70
+#: inc/classic/patterns/contact.php:79 inc/classic/patterns/contact.php:124
+#: inc/classic/patterns/pages.php:107 inc/classic/patterns/pages.php:127
+#: inc/patterns/contact.php:14 inc/patterns/contact.php:23
+#: inc/patterns/contact.php:41 inc/patterns/contact.php:50
+#: inc/patterns/contact.php:59 inc/patterns/contact.php:68
+#: inc/patterns/contact.php:77 inc/patterns/contact.php:113
+#: inc/patterns/pages.php:139 inc/patterns/pages.php:149
+#: inc/patterns/pages.php:169
+msgctxt "Block pattern content"
+msgid "If you have any questions or just want to say hello, please don’t hesitate to contact us. We’ll get back to you soon."
+msgstr "Si vous avez des questions ou souhaitez simplement nous saluer, n’hésitez pas à nous contacter. Nous vous répondrons au plus vite."
+
+#: inc/classic/patterns/contact.php:16 inc/classic/patterns/contact.php:25
+#: inc/classic/patterns/contact.php:34 inc/classic/patterns/contact.php:43
+#: inc/classic/patterns/contact.php:52 inc/classic/patterns/contact.php:61
+#: inc/classic/patterns/contact.php:70 inc/classic/patterns/contact.php:79
+#: inc/classic/patterns/contact.php:88 inc/classic/patterns/contact.php:97
+#: inc/classic/patterns/contact.php:106 inc/classic/patterns/contact.php:115
+#: inc/classic/patterns/contact.php:124 inc/classic/patterns/contact.php:133
+#: inc/classic/patterns/pages.php:107 inc/classic/patterns/pages.php:117
+#: inc/classic/patterns/pages.php:127 inc/classic/patterns/single-page.php:45
+#: inc/classic/patterns/single-page.php:65 inc/patterns/contact.php:14
+#: inc/patterns/contact.php:23 inc/patterns/contact.php:32
+#: inc/patterns/contact.php:41 inc/patterns/contact.php:50
+#: inc/patterns/contact.php:59 inc/patterns/contact.php:68
+#: inc/patterns/contact.php:77 inc/patterns/contact.php:86
+#: inc/patterns/contact.php:95 inc/patterns/contact.php:104
+#: inc/patterns/contact.php:113 inc/patterns/contact.php:122
+#: inc/patterns/pages.php:139 inc/patterns/pages.php:149
+#: inc/patterns/pages.php:159 inc/patterns/pages.php:169
+#: inc/patterns/single-page.php:75 inc/patterns/single-page.php:106
+msgctxt "Block pattern content"
+msgid "Get in touch"
+msgstr "Contactez-nous"
+
+#: inc/classic/patterns/text-image.php:184
+#: inc/classic/patterns/twentytwenty.php:51 inc/patterns/text-image.php:194
+msgid "3 text columns and image"
+msgstr "3 colonnes de texte et image"
+
+#: inc/classic/patterns/text-image.php:175
+#: inc/classic/patterns/twentytwenty.php:42 inc/patterns/text-image.php:185
+msgid "2 text columns and image"
+msgstr "2 colonnes de texte et image"
+
+#: inc/classic/patterns/text-image.php:130
+#: inc/classic/patterns/twentytwenty.php:24 inc/patterns/text-image.php:138
+msgid "Heading with alternating text and image"
+msgstr "Titre avec texte et image alternés"
+
+#: inc/classic/patterns/text-image.php:121 inc/patterns/text-image.php:129
+msgid "Text and image: fullscreen"
+msgstr "Texte et image : plein écran"
+
+#: inc/classic/patterns/text-image.php:84 inc/patterns/text-image.php:93
+msgid "Heading cover and text"
+msgstr "Bannière de titre et texte"
+
+#: inc/classic/patterns/text-image.php:66 inc/patterns/text-image.php:66
+msgid "Text and wide image"
+msgstr "Texte et image en grande largeur"
+
+#: inc/classic/patterns/text-image.php:57
+msgid "Text and image aligned"
+msgstr "Texte et image alignés"
+
+#: inc/classic/patterns/text-image.php:48 inc/patterns/text-image.php:57
+msgid "Text and overlap image"
+msgstr "Texte et chevauchement d’image"
+
+#: inc/classic/patterns/pages.php:47 inc/classic/patterns/pages.php:87
+#: inc/classic/patterns/text-image.php:32
+#: inc/classic/patterns/text-image.php:41
+#: inc/classic/patterns/text-image.php:50
+#: inc/classic/patterns/text-image.php:114 inc/classic/patterns/text.php:121
+#: inc/patterns/pages.php:45 inc/patterns/pages.php:55
+#: inc/patterns/pages.php:88 inc/patterns/pages.php:108
+#: inc/patterns/text-image.php:32 inc/patterns/text-image.php:41
+#: inc/patterns/text-image.php:50 inc/patterns/text-image.php:59
+#: inc/patterns/text-image.php:122 inc/patterns/text-image.php:140
+#: inc/patterns/text-image.php:158
+msgctxt "Block pattern content"
+msgid "Write another heading"
+msgstr "Rédigez un autre titre"
+
+#: inc/classic/patterns/pricing.php:203 inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "Eighth item"
+msgstr "Huitième élément"
+
+#: inc/classic/patterns/pricing.php:203 inc/patterns/pricing.php:221
+msgctxt "Block pattern content"
+msgid "Seventh item"
+msgstr "Septième élément"
+
+#: inc/classic/patterns/columns.php:148 inc/classic/patterns/numbers.php:49
+#: inc/classic/patterns/pages.php:57 inc/classic/patterns/pricing.php:194
+#: inc/classic/patterns/pricing.php:203 inc/classic/patterns/text.php:148
+#: inc/classic/patterns/text.php:157 inc/patterns/numbers.php:76
+#: inc/patterns/pages.php:65 inc/patterns/pricing.php:194
+#: inc/patterns/pricing.php:203 inc/patterns/pricing.php:212
+#: inc/patterns/pricing.php:221 inc/patterns/text.php:85
+msgctxt "Block pattern content"
+msgid "Sixth item"
+msgstr "Sixième élément"
+
+#: inc/classic/patterns/columns.php:148 inc/classic/patterns/events.php:58
+#: inc/classic/patterns/numbers.php:49 inc/classic/patterns/pages.php:57
+#: inc/classic/patterns/pricing.php:194 inc/classic/patterns/pricing.php:203
+#: inc/classic/patterns/text.php:148 inc/classic/patterns/text.php:157
+#: inc/patterns/events.php:49 inc/patterns/numbers.php:76
+#: inc/patterns/pages.php:65 inc/patterns/pricing.php:194
+#: inc/patterns/pricing.php:203 inc/patterns/pricing.php:212
+#: inc/patterns/pricing.php:221 inc/patterns/text.php:85
+msgctxt "Block pattern content"
+msgid "Fifth item"
+msgstr "Cinquième élément"
+
+#: inc/classic/patterns/pricing.php:183 inc/patterns/pricing.php:192
+msgid "Price list: 3 columns"
+msgstr "Liste de prix : 3 colonnes"
+
+#: inc/classic/patterns/pricing.php:165 inc/patterns/pricing.php:183
+msgid "Price list: 2 column cards"
+msgstr "Liste de prix : 2 colonnes cartes"
+
+#: inc/classic/patterns/pricing.php:138
+msgid "Price list: table with description"
+msgstr "Liste de prix : tableau avec description"
+
+#: inc/classic/patterns/pricing.php:129
+msgid "Price list: table"
+msgstr "Liste de prix : tableau"
+
+#: inc/classic/patterns/pricing.php:122 inc/patterns/pricing.php:140
+msgctxt "Block pattern pricing content"
+msgid "Enterprise"
+msgstr "Entreprise"
+
+#: inc/classic/patterns/pricing.php:120
+msgid "Pricing 4 column cards"
+msgstr "Tarifs 4 colonnes cartes"
+
+#: inc/classic/patterns/pricing.php:111 inc/patterns/pricing.php:129
+msgid "Pricing 3 columns: image"
+msgstr "Tarifs 3 colonnes : image"
+
+#: inc/classic/patterns/pricing.php:102 inc/patterns/pricing.php:120
+msgid "Pricing 3 column cards: image"
+msgstr "Tarifs 3 colonnes cartes : image"
+
+#: inc/classic/patterns/pricing.php:93
+msgid "Pricing 3 column cards: small image"
+msgstr "Tarifs 3 colonnes cartes : petite image"
+
+#: inc/classic/patterns/pricing.php:84 inc/patterns/pricing.php:102
+msgid "Pricing 3 column cards: checkmarked list"
+msgstr "Tarifs 3 colonnes cartes : liste avec coche"
+
+#: inc/patterns/pages.php:128 inc/patterns/pricing.php:86
+#: inc/patterns/pricing.php:95 inc/patterns/pricing.php:104
+#: inc/patterns/pricing.php:113 inc/patterns/pricing.php:122
+#: inc/patterns/pricing.php:131 inc/patterns/pricing.php:140
+msgctxt "Block pattern pricing content"
+msgid "Business"
+msgstr "Business"
+
+#: inc/classic/patterns/pricing.php:75 inc/patterns/pricing.php:93
+msgid "Pricing 3 column cards"
+msgstr "Tarifs 3 colonnes cartes"
+
+#: inc/classic/patterns/pricing.php:66 inc/patterns/pricing.php:75
+msgid "Pricing 2 column cards: image"
+msgstr "Tarifs 2 colonnes cartes : image"
+
+#: inc/classic/patterns/pricing.php:57 inc/patterns/pricing.php:66
+msgid "Pricing 2 column cards: middle alignment"
+msgstr "Tarifs 2 colonnes cartes : alignement au milieu"
+
+#: inc/patterns/pricing.php:111
+msgid "Pricing 3 column cards: full width button"
+msgstr "Tarifs 2 colonnes cartes : bouton en pleine largeur"
+
+#: inc/classic/patterns/pricing.php:41 inc/classic/patterns/pricing.php:50
+#: inc/classic/patterns/pricing.php:68 inc/classic/patterns/pricing.php:95
+#: inc/classic/patterns/pricing.php:104 inc/classic/patterns/pricing.php:113
+#: inc/classic/patterns/pricing.php:131 inc/classic/patterns/pricing.php:140
+#: inc/classic/patterns/pricing.php:149 inc/classic/patterns/pricing.php:158
+#: inc/classic/patterns/pricing.php:167 inc/classic/patterns/pricing.php:185
+#: inc/classic/patterns/pricing.php:194 inc/classic/patterns/pricing.php:203
+#: inc/patterns/pricing.php:50 inc/patterns/pricing.php:59
+#: inc/patterns/pricing.php:77 inc/patterns/pricing.php:122
+#: inc/patterns/pricing.php:131 inc/patterns/pricing.php:149
+#: inc/patterns/pricing.php:158 inc/patterns/pricing.php:167
+#: inc/patterns/pricing.php:176 inc/patterns/pricing.php:185
+#: inc/patterns/pricing.php:194 inc/patterns/pricing.php:203
+#: inc/patterns/pricing.php:212 inc/patterns/pricing.php:221
+#: inc/patterns/pricing.php:230 inc/patterns/pricing.php:239
+msgctxt "Block pattern content"
+msgid "Pricing"
+msgstr "Tarifs"
+
+#: inc/classic/patterns/pricing.php:39 inc/patterns/pricing.php:48
+msgid "Pricing 2 column cards"
+msgstr "Tarifs 2 colonnes cartes"
+
+#: inc/classic/patterns/pricing.php:32 inc/classic/patterns/pricing.php:41
+#: inc/classic/patterns/pricing.php:50 inc/classic/patterns/pricing.php:59
+#: inc/classic/patterns/pricing.php:68 inc/classic/patterns/pricing.php:77
+#: inc/classic/patterns/pricing.php:86 inc/classic/patterns/pricing.php:95
+#: inc/classic/patterns/pricing.php:104 inc/classic/patterns/pricing.php:113
+#: inc/classic/patterns/pricing.php:122 inc/patterns/pages.php:128
+#: inc/patterns/pricing.php:41 inc/patterns/pricing.php:50
+#: inc/patterns/pricing.php:59 inc/patterns/pricing.php:68
+#: inc/patterns/pricing.php:77 inc/patterns/pricing.php:86
+#: inc/patterns/pricing.php:95 inc/patterns/pricing.php:104
+#: inc/patterns/pricing.php:113 inc/patterns/pricing.php:122
+#: inc/patterns/pricing.php:131 inc/patterns/pricing.php:140
+msgctxt "Block pattern pricing content"
+msgid "Premium"
+msgstr "Premium"
+
+#: inc/classic/patterns/pricing.php:32 inc/classic/patterns/pricing.php:41
+#: inc/classic/patterns/pricing.php:50 inc/classic/patterns/pricing.php:59
+#: inc/classic/patterns/pricing.php:68 inc/classic/patterns/pricing.php:77
+#: inc/classic/patterns/pricing.php:86 inc/classic/patterns/pricing.php:95
+#: inc/classic/patterns/pricing.php:104 inc/classic/patterns/pricing.php:113
+#: inc/classic/patterns/pricing.php:122 inc/patterns/pages.php:128
+#: inc/patterns/pricing.php:41 inc/patterns/pricing.php:50
+#: inc/patterns/pricing.php:59 inc/patterns/pricing.php:68
+#: inc/patterns/pricing.php:77 inc/patterns/pricing.php:86
+#: inc/patterns/pricing.php:95 inc/patterns/pricing.php:104
+#: inc/patterns/pricing.php:113 inc/patterns/pricing.php:122
+#: inc/patterns/pricing.php:131 inc/patterns/pricing.php:140
+msgctxt "Block pattern pricing content"
+msgid "Standard"
+msgstr "Standard"
+
+#: inc/classic/patterns/pricing.php:32 inc/classic/patterns/pricing.php:59
+#: inc/classic/patterns/pricing.php:77 inc/classic/patterns/pricing.php:86
+#: inc/classic/patterns/pricing.php:122 inc/classic/patterns/pricing.php:176
+#: inc/patterns/pages.php:128 inc/patterns/pricing.php:41
+#: inc/patterns/pricing.php:68 inc/patterns/pricing.php:86
+#: inc/patterns/pricing.php:95 inc/patterns/pricing.php:104
+#: inc/patterns/pricing.php:113 inc/patterns/pricing.php:140
+msgctxt "Block pattern content"
+msgid "Choose the right solution that fits your needs"
+msgstr "Choisissez la solution adaptée à vos besoins"
+
+#: inc/patterns/pricing.php:138
+msgid "Pricing 4 columns"
+msgstr "Tarifs 4 colonnes"
+
+#: inc/classic/patterns/pricing.php:21 inc/patterns/pricing.php:21
+msgid "Single pricing: card"
+msgstr "Tarif unique : carte"
+
+#: inc/classic/patterns/pricing.php:14 inc/classic/patterns/pricing.php:23
+#: inc/patterns/pricing.php:14 inc/patterns/pricing.php:23
+#: inc/patterns/pricing.php:32
+msgctxt "Block pattern content"
+msgid "Simple pricing"
+msgstr "Un tarif simple"
+
+#: inc/classic/patterns/pricing.php:12 inc/patterns/pricing.php:12
+msgid "Single pricing"
+msgstr "Tarif unique"
+
+#: inc/classic/patterns/gallery.php:57 inc/patterns/gallery.php:48
+msgid "Gallery 3 columns"
+msgstr "Galerie 3 colonnes"
+
+#: inc/classic/patterns/gallery.php:30 inc/patterns/gallery.php:30
+msgid "Gallery: alternating widths"
+msgstr "Galerie : largeurs alternées"
+
+#: inc/classic/patterns/gallery.php:21 inc/patterns/gallery.php:21
+msgid "Gallery 2 columns"
+msgstr "Galerie 2 colonnes"
+
+#: inc/classic/patterns/team.php:102 inc/patterns/team.php:94
+msgid "Team: list"
+msgstr "Équipe : liste"
+
+#: inc/classic/patterns/team.php:93 inc/patterns/team.php:85
+msgid "Team 4 columns: top border"
+msgstr "Équipe 4 colonnes : bordure supérieure"
+
+#: inc/classic/patterns/team.php:84 inc/patterns/team.php:76
+msgid "Team 4 columns x 2"
+msgstr "Équipe 4 colonnes x 2"
+
+#: inc/classic/patterns/team.php:75
+msgid "Team 4 columns"
+msgstr "Équipe 4 colonnes"
+
+#: inc/classic/patterns/team.php:66 inc/patterns/team.php:58
+msgid "Team 3 columns: top border"
+msgstr "Équipe 3 colonnes : bordure supérieure"
+
+#: inc/classic/patterns/team.php:57
+msgid "Team 3 columns: gallery"
+msgstr "Équipe 3 colonnes : galerie"
+
+#: inc/classic/patterns/team.php:48 inc/patterns/team.php:49
+msgid "Team 3 columns x 2"
+msgstr "Équipe 3 colonnes x 2"
+
+#: inc/classic/patterns/team.php:39 inc/patterns/team.php:40
+msgid "Team 3 columns: circle image"
+msgstr "Équipe 3 colonnes : image circulaire"
+
+#: inc/classic/patterns/events.php:67 inc/patterns/contact.php:113
+#: inc/patterns/events.php:58
+msgctxt "Block pattern content"
+msgid "Friday"
+msgstr "Vendredi"
+
+#: inc/classic/patterns/team.php:30 inc/patterns/team.php:31
+msgid "Team 3 columns"
+msgstr "Équipe 3 colonnes"
+
+#: inc/classic/patterns/pages.php:67 inc/patterns/pages.php:78
+msgctxt "Block pattern content"
+msgid "Clients"
+msgstr "Clients"
+
+#: inc/classic/patterns/pages.php:57 inc/classic/patterns/team.php:14
+#: inc/classic/patterns/team.php:23 inc/classic/patterns/team.php:32
+#: inc/classic/patterns/team.php:41 inc/classic/patterns/team.php:50
+#: inc/classic/patterns/team.php:59 inc/classic/patterns/team.php:68
+#: inc/classic/patterns/team.php:77 inc/classic/patterns/team.php:86
+#: inc/classic/patterns/team.php:95 inc/classic/patterns/team.php:104
+#: inc/classic/patterns/team.php:113 inc/classic/patterns/team.php:122
+#: inc/classic/patterns/team.php:131 inc/patterns/pages.php:65
+#: inc/patterns/team.php:14 inc/patterns/team.php:23 inc/patterns/team.php:33
+#: inc/patterns/team.php:42 inc/patterns/team.php:51 inc/patterns/team.php:60
+#: inc/patterns/team.php:78 inc/patterns/team.php:87 inc/patterns/team.php:96
+#: inc/patterns/team.php:105 inc/patterns/team.php:114
+#: inc/patterns/team.php:123
+msgctxt "Block pattern content"
+msgid "Our team"
+msgstr "Notre équipe"
+
+#: inc/classic/patterns/team.php:12 inc/patterns/team.php:12
+msgid "Team 2 columns"
+msgstr "Équipe 2 colonnes"
+
+#: inc/classic/patterns/hero.php:102 inc/patterns/hero.php:66
+msgid "Fullscreen hero cover"
+msgstr "Bannière de titre de page en plein écran"
+
+#: inc/classic/patterns/hero.php:93
+msgid "Hero cover with button"
+msgstr "Bannière de titre de page avec bouton"
+
+#: inc/classic/patterns/hero.php:84 inc/patterns/hero.php:57
+msgid "Hero cover"
+msgstr "Bannière de titre de page"
+
+#: inc/classic/patterns/hero.php:66
+msgid "Hero with overlap image"
+msgstr "Titre de page avec chevauchement d’image"
+
+#: inc/classic/patterns/hero.php:57 inc/patterns/hero.php:39
+msgid "Hero with buttons and image"
+msgstr "Titre de page avec boutons et image"
+
+#: inc/classic/patterns/hero.php:32 inc/classic/patterns/hero.php:50
+#: inc/classic/patterns/hero.php:104 inc/classic/patterns/single-page.php:55
+#: inc/classic/patterns/single-page.php:65
+#: inc/classic/patterns/single-page.php:75 inc/patterns/single-page.php:96
+#: inc/patterns/single-page.php:116
+msgctxt "Block pattern content"
+msgid "Page title"
+msgstr "Titre de la page"
+
+#: inc/classic/patterns/hero.php:30
+msgid "Hero with eyebrow title"
+msgstr "Titre de page en avant-titre"
+
+#: inc/classic/patterns/call-to-action.php:14
+#: inc/classic/patterns/call-to-action.php:23
+#: inc/classic/patterns/call-to-action.php:32
+#: inc/classic/patterns/call-to-action.php:41
+#: inc/classic/patterns/call-to-action.php:50
+#: inc/classic/patterns/call-to-action.php:59
+#: inc/classic/patterns/call-to-action.php:68
+#: inc/classic/patterns/call-to-action.php:77
+#: inc/classic/patterns/call-to-action.php:86
+#: inc/classic/patterns/call-to-action.php:95 inc/classic/patterns/hero.php:23
+#: inc/classic/patterns/hero.php:59 inc/classic/patterns/pages.php:17
+#: inc/classic/patterns/pages.php:27 inc/classic/patterns/pages.php:37
+#: inc/classic/patterns/pages.php:77 inc/classic/patterns/pages.php:87
+#: inc/classic/patterns/pages.php:97 inc/classic/patterns/pricing.php:14
+#: inc/classic/patterns/pricing.php:23 inc/classic/patterns/pricing.php:32
+#: inc/classic/patterns/pricing.php:41 inc/classic/patterns/pricing.php:50
+#: inc/classic/patterns/pricing.php:59 inc/classic/patterns/pricing.php:68
+#: inc/classic/patterns/pricing.php:77 inc/classic/patterns/pricing.php:86
+#: inc/classic/patterns/pricing.php:95 inc/classic/patterns/pricing.php:104
+#: inc/classic/patterns/pricing.php:113 inc/classic/patterns/pricing.php:122
+#: inc/classic/patterns/twentytwenty.php:89 inc/patterns/call-to-action.php:14
+#: inc/patterns/call-to-action.php:23 inc/patterns/call-to-action.php:32
+#: inc/patterns/call-to-action.php:41 inc/patterns/call-to-action.php:50
+#: inc/patterns/call-to-action.php:59 inc/patterns/call-to-action.php:68
+#: inc/patterns/call-to-action.php:77 inc/patterns/call-to-action.php:86
+#: inc/patterns/hero.php:23 inc/patterns/hero.php:41 inc/patterns/pages.php:15
+#: inc/patterns/pages.php:25 inc/patterns/pages.php:45
+#: inc/patterns/pages.php:66 inc/patterns/pages.php:98
+#: inc/patterns/pages.php:108 inc/patterns/pages.php:118
+#: inc/patterns/pages.php:128 inc/patterns/pricing.php:14
+#: inc/patterns/pricing.php:23 inc/patterns/pricing.php:32
+#: inc/patterns/pricing.php:41 inc/patterns/pricing.php:50
+#: inc/patterns/pricing.php:59 inc/patterns/pricing.php:68
+#: inc/patterns/pricing.php:77 inc/patterns/pricing.php:86
+#: inc/patterns/pricing.php:104 inc/patterns/pricing.php:113
+#: inc/patterns/pricing.php:122 inc/patterns/pricing.php:131
+#: inc/patterns/pricing.php:140
+msgctxt "Block pattern content"
+msgid "Get started"
+msgstr "Premiers pas"
+
+#: inc/classic/patterns/hero.php:23 inc/classic/patterns/hero.php:95
+#: inc/classic/patterns/pages.php:17 inc/classic/patterns/pages.php:27
+#: inc/classic/patterns/pages.php:47 inc/classic/patterns/pages.php:57
+#: inc/classic/patterns/pages.php:87 inc/patterns/hero.php:23
+#: inc/patterns/hero.php:68 inc/patterns/pages.php:25 inc/patterns/pages.php:55
+#: inc/patterns/pages.php:65 inc/patterns/pages.php:88
+#: inc/patterns/pages.php:108
+msgctxt "Block pattern content"
+msgid "Write a page title that captivates your audience"
+msgstr "Rédigez un titre de page qui captive votre audience"
+
+#: inc/classic/patterns/hero.php:21 inc/patterns/hero.php:21
+msgid "Hero with button"
+msgstr "Titre de page avec bouton"
+
+#: inc/classic/patterns/list.php:101 inc/patterns/list.php:101
+msgid "Inline list"
+msgstr "Liste en ligne"
+
+#: inc/classic/patterns/list.php:74 inc/patterns/list.php:74
+msgid "Lists: 3 columns"
+msgstr "Listes : 3 colonnes"
+
+#: inc/classic/patterns/list.php:65 inc/patterns/list.php:65
+msgid "Lists: 2 columns"
+msgstr "Listes : 2 colonnes"
+
+#: inc/classic/patterns/list.php:11 inc/patterns/list.php:11
+msgid "List and text aligned"
+msgstr "Liste et texte alignés"
+
+#: inc/classic/patterns/faq.php:47 inc/patterns/faq.php:39
+msgid "FAQ 2 columns: top border"
+msgstr "FAQ 2 colonnes : bordure supérieure"
+
+#: inc/classic/patterns/faq.php:40 inc/classic/patterns/faq.php:49
+#: inc/patterns/faq.php:32 inc/patterns/faq.php:41
+msgctxt "Block pattern content"
+msgid "Do you provide support?"
+msgstr "Proposez-vous de l’aide ?"
+
+#: inc/classic/patterns/faq.php:38 inc/patterns/faq.php:30
+msgid "FAQ 2 columns"
+msgstr "FAQ 2 colonnes"
+
+#: inc/classic/patterns/faq.php:13 inc/classic/patterns/faq.php:22
+#: inc/classic/patterns/faq.php:31 inc/classic/patterns/faq.php:40
+#: inc/classic/patterns/faq.php:49 inc/patterns/faq.php:13
+#: inc/patterns/faq.php:23 inc/patterns/faq.php:32 inc/patterns/faq.php:41
+#: inc/patterns/pages.php:128
+msgctxt "Block pattern content"
+msgid "What payment methods do you accept?"
+msgstr "Quels moyens de paiement acceptez-vous ?"
+
+#: inc/classic/patterns/faq.php:13 inc/classic/patterns/faq.php:22
+#: inc/classic/patterns/faq.php:31 inc/classic/patterns/faq.php:40
+#: inc/classic/patterns/faq.php:49 inc/patterns/faq.php:13
+#: inc/patterns/faq.php:23 inc/patterns/faq.php:32 inc/patterns/faq.php:41
+#: inc/patterns/pages.php:128
+msgctxt "Block pattern content"
+msgid "How does it work?"
+msgstr "Comment ça marche ?"
+
+#: inc/classic/patterns/faq.php:13 inc/classic/patterns/faq.php:22
+#: inc/classic/patterns/faq.php:31 inc/classic/patterns/faq.php:40
+#: inc/classic/patterns/faq.php:49 inc/patterns/faq.php:13
+#: inc/patterns/faq.php:23 inc/patterns/faq.php:32 inc/patterns/faq.php:41
+#: inc/patterns/pages.php:128
+msgctxt "Block pattern content"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/classic/patterns/faq.php:11 inc/patterns/faq.php:11
+msgid "FAQ: list"
+msgstr "FAQ : liste"
+
+#: inc/classic/patterns/latest-posts.php:101
+msgid "Posts 4 columns"
+msgstr "Articles 4 colonnes"
+
+#: inc/classic/patterns/latest-posts.php:92
+msgid "Posts 3 columns: top border"
+msgstr "Articles 3 colonnes : bordure supérieure"
+
+#: inc/classic/patterns/latest-posts.php:74
+msgid "Posts 3 columns: card"
+msgstr "Articles 3 colonnes : carte"
+
+#: inc/classic/patterns/latest-posts.php:65 inc/patterns/posts.php:11
+msgid "Posts 3 columns"
+msgstr "Articles 3 colonnes"
+
+#: inc/classic/patterns/latest-posts.php:56
+msgid "Posts 2 columns"
+msgstr "Articles 2 colonnes"
+
+#: inc/classic/patterns/latest-posts.php:13
+#: inc/classic/patterns/latest-posts.php:22
+#: inc/classic/patterns/latest-posts.php:31
+#: inc/classic/patterns/latest-posts.php:40
+#: inc/classic/patterns/latest-posts.php:49
+#: inc/classic/patterns/latest-posts.php:58
+#: inc/classic/patterns/latest-posts.php:67
+#: inc/classic/patterns/latest-posts.php:76
+#: inc/classic/patterns/latest-posts.php:85
+#: inc/classic/patterns/latest-posts.php:94
+#: inc/classic/patterns/latest-posts.php:103 inc/classic/patterns/pages.php:37
+#: inc/classic/patterns/twentytwenty.php:89 inc/patterns/pages.php:35
+msgctxt "Block pattern content"
+msgid "Latest posts"
+msgstr "Articles récents"
+
+#: inc/classic/patterns/latest-posts.php:11
+msgid "Posts: list"
+msgstr "Articles : liste"
+
+#: inc/classic/patterns/banner.php:86 inc/classic/patterns/columns.php:49
+#: inc/classic/patterns/columns.php:76 inc/classic/patterns/columns.php:148
+#: inc/classic/patterns/columns.php:157 inc/classic/patterns/columns.php:166
+#: inc/classic/patterns/columns.php:175 inc/classic/patterns/events.php:58
+#: inc/classic/patterns/list.php:94 inc/classic/patterns/numbers.php:49
+#: inc/classic/patterns/pages.php:27 inc/classic/patterns/pages.php:57
+#: inc/classic/patterns/pages.php:77 inc/classic/patterns/pricing.php:140
+#: inc/classic/patterns/pricing.php:149 inc/classic/patterns/pricing.php:167
+#: inc/classic/patterns/pricing.php:176 inc/classic/patterns/pricing.php:194
+#: inc/classic/patterns/pricing.php:203 inc/classic/patterns/text.php:112
+#: inc/classic/patterns/text.php:148 inc/classic/patterns/text.php:157
+#: inc/classic/patterns/text.php:166 inc/patterns/banner.php:77
+#: inc/patterns/columns.php:40 inc/patterns/columns.php:67
+#: inc/patterns/columns.php:130 inc/patterns/columns.php:139
+#: inc/patterns/columns.php:148 inc/patterns/events.php:49
+#: inc/patterns/list.php:94 inc/patterns/numbers.php:67
+#: inc/patterns/numbers.php:76 inc/patterns/pages.php:25
+#: inc/patterns/pages.php:65 inc/patterns/pages.php:98
+#: inc/patterns/pricing.php:158 inc/patterns/pricing.php:167
+#: inc/patterns/pricing.php:185 inc/patterns/pricing.php:194
+#: inc/patterns/pricing.php:203 inc/patterns/pricing.php:212
+#: inc/patterns/pricing.php:221 inc/patterns/pricing.php:230
+#: inc/patterns/text.php:58 inc/patterns/text.php:85 inc/patterns/text.php:94
+msgctxt "Block pattern content"
+msgid "Fourth item"
+msgstr "Quatrième élément"
+
+#: inc/classic/patterns/banner.php:59 inc/classic/patterns/banner.php:86
+#: inc/classic/patterns/call-to-action.php:41
+#: inc/classic/patterns/events.php:13 inc/classic/patterns/events.php:22
+#: inc/classic/patterns/hero.php:41 inc/classic/patterns/hero.php:59
+#: inc/classic/patterns/hero.php:77 inc/classic/patterns/hero.php:95
+#: inc/classic/patterns/pages.php:17 inc/classic/patterns/pages.php:27
+#: inc/classic/patterns/pages.php:37 inc/classic/patterns/twentytwenty.php:89
+#: inc/patterns/banner.php:50 inc/patterns/banner.php:77
+#: inc/patterns/call-to-action.php:41 inc/patterns/events.php:13
+#: inc/patterns/events.php:22 inc/patterns/hero.php:32 inc/patterns/hero.php:41
+#: inc/patterns/hero.php:68 inc/patterns/pages.php:15 inc/patterns/pages.php:25
+#: inc/patterns/pages.php:35 inc/patterns/pages.php:45
+#: inc/patterns/pages.php:108 inc/patterns/pages.php:118
+#: inc/patterns/pages.php:128
+msgctxt "Block pattern content"
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: inc/classic/patterns/banner.php:86 inc/classic/patterns/columns.php:49
+#: inc/classic/patterns/columns.php:76 inc/classic/patterns/columns.php:85
+#: inc/classic/patterns/columns.php:94 inc/classic/patterns/columns.php:103
+#: inc/classic/patterns/columns.php:112 inc/classic/patterns/columns.php:121
+#: inc/classic/patterns/columns.php:130 inc/classic/patterns/columns.php:139
+#: inc/classic/patterns/columns.php:148 inc/classic/patterns/columns.php:157
+#: inc/classic/patterns/columns.php:166 inc/classic/patterns/columns.php:175
+#: inc/classic/patterns/events.php:58 inc/classic/patterns/list.php:76
+#: inc/classic/patterns/list.php:85 inc/classic/patterns/list.php:94
+#: inc/classic/patterns/numbers.php:40 inc/classic/patterns/numbers.php:49
+#: inc/classic/patterns/pages.php:17 inc/classic/patterns/pages.php:27
+#: inc/classic/patterns/pages.php:57 inc/classic/patterns/pages.php:77
+#: inc/classic/patterns/pages.php:87 inc/classic/patterns/pages.php:97
+#: inc/classic/patterns/pricing.php:140 inc/classic/patterns/pricing.php:149
+#: inc/classic/patterns/pricing.php:158 inc/classic/patterns/pricing.php:167
+#: inc/classic/patterns/pricing.php:176 inc/classic/patterns/pricing.php:194
+#: inc/classic/patterns/pricing.php:203 inc/classic/patterns/text-image.php:168
+#: inc/classic/patterns/text-image.php:186 inc/classic/patterns/text.php:112
+#: inc/classic/patterns/text.php:130 inc/classic/patterns/text.php:139
+#: inc/classic/patterns/text.php:148 inc/classic/patterns/text.php:157
+#: inc/classic/patterns/text.php:166 inc/classic/patterns/twentytwenty.php:53
+#: inc/patterns/banner.php:77 inc/patterns/columns.php:40
+#: inc/patterns/columns.php:67 inc/patterns/columns.php:76
+#: inc/patterns/columns.php:85 inc/patterns/columns.php:94
+#: inc/patterns/columns.php:103 inc/patterns/columns.php:112
+#: inc/patterns/columns.php:121 inc/patterns/columns.php:130
+#: inc/patterns/columns.php:139 inc/patterns/columns.php:148
+#: inc/patterns/events.php:49 inc/patterns/list.php:76 inc/patterns/list.php:85
+#: inc/patterns/list.php:94 inc/patterns/numbers.php:58
+#: inc/patterns/numbers.php:67 inc/patterns/numbers.php:76
+#: inc/patterns/pages.php:15 inc/patterns/pages.php:25
+#: inc/patterns/pages.php:65 inc/patterns/pages.php:88
+#: inc/patterns/pages.php:98 inc/patterns/pages.php:108
+#: inc/patterns/pages.php:118 inc/patterns/pages.php:128
+#: inc/patterns/pricing.php:158 inc/patterns/pricing.php:167
+#: inc/patterns/pricing.php:176 inc/patterns/pricing.php:185
+#: inc/patterns/pricing.php:194 inc/patterns/pricing.php:203
+#: inc/patterns/pricing.php:212 inc/patterns/pricing.php:221
+#: inc/patterns/pricing.php:230 inc/patterns/pricing.php:239
+#: inc/patterns/text-image.php:168 inc/patterns/text-image.php:178
+#: inc/patterns/text-image.php:196 inc/patterns/text.php:40
+#: inc/patterns/text.php:58 inc/patterns/text.php:67 inc/patterns/text.php:76
+#: inc/patterns/text.php:85 inc/patterns/text.php:94
+msgctxt "Block pattern content"
+msgid "Third item"
+msgstr "Troisième élément"
+
+#: inc/classic/patterns/banner.php:48
+msgid "Fullscreen cover with heading above card"
+msgstr "Bannière en plein écran avec titre au-dessus de la carte"
+
+#: inc/classic/patterns/banner.php:39 inc/patterns/banner.php:39
+msgid "Fullscreen cover with card"
+msgstr "Bannière en plein écran avec carte"
+
+#: inc/classic/twentytwentyone/customizer.php:1553
+#: inc/classic/twentytwentyone/customizer.php:2148
+msgid "Fullscreen Cover"
+msgstr "Bannière en plein écran"
+
+#: inc/classic/patterns/banner.php:21 inc/patterns/banner.php:21
+msgid "Full width cover"
+msgstr "Bannière en pleine largeur"
+
+#: inc/classic/patterns/banner.php:12 inc/patterns/banner.php:12
+msgid "Wide cover"
+msgstr "Bannière en grande largeur"
+
+#: inc/classic/patterns/logos.php:66
+msgid "Logos 5 columns"
+msgstr "Logos 5 colonnes"
+
+#: inc/classic/patterns/logos.php:57 inc/patterns/logos.php:58
+msgid "Logos 4 columns: card"
+msgstr "Logos 4 colonnes : carte"
+
+#: inc/classic/patterns/logos.php:48 inc/patterns/logos.php:49
+msgid "Logos 4 columns: border"
+msgstr "Logos 4 colonnes : bordure"
+
+#: inc/classic/patterns/logos.php:39 inc/patterns/logos.php:40
+msgid "Logos 4 columns: inner border"
+msgstr "Logos 4 colonnes : bordure intérieure"
+
+#: inc/classic/patterns/list.php:103 inc/classic/patterns/logos.php:23
+#: inc/classic/patterns/logos.php:41 inc/classic/patterns/logos.php:50
+#: inc/classic/patterns/logos.php:68 inc/patterns/list.php:103
+#: inc/patterns/logos.php:23 inc/patterns/logos.php:33
+#: inc/patterns/logos.php:42 inc/patterns/logos.php:51
+#: inc/patterns/logos.php:69
+msgctxt "Block pattern content"
+msgid "Our clients"
+msgstr "Nos clients"
+
+#: inc/classic/patterns/logos.php:21 inc/patterns/logos.php:21
+msgid "Logos 3 columns"
+msgstr "Logos 3 colonnes"
+
+#: inc/classic/patterns/logos.php:14 inc/classic/patterns/logos.php:59
+#: inc/patterns/logos.php:14 inc/patterns/logos.php:60
+msgctxt "Block pattern content"
+msgid "Our partners"
+msgstr "Nos partenaires"
+
+#: inc/classic/patterns/logos.php:32
+msgctxt "Block pattern content"
+msgid "Trusted by hundreds of companies worldwide"
+msgstr "Des centaines d’entreprises dans le monde nous font confiance"
+
+#: inc/classic/patterns/media.php:67 inc/patterns/media.php:69
+msgctxt "Block pattern content"
+msgid "Listen on Spotify"
+msgstr "Écouter sur Spotify"
+
+#: inc/classic/patterns/media.php:65 inc/patterns/media.php:67
+msgid "Media list with image and button"
+msgstr "Liste de médias avec image et bouton"
+
+#: inc/classic/patterns/media.php:58 inc/classic/patterns/media.php:67
+#: inc/patterns/media.php:60 inc/patterns/media.php:69
+msgctxt "Block pattern content"
+msgid "All episodes"
+msgstr "Tous les épisodes"
+
+#: inc/classic/patterns/media.php:56 inc/patterns/media.php:57
+msgid "Audio list"
+msgstr "Liste audio"
+
+#: inc/classic/patterns/hero.php:14 inc/classic/patterns/hero.php:41
+#: inc/classic/patterns/hero.php:59 inc/classic/patterns/hero.php:68
+#: inc/classic/patterns/hero.php:77 inc/classic/patterns/hero.php:86
+#: inc/classic/patterns/media.php:13 inc/classic/patterns/pages.php:37
+#: inc/classic/patterns/pages.php:67 inc/classic/patterns/pages.php:77
+#: inc/classic/patterns/pages.php:97 inc/classic/patterns/twentytwenty.php:89
+#: inc/patterns/hero.php:14 inc/patterns/hero.php:32 inc/patterns/hero.php:41
+#: inc/patterns/hero.php:50 inc/patterns/hero.php:59 inc/patterns/media.php:13
+#: inc/patterns/pages.php:35 inc/patterns/pages.php:45
+#: inc/patterns/pages.php:78 inc/patterns/pages.php:98
+#: inc/patterns/pages.php:118 inc/patterns/pages.php:128
+msgctxt "Block pattern content"
+msgid "Write the page title"
+msgstr "Rédigez le titre de la page"
+
+#: inc/classic/patterns/media.php:11 inc/patterns/media.php:11
+msgid "Hero with video"
+msgstr "Titre de page avec vidéo"
+
+#: inc/classic/patterns/banner.php:59 inc/classic/patterns/banner.php:68
+#: inc/classic/patterns/banner.php:86 inc/classic/patterns/columns.php:13
+#: inc/classic/patterns/columns.php:22 inc/classic/patterns/columns.php:31
+#: inc/classic/patterns/columns.php:40 inc/classic/patterns/columns.php:49
+#: inc/classic/patterns/columns.php:58 inc/classic/patterns/columns.php:67
+#: inc/classic/patterns/columns.php:76 inc/classic/patterns/columns.php:85
+#: inc/classic/patterns/columns.php:94 inc/classic/patterns/columns.php:103
+#: inc/classic/patterns/columns.php:112 inc/classic/patterns/columns.php:121
+#: inc/classic/patterns/columns.php:130 inc/classic/patterns/columns.php:139
+#: inc/classic/patterns/columns.php:148 inc/classic/patterns/columns.php:157
+#: inc/classic/patterns/columns.php:166 inc/classic/patterns/columns.php:175
+#: inc/classic/patterns/events.php:58 inc/classic/patterns/list.php:58
+#: inc/classic/patterns/list.php:67 inc/classic/patterns/list.php:76
+#: inc/classic/patterns/list.php:85 inc/classic/patterns/list.php:94
+#: inc/classic/patterns/numbers.php:40 inc/classic/patterns/numbers.php:49
+#: inc/classic/patterns/pages.php:17 inc/classic/patterns/pages.php:27
+#: inc/classic/patterns/pages.php:37 inc/classic/patterns/pages.php:57
+#: inc/classic/patterns/pages.php:67 inc/classic/patterns/pages.php:77
+#: inc/classic/patterns/pages.php:87 inc/classic/patterns/pages.php:97
+#: inc/classic/patterns/pricing.php:140 inc/classic/patterns/pricing.php:149
+#: inc/classic/patterns/pricing.php:158 inc/classic/patterns/pricing.php:167
+#: inc/classic/patterns/pricing.php:176 inc/classic/patterns/pricing.php:194
+#: inc/classic/patterns/pricing.php:203 inc/classic/patterns/text-image.php:132
+#: inc/classic/patterns/text-image.php:141
+#: inc/classic/patterns/text-image.php:168
+#: inc/classic/patterns/text-image.php:177
+#: inc/classic/patterns/text-image.php:186 inc/classic/patterns/text.php:85
+#: inc/classic/patterns/text.php:94 inc/classic/patterns/text.php:103
+#: inc/classic/patterns/text.php:112 inc/classic/patterns/text.php:130
+#: inc/classic/patterns/text.php:139 inc/classic/patterns/text.php:148
+#: inc/classic/patterns/text.php:157 inc/classic/patterns/text.php:166
+#: inc/classic/patterns/twentytwenty.php:26
+#: inc/classic/patterns/twentytwenty.php:35
+#: inc/classic/patterns/twentytwenty.php:44
+#: inc/classic/patterns/twentytwenty.php:53
+#: inc/classic/patterns/twentytwenty.php:89 inc/patterns/banner.php:50
+#: inc/patterns/banner.php:59 inc/patterns/banner.php:77
+#: inc/patterns/columns.php:13 inc/patterns/columns.php:22
+#: inc/patterns/columns.php:31 inc/patterns/columns.php:40
+#: inc/patterns/columns.php:49 inc/patterns/columns.php:58
+#: inc/patterns/columns.php:67 inc/patterns/columns.php:76
+#: inc/patterns/columns.php:85 inc/patterns/columns.php:94
+#: inc/patterns/columns.php:103 inc/patterns/columns.php:112
+#: inc/patterns/columns.php:121 inc/patterns/columns.php:130
+#: inc/patterns/columns.php:139 inc/patterns/columns.php:148
+#: inc/patterns/events.php:49 inc/patterns/list.php:58 inc/patterns/list.php:67
+#: inc/patterns/list.php:76 inc/patterns/list.php:85 inc/patterns/list.php:94
+#: inc/patterns/numbers.php:58 inc/patterns/numbers.php:67
+#: inc/patterns/numbers.php:76 inc/patterns/pages.php:15
+#: inc/patterns/pages.php:25 inc/patterns/pages.php:35
+#: inc/patterns/pages.php:45 inc/patterns/pages.php:65
+#: inc/patterns/pages.php:78 inc/patterns/pages.php:88
+#: inc/patterns/pages.php:98 inc/patterns/pages.php:108
+#: inc/patterns/pages.php:118 inc/patterns/pages.php:128
+#: inc/patterns/pricing.php:158 inc/patterns/pricing.php:167
+#: inc/patterns/pricing.php:176 inc/patterns/pricing.php:185
+#: inc/patterns/pricing.php:194 inc/patterns/pricing.php:203
+#: inc/patterns/pricing.php:212 inc/patterns/pricing.php:221
+#: inc/patterns/pricing.php:230 inc/patterns/pricing.php:239
+#: inc/patterns/text-image.php:149 inc/patterns/text-image.php:168
+#: inc/patterns/text-image.php:178 inc/patterns/text-image.php:187
+#: inc/patterns/text-image.php:196 inc/patterns/text.php:40
+#: inc/patterns/text.php:49 inc/patterns/text.php:58 inc/patterns/text.php:67
+#: inc/patterns/text.php:76 inc/patterns/text.php:85 inc/patterns/text.php:94
+msgctxt "Block pattern content"
+msgid "Second item"
+msgstr "Deuxième élément"
+
+#: inc/classic/patterns/banner.php:59 inc/classic/patterns/banner.php:68
+#: inc/classic/patterns/banner.php:86 inc/classic/patterns/columns.php:13
+#: inc/classic/patterns/columns.php:22 inc/classic/patterns/columns.php:31
+#: inc/classic/patterns/columns.php:40 inc/classic/patterns/columns.php:49
+#: inc/classic/patterns/columns.php:58 inc/classic/patterns/columns.php:67
+#: inc/classic/patterns/columns.php:76 inc/classic/patterns/columns.php:85
+#: inc/classic/patterns/columns.php:94 inc/classic/patterns/columns.php:103
+#: inc/classic/patterns/columns.php:112 inc/classic/patterns/columns.php:121
+#: inc/classic/patterns/columns.php:130 inc/classic/patterns/columns.php:139
+#: inc/classic/patterns/columns.php:148 inc/classic/patterns/columns.php:157
+#: inc/classic/patterns/columns.php:166 inc/classic/patterns/columns.php:175
+#: inc/classic/patterns/events.php:58 inc/classic/patterns/list.php:58
+#: inc/classic/patterns/list.php:67 inc/classic/patterns/list.php:76
+#: inc/classic/patterns/list.php:85 inc/classic/patterns/list.php:94
+#: inc/classic/patterns/numbers.php:40 inc/classic/patterns/numbers.php:49
+#: inc/classic/patterns/pages.php:17 inc/classic/patterns/pages.php:27
+#: inc/classic/patterns/pages.php:37 inc/classic/patterns/pages.php:57
+#: inc/classic/patterns/pages.php:67 inc/classic/patterns/pages.php:77
+#: inc/classic/patterns/pages.php:87 inc/classic/patterns/pages.php:97
+#: inc/classic/patterns/pricing.php:140 inc/classic/patterns/pricing.php:149
+#: inc/classic/patterns/pricing.php:158 inc/classic/patterns/pricing.php:167
+#: inc/classic/patterns/pricing.php:176 inc/classic/patterns/pricing.php:194
+#: inc/classic/patterns/pricing.php:203 inc/classic/patterns/text-image.php:132
+#: inc/classic/patterns/text-image.php:141
+#: inc/classic/patterns/text-image.php:168
+#: inc/classic/patterns/text-image.php:177
+#: inc/classic/patterns/text-image.php:186 inc/classic/patterns/text.php:85
+#: inc/classic/patterns/text.php:94 inc/classic/patterns/text.php:103
+#: inc/classic/patterns/text.php:112 inc/classic/patterns/text.php:130
+#: inc/classic/patterns/text.php:139 inc/classic/patterns/text.php:148
+#: inc/classic/patterns/text.php:157 inc/classic/patterns/text.php:166
+#: inc/classic/patterns/twentytwenty.php:26
+#: inc/classic/patterns/twentytwenty.php:35
+#: inc/classic/patterns/twentytwenty.php:44
+#: inc/classic/patterns/twentytwenty.php:53
+#: inc/classic/patterns/twentytwenty.php:89 inc/patterns/banner.php:50
+#: inc/patterns/banner.php:59 inc/patterns/banner.php:77
+#: inc/patterns/columns.php:13 inc/patterns/columns.php:22
+#: inc/patterns/columns.php:31 inc/patterns/columns.php:40
+#: inc/patterns/columns.php:49 inc/patterns/columns.php:58
+#: inc/patterns/columns.php:67 inc/patterns/columns.php:76
+#: inc/patterns/columns.php:85 inc/patterns/columns.php:94
+#: inc/patterns/columns.php:103 inc/patterns/columns.php:112
+#: inc/patterns/columns.php:121 inc/patterns/columns.php:130
+#: inc/patterns/columns.php:139 inc/patterns/columns.php:148
+#: inc/patterns/events.php:49 inc/patterns/list.php:58 inc/patterns/list.php:67
+#: inc/patterns/list.php:76 inc/patterns/list.php:85 inc/patterns/list.php:94
+#: inc/patterns/numbers.php:58 inc/patterns/numbers.php:67
+#: inc/patterns/numbers.php:76 inc/patterns/pages.php:15
+#: inc/patterns/pages.php:25 inc/patterns/pages.php:35
+#: inc/patterns/pages.php:45 inc/patterns/pages.php:65
+#: inc/patterns/pages.php:78 inc/patterns/pages.php:88
+#: inc/patterns/pages.php:98 inc/patterns/pages.php:108
+#: inc/patterns/pages.php:118 inc/patterns/pages.php:128
+#: inc/patterns/pricing.php:158 inc/patterns/pricing.php:167
+#: inc/patterns/pricing.php:176 inc/patterns/pricing.php:185
+#: inc/patterns/pricing.php:194 inc/patterns/pricing.php:203
+#: inc/patterns/pricing.php:212 inc/patterns/pricing.php:221
+#: inc/patterns/pricing.php:230 inc/patterns/pricing.php:239
+#: inc/patterns/text-image.php:149 inc/patterns/text-image.php:168
+#: inc/patterns/text-image.php:178 inc/patterns/text-image.php:187
+#: inc/patterns/text-image.php:196 inc/patterns/text.php:40
+#: inc/patterns/text.php:49 inc/patterns/text.php:58 inc/patterns/text.php:67
+#: inc/patterns/text.php:76 inc/patterns/text.php:85 inc/patterns/text.php:94
+msgctxt "Block pattern content"
+msgid "First item"
+msgstr "Premier élément"
+
+#: inc/classic/patterns/banner.php:32 inc/classic/patterns/banner.php:50
+#: inc/classic/patterns/banner.php:59 inc/classic/patterns/banner.php:68
+#: inc/classic/patterns/banner.php:77 inc/classic/patterns/columns.php:40
+#: inc/classic/patterns/columns.php:49 inc/classic/patterns/columns.php:112
+#: inc/classic/patterns/columns.php:121 inc/classic/patterns/columns.php:130
+#: inc/classic/patterns/columns.php:166 inc/classic/patterns/columns.php:175
+#: inc/classic/patterns/gallery.php:14 inc/classic/patterns/gallery.php:23
+#: inc/classic/patterns/gallery.php:32 inc/classic/patterns/gallery.php:41
+#: inc/classic/patterns/gallery.php:50 inc/classic/patterns/gallery.php:59
+#: inc/classic/patterns/hero.php:32 inc/classic/patterns/hero.php:50
+#: inc/classic/patterns/hero.php:104 inc/classic/patterns/list.php:13
+#: inc/classic/patterns/list.php:22 inc/classic/patterns/list.php:49
+#: inc/classic/patterns/list.php:58 inc/classic/patterns/list.php:67
+#: inc/classic/patterns/list.php:76 inc/classic/patterns/list.php:85
+#: inc/classic/patterns/media.php:22 inc/classic/patterns/numbers.php:13
+#: inc/classic/patterns/numbers.php:22 inc/classic/patterns/numbers.php:40
+#: inc/classic/patterns/numbers.php:49 inc/classic/patterns/numbers.php:58
+#: inc/classic/patterns/pages.php:37 inc/classic/patterns/pages.php:77
+#: inc/classic/patterns/text-image.php:68
+#: inc/classic/patterns/text-image.php:86
+#: inc/classic/patterns/text-image.php:95
+#: inc/classic/patterns/text-image.php:104
+#: inc/classic/patterns/text-image.php:132
+#: inc/classic/patterns/text-image.php:141
+#: inc/classic/patterns/text-image.php:168
+#: inc/classic/patterns/text-image.php:177
+#: inc/classic/patterns/text-image.php:186 inc/classic/patterns/text.php:58
+#: inc/classic/patterns/text.php:67 inc/classic/patterns/text.php:94
+#: inc/classic/patterns/text.php:103 inc/classic/patterns/text.php:112
+#: inc/classic/patterns/text.php:121 inc/classic/patterns/text.php:130
+#: inc/classic/patterns/text.php:139 inc/classic/patterns/text.php:148
+#: inc/classic/patterns/text.php:157 inc/classic/patterns/text.php:166
+#: inc/classic/patterns/twentytwenty.php:8
+#: inc/classic/patterns/twentytwenty.php:17
+#: inc/classic/patterns/twentytwenty.php:26
+#: inc/classic/patterns/twentytwenty.php:35
+#: inc/classic/patterns/twentytwenty.php:44
+#: inc/classic/patterns/twentytwenty.php:53
+#: inc/classic/patterns/twentytwenty.php:89 inc/patterns/banner.php:32
+#: inc/patterns/banner.php:50 inc/patterns/banner.php:59
+#: inc/patterns/banner.php:68 inc/patterns/columns.php:40
+#: inc/patterns/columns.php:103 inc/patterns/columns.php:112
+#: inc/patterns/columns.php:121 inc/patterns/columns.php:139
+#: inc/patterns/columns.php:148 inc/patterns/gallery.php:14
+#: inc/patterns/gallery.php:23 inc/patterns/gallery.php:32
+#: inc/patterns/gallery.php:41 inc/patterns/gallery.php:50
+#: inc/patterns/list.php:13 inc/patterns/list.php:22 inc/patterns/list.php:49
+#: inc/patterns/list.php:58 inc/patterns/list.php:67 inc/patterns/list.php:76
+#: inc/patterns/list.php:85 inc/patterns/media.php:22
+#: inc/patterns/numbers.php:13 inc/patterns/numbers.php:22
+#: inc/patterns/numbers.php:31 inc/patterns/numbers.php:40
+#: inc/patterns/numbers.php:58 inc/patterns/numbers.php:67
+#: inc/patterns/numbers.php:76 inc/patterns/pages.php:35
+#: inc/patterns/pages.php:45 inc/patterns/pages.php:88
+#: inc/patterns/pages.php:98 inc/patterns/text-image.php:68
+#: inc/patterns/text-image.php:95 inc/patterns/text-image.php:104
+#: inc/patterns/text-image.php:113 inc/patterns/text-image.php:140
+#: inc/patterns/text-image.php:149 inc/patterns/text-image.php:158
+#: inc/patterns/text-image.php:178 inc/patterns/text-image.php:187
+#: inc/patterns/text-image.php:196 inc/patterns/text.php:31
+#: inc/patterns/text.php:49 inc/patterns/text.php:58 inc/patterns/text.php:67
+#: inc/patterns/text.php:76 inc/patterns/text.php:85 inc/patterns/text.php:94
+msgctxt "Block pattern content"
+msgid "Write a heading that captivates your audience"
+msgstr "Rédigez un titre qui captive votre audience"
+
+#: inc/classic/patterns/text.php:58 inc/classic/patterns/text.php:76
+msgctxt "Block pattern content"
+msgid "Short heading"
+msgstr "Titre court"
+
+#: inc/classic/patterns/text.php:56
+msgid "Eyebrow heading"
+msgstr "Avant-titre"
+
+#: inc/classic/patterns/text.php:47
+msgid "Heading and lead paragraph"
+msgstr "Titre et paragraphe d’introduction"
+
+#: inc/classic/patterns/text.php:38 inc/patterns/text.php:20
+msgid "Heading and large text"
+msgstr "Titre et texte large"
+
+#: inc/classic/patterns/text.php:29
+msgid "Large text"
+msgstr "Texte large"
+
+#: inc/classic/patterns/text.php:20
+msgid "Centered heading and text"
+msgstr "Titre centré et texte"
+
+#: inc/classic/patterns/banner.php:14 inc/classic/patterns/banner.php:23
+#: inc/classic/patterns/banner.php:41
+#: inc/classic/patterns/call-to-action.php:23
+#: inc/classic/patterns/call-to-action.php:32
+#: inc/classic/patterns/call-to-action.php:68
+#: inc/classic/patterns/call-to-action.php:77
+#: inc/classic/patterns/call-to-action.php:95
+#: inc/classic/patterns/columns.php:13 inc/classic/patterns/columns.php:22
+#: inc/classic/patterns/columns.php:31 inc/classic/patterns/columns.php:58
+#: inc/classic/patterns/columns.php:67 inc/classic/patterns/columns.php:76
+#: inc/classic/patterns/columns.php:85 inc/classic/patterns/columns.php:94
+#: inc/classic/patterns/columns.php:103 inc/classic/patterns/columns.php:139
+#: inc/classic/patterns/columns.php:148 inc/classic/patterns/columns.php:157
+#: inc/classic/patterns/list.php:31 inc/classic/patterns/list.php:40
+#: inc/classic/patterns/list.php:94 inc/classic/patterns/media.php:31
+#: inc/classic/patterns/media.php:40 inc/classic/patterns/media.php:49
+#: inc/classic/patterns/numbers.php:31 inc/classic/patterns/pages.php:47
+#: inc/classic/patterns/pages.php:57 inc/classic/patterns/pages.php:67
+#: inc/classic/patterns/pages.php:77 inc/classic/patterns/pages.php:87
+#: inc/classic/patterns/text-image.php:14
+#: inc/classic/patterns/text-image.php:23
+#: inc/classic/patterns/text-image.php:32
+#: inc/classic/patterns/text-image.php:41
+#: inc/classic/patterns/text-image.php:50
+#: inc/classic/patterns/text-image.php:59
+#: inc/classic/patterns/text-image.php:77
+#: inc/classic/patterns/text-image.php:114
+#: inc/classic/patterns/text-image.php:123
+#: inc/classic/patterns/text-image.php:150
+#: inc/classic/patterns/text-image.php:159 inc/classic/patterns/text.php:13
+#: inc/classic/patterns/text.php:22 inc/classic/patterns/text.php:40
+#: inc/classic/patterns/text.php:49 inc/classic/patterns/text.php:85
+#: inc/classic/patterns/text.php:121 inc/patterns/banner.php:14
+#: inc/patterns/banner.php:23 inc/patterns/banner.php:41
+#: inc/patterns/call-to-action.php:23 inc/patterns/call-to-action.php:32
+#: inc/patterns/call-to-action.php:59 inc/patterns/call-to-action.php:68
+#: inc/patterns/call-to-action.php:86 inc/patterns/columns.php:13
+#: inc/patterns/columns.php:22 inc/patterns/columns.php:31
+#: inc/patterns/columns.php:49 inc/patterns/columns.php:58
+#: inc/patterns/columns.php:67 inc/patterns/columns.php:76
+#: inc/patterns/columns.php:85 inc/patterns/columns.php:94
+#: inc/patterns/columns.php:130 inc/patterns/list.php:31
+#: inc/patterns/list.php:40 inc/patterns/list.php:94 inc/patterns/media.php:31
+#: inc/patterns/media.php:40 inc/patterns/media.php:49
+#: inc/patterns/numbers.php:49 inc/patterns/pages.php:45
+#: inc/patterns/pages.php:55 inc/patterns/pages.php:65
+#: inc/patterns/pages.php:78 inc/patterns/pages.php:88
+#: inc/patterns/pages.php:98 inc/patterns/pages.php:108
+#: inc/patterns/pages.php:128 inc/patterns/text-image.php:14
+#: inc/patterns/text-image.php:23 inc/patterns/text-image.php:32
+#: inc/patterns/text-image.php:41 inc/patterns/text-image.php:50
+#: inc/patterns/text-image.php:59 inc/patterns/text-image.php:77
+#: inc/patterns/text-image.php:86 inc/patterns/text-image.php:122
+#: inc/patterns/text-image.php:131 inc/patterns/text-image.php:140
+#: inc/patterns/text-image.php:158 inc/patterns/text-image.php:168
+#: inc/patterns/text.php:13 inc/patterns/text.php:22 inc/patterns/text.php:40
+msgctxt "Block pattern content"
+msgid "Write a heading"
+msgstr "Rédigez un titre"
+
+#: inc/patterns/text.php:38
+msgid "Headings and text"
+msgstr "Titre et texte"
+
+#: inc/block-patterns.php:29
+msgctxt "Block pattern category"
+msgid "Events, Schedule"
+msgstr "Évènements, programme"
+
+#: inc/block-patterns.php:28
+msgctxt "Block pattern category"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/block-patterns.php:27
+msgctxt "Block pattern category"
+msgid "Pricing"
+msgstr "Tarifs"
+
+#: inc/block-patterns.php:26
+msgctxt "Block pattern category"
+msgid "Logos, Clients"
+msgstr "Logos, clients"
+
+#: inc/block-patterns.php:25
+msgctxt "Block pattern category"
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: inc/block-patterns.php:24
+msgctxt "Block pattern category"
+msgid "Team"
+msgstr "Équipe"
+
+#: inc/block-patterns.php:23
+msgctxt "Block pattern category"
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/block-patterns.php:22
+msgctxt "Block pattern category"
+msgid "Latest Posts"
+msgstr "Articles récents"
+
+#: inc/block-patterns.php:20
+msgctxt "Block pattern category"
+msgid "Gallery"
+msgstr "Galerie"
+
+#: inc/block-patterns.php:19
+msgctxt "Block pattern category"
+msgid "Numbers, Stats"
+msgstr "Nombres, statistiques"
+
+#: inc/block-patterns.php:18
+msgctxt "Block pattern category"
+msgid "List"
+msgstr "Liste"
+
+#: inc/block-patterns.php:17
+msgctxt "Block pattern category"
+msgid "Call to Action"
+msgstr "Appel à l’action"
+
+#: inc/block-patterns.php:21
+msgctxt "Block pattern category"
+msgid "Media"
+msgstr "Médias"
+
+#: inc/block-patterns.php:13
+msgctxt "Block pattern category"
+msgid "Text"
+msgstr "Texte"
+
+#: inc/block-patterns.php:14
+msgctxt "Block pattern category"
+msgid "Text and Image"
+msgstr "Texte et Image"
+
+#: inc/settings.php:104
+msgid "Enable WordPress Block Directory"
+msgstr "Activer le répertoire de blocs de WordPress"
+
+#: inc/settings.php:90
+msgid "Enable default WordPress block patterns"
+msgstr "Activer les compositions par défaut de WordPress"
+
+#: inc/settings.php:38
+msgid "Block Directory"
+msgstr "Répertoire de blocs"
+
+#: inc/settings.php:30
+msgid "Core Block Patterns"
+msgstr "Compositions de blocs par défaut"
+
+#: inc/about.php:257
+msgid "Support forum"
+msgstr "Forum de support"
+
+#: inc/about.php:76
+msgid "Install Twenty Twenty-Two"
+msgstr "Installer Twenty Twenty-Two"
+
+#: inc/about.php:73
+msgid "Activate Twenty Twenty-Two"
+msgstr "Activer Twenty Twenty-Two"
+
+#: inc/about.php:34 dist/index.js:1
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/block-presets.php:125 inc/block-presets.php:128
+msgid "Add a frame around the block."
+msgstr "Ajouter un cadre autour du bloc."
+
+#: inc/block-presets.php:121
+msgid "Center the images of the last row. You must enable the “Fixed width columns” setting."
+msgstr "Centrer les images de la dernière ligne. Vous devez activer le réglage « Colonnes à largeur fixe »."
+
+#: inc/block-presets.php:119
+msgid "Add an inner border between the images (useful for logos)."
+msgstr "Ajouter une bordure intérieure entre les images (utile pour les logos)."
+
+#: inc/block-presets.php:118
+msgid "Add a border around the images (useful for logos and illustrations)."
+msgstr "Ajouter une bordure autour des images (utile pour les logos et les illustrations)."
+
+#: inc/block-presets.php:104
+msgid "Make the block full height. You must enable the “Crop image to fill entire column” setting."
+msgstr "Rendre le bloc en pleine hauteur. Vous devez activer le réglage « Recadrer l’image pour remplir toute la colonne »."
+
+#: inc/block-presets.php:74
+msgid "Make the last block of the group overlap the group just below."
+msgstr "Faire chevaucher le dernier bloc du groupe avec le groupe juste en dessous."
+
+#: inc/block-presets.php:62
+msgid "Set a loose spacing between the list items."
+msgstr "Définir un espacement ample entre les éléments de la liste."
+
+#: inc/block-presets.php:61
+msgid "Set a medium spacing between the list items."
+msgstr "Définir un espacement moyen entre les éléments de la liste."
+
+#: inc/block-presets.php:60 inc/block-presets.php:88 inc/block-presets.php:149
+msgid "Align text center."
+msgstr "Centrer le texte."
+
+#: inc/block-presets.php:34
+msgid "Add a short line below the heading."
+msgstr "Ajouter une ligne courte sous le titre."
+
+#: inc/block-presets.php:18 inc/block-presets.php:32 inc/block-presets.php:49
+#: inc/block-presets.php:153 inc/block-presets.php:157
+#: inc/block-presets.php:161 inc/block-presets.php:168
+#: inc/block-presets.php:190 inc/block-presets.php:208
+msgid "Remove underline from link."
+msgstr "Retirer le soulignement du lien."
+
+#: inc/block-presets.php:17 inc/block-presets.php:31 inc/block-presets.php:48
+#: inc/block-presets.php:63 inc/block-presets.php:152 inc/block-presets.php:156
+#: inc/block-presets.php:160 inc/block-presets.php:167
+#: inc/block-presets.php:181 inc/block-presets.php:185
+#: inc/block-presets.php:189 inc/block-presets.php:207
+msgid "Underline link only on hover."
+msgstr "Souligner le lien uniquement au survol."
+
+#. translators: link to Google Fonts website
+#: inc/classic/twentytwenty/customizer.php:769
+msgid "Enter a <a href=\"%s\" target=\"_blank\">Google Font</a> name."
+msgstr "Saisissez le nom d’une police <a href=\"%s\" target=\"_blank\">Google Font</a>."
+
+#: inc/classic/twentytwenty/customizer.php:599
+msgid "Fallback Headings Font"
+msgstr "Police de secours de titre"
+
+#. translators: link to Google Fonts website
+#: inc/classic/twentytwenty/customizer.php:581
+msgid "If the Headings Font is set as Secondary Font, it’s recommended that the 600 or 700 styles be available for your <a href=\"%s\" target=\"_blank\">Google Font</a>."
+msgstr "Si la police de titre est définie comme police secondaire, il est recommandé que les styles 600 ou 700 soient disponibles pour votre police <a href=\"%s\" target=\"_blank\">Google Font</a>."
+
+#: inc/classic/twentytwenty/customizer.php:573
+msgid "Custom Headings Font"
+msgstr "Police personnalisée de titre"
+
+#: inc/classic/twentytwenty/customizer.php:465
+msgid "Fallback Body Font"
+msgstr "Police de secours du corps"
+
+#. translators: link to Google Fonts website
+#: inc/classic/twentytwenty/customizer.php:447
+msgid "It’s recommended that the 400 italic and 700 styles be available for your <a href=\"%s\" target=\"_blank\">Google Font</a>."
+msgstr "Il est recommandé que les styles 400 italic et 700 soient disponibles pour votre police <a href=\"%s\" target=\"_blank\">Google Font</a>."
+
+#: inc/classic/twentytwenty/customizer.php:443
+#: inc/classic/twentytwenty/customizer.php:577
+#: inc/classic/twentytwenty/customizer.php:765
+msgid "Font Name"
+msgstr "Nom de la police"
+
+#: inc/classic/twentytwenty/customizer.php:439
+msgid "Custom Body Font"
+msgstr "Police personnalisée du corps"
+
+#: inc/classic/twentytwenty/customizer.php:422
+#: inc/classic/twentytwenty/customizer.php:556
+#: inc/classic/twentytwenty/customizer.php:744
+msgid "Custom Google Font"
+msgstr "Police Google Font personnalisée"
+
+#: inc/classic/twentytwenty/customizer.php:421
+#: inc/classic/twentytwenty/customizer.php:555
+#: inc/classic/twentytwenty/customizer.php:743
+msgid "Additional Fonts"
+msgstr "Polices supplémentaires"
+
+#: inc/classic/twentytwenty/customizer.php:420
+#: inc/classic/twentytwenty/customizer.php:554
+#: inc/classic/twentytwenty/customizer.php:742
+#: inc/classic/twentytwentyone/customizer.php:426
+#: inc/classic/twentytwentyone/customizer.php:514
+#: inc/classic/twentytwentyone/customizer.php:656
+msgid "Curated Google Fonts"
+msgstr "Polices Google Fonts sélectionnées"
+
+#: inc/classic/twentytwenty/customizer.php:416
+#: inc/classic/twentytwenty/customizer.php:550
+#: inc/classic/twentytwenty/customizer.php:738
+msgid "Standard Fonts"
+msgstr "Polices standard"
+
+#: inc/classic/theme-tools/class-twentig-customize-font-presets-control.php:35
+msgid "View Presets"
+msgstr "Voir les préréglages"
+
+#: inc/classic/theme-tools/class-twentig-customize-font-presets-control.php:30
+msgid "Choosing a preset will override all the font settings."
+msgstr "Le choix d’un préréglage remplacera tous les réglages de police."
+
+#: inc/classic/theme-tools/class-twentig-customize-font-presets-control.php:29
+msgid "Presets"
+msgstr "Préréglages"
+
+#: inc/classic/theme-tools/404.php:70
+#: inc/classic/twentytwenty/customizer.php:1652
+#: inc/classic/twentytwentyone/customizer.php:1677
+msgid "404 Page"
+msgstr "Page 404"
+
+#: inc/classic/theme-tools/404.php:31
+msgid "Page not found"
+msgstr "Page non trouvée"
+
+#: inc/classic/twentytwenty/template-tags.php:882
+msgid "Powered by WordPress"
+msgstr "Propulsé par WordPress"
+
+#: inc/classic/twentytwenty/template-tags.php:823
+msgid "Social links"
+msgstr "Réseaux sociaux"
+
+#: inc/classic/twentytwenty/customizer.php:2169
+msgid "Desktop Horizontal Menu"
+msgstr "Menu horizontal grands écrans"
+
+#: inc/classic/twentytwenty/customizer.php:2166
+msgid "Social Icons Locations"
+msgstr "Emplacements des icônes de réseaux sociaux"
+
+#: inc/classic/twentytwenty/customizer.php:2047
+msgid "Elements Style"
+msgstr "Style des éléments"
+
+#: inc/classic/twentytwenty/customizer.php:2006
+msgid "Image"
+msgstr "Image"
+
+#: inc/classic/twentytwenty/customizer.php:1835
+#: inc/classic/twentytwentyone/customizer.php:1906
+msgid "Featured Image Aspect Ratio"
+msgstr "Proportion de l’image mise en avant"
+
+#. translators: link to theme options panel
+#: inc/classic/twentytwenty/customizer.php:1764
+msgid "Set the post content in the <a href=\"%s\">Theme Options panel</a>."
+msgstr "Définissez le contenu de la publication dans le <a href=\"%s\">panneau Options du thème</a>."
+
+#: inc/classic/twentytwenty/customizer.php:1759
+#: inc/classic/twentytwentyone/customizer.php:1958
+msgid "Display post content"
+msgstr "Afficher le contenu de la publication"
+
+#: inc/classic/twentytwenty/customizer.php:1720
+#: inc/classic/twentytwentyone/customizer.php:1762
+msgid "Grid"
+msgstr "Grille"
+
+#: inc/classic/twentytwenty/customizer.php:1674
+#: inc/classic/twentytwentyone/customizer.php:1699
+msgid "To set a 404 page, you’ll first need to create a private page (to prevent search engines from indexing this page)."
+msgstr "Pour définir une page 404, vous devez d’abord créer une page privée (pour empêcher les moteurs de recherche d’indexer cette page)."
+
+#: inc/classic/twentytwenty/customizer.php:1672
+#: inc/classic/twentytwentyone/customizer.php:1697
+msgid "Custom 404 Page"
+msgstr "Page 404 personnalisée"
+
+#: inc/classic/twentytwenty/customizer.php:1605
+#: inc/classic/twentytwenty/customizer.php:1931
+#: inc/classic/twentytwentyone/customizer.php:1551
+#: inc/classic/twentytwentyone/customizer.php:2146
+msgid "No Image"
+msgstr "Aucune image"
+
+#: inc/classic/twentytwenty/customizer.php:1598
+#: inc/classic/twentytwenty/customizer.php:1924
+#: inc/classic/twentytwentyone/customizer.php:1544
+#: inc/classic/twentytwentyone/customizer.php:2139
+msgid "Featured Image Layout"
+msgstr "Disposition de l’image mise en avant"
+
+#: inc/classic/twentytwenty/customizer.php:1581
+#: inc/classic/twentytwentyone/customizer.php:1527
+msgid "Standard Pages"
+msgstr "Pages standard"
+
+#: inc/block-styles.php:456
+msgid "Stack"
+msgstr "Empilée"
+
+#: inc/classic/twentytwenty/customizer.php:1294
+#: inc/classic/twentytwenty/customizer.php:1551
+#: inc/classic/twentytwenty/customizer.php:2142
+msgid "Social Icons"
+msgstr "Icônes de réseaux sociaux"
+
+#: inc/block-styles.php:15 inc/block-styles.php:65 inc/block-styles.php:90
+#: inc/block-styles.php:140 inc/block-styles.php:565 inc/block-styles.php:600
+#: inc/classic/twentytwenty/customizer.php:1152
+#: inc/classic/twentytwentyone/customizer.php:1063 dist/index.js:1
+msgid "Shadow"
+msgstr "Ombre"
+
+#: inc/classic/twentytwenty/customizer.php:1146
+#: inc/classic/twentytwentyone/customizer.php:1057
+msgid "Header Decoration"
+msgstr "Décoration de l’en-tête"
+
+#: inc/classic/twentytwenty/customizer.php:1129
+#: inc/classic/twentytwentyone/customizer.php:1040
+msgid "Sticky Header"
+msgstr "En-tête fixe"
+
+#: inc/classic/twentytwenty/customizer.php:1083
+#: inc/classic/twentytwentyone/customizer.php:971
+msgid "Header Layout"
+msgstr "Mise en page de l’en-tête"
+
+#: inc/classic/twentytwenty/customizer.php:139
+msgid "Caution: make sure that the color is accessible throughout the site (header, content, footer)."
+msgstr "Attention : assurez-vous que la couleur est accessible sur tout le site (en-tête, contenu, pied de page)."
+
+#: inc/classic/twentytwenty/customizer.php:123
+msgid "Custom Hue"
+msgstr "Teinte personnalisée"
+
+#: inc/classic/theme-tools/class-twentig-customize-dropdown-pages-private-control.php:39
+#: inc/classic/theme-tools/class-twentig-customize-dropdown-reusable-blocks-control.php:47
+#: inc/classic/theme-tools/class-twentig-customize-starter-control.php:40
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Sélectionner &mdash;"
+
+#: inc/classic/twentytwentyone/customizer.php:1890
+msgid "Wide"
+msgstr "Large"
+
+#: inc/classic/twentytwenty/customizer.php:353
+#: inc/classic/twentytwentyone/customizer.php:1595
+#: inc/classic/twentytwentyone/customizer.php:1889
+#: inc/classic/twentytwentyone/customizer.php:2190
+msgid "Text Width"
+msgstr "Largeur du texte"
+
+#: inc/classic/twentytwenty/customizer.php:336
+#: inc/classic/twentytwentyone/customizer.php:292
+msgid "Site Layout"
+msgstr "Mise en page du site"
+
+#: inc/about.php:294 inc/classic/twentytwenty/customizer.php:2243
+#: inc/classic/twentytwentyone/customizer.php:2610
+msgid "Subscribe"
+msgstr "S’abonner"
+
+#: inc/classic/twentytwenty/customizer.php:1503
+#: inc/classic/twentytwentyone/customizer.php:1335
+msgid "Credit"
+msgstr "Crédit"
+
+#: inc/classic/twentytwenty/customizer.php:1429
+msgid "Styles"
+msgstr "Styles"
+
+#: inc/classic/twentytwenty/customizer.php:1413
+#: inc/classic/twentytwentyone/customizer.php:1314
+msgid "Footer Width"
+msgstr "Largeur du pied de page"
+
+#: inc/classic/twentytwenty/customizer.php:1398
+msgid "For Row layout, Footer #1 area is above Footer #2 area, and the widgets are displayed inline inside each area."
+msgstr "Pour la disposition en ligne, la zone « Pied de page #1 » est au-dessus de la zone « Pied de page #2 » et les widgets sont affichés en ligne à l’intérieur de chaque zone."
+
+#: inc/classic/twentytwenty/customizer.php:1396
+msgid "Row"
+msgstr "Ligne"
+
+#: inc/classic/twentytwenty/customizer.php:1395
+msgid "Column (default)"
+msgstr "Colonne (par défaut)"
+
+#: inc/classic/twentytwenty/customizer.php:1391
+msgid "Widgets Layout"
+msgstr "Mise en page des widgets"
+
+#: inc/classic/twentytwentyone/customizer.php:1274
+msgid "Hidden"
+msgstr "Masquée"
+
+#: inc/classic/twentytwenty/customizer.php:1341
+msgid "Bottom Footer Layout"
+msgstr "Mise en page de la partie inférieure du pied de page"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://twentig.com"
+msgstr "https://twentig.com"
+
+#: inc/block-styles.php:368 inc/block-styles.php:410 inc/block-styles.php:531
+#: inc/block-styles.php:555
+msgid "Pill"
+msgstr "Pilule"
+
+#: inc/block-styles.php:41 inc/block-styles.php:124 inc/block-styles.php:324
+#: inc/block-styles.php:360 inc/block-styles.php:402 inc/block-styles.php:491
+#: inc/block-styles.php:523 inc/block-styles.php:547 dist/index.js:1
+msgid "Rounded"
+msgstr "Arrondi"
+
+#: inc/block-styles.php:316 inc/block-styles.php:483 inc/block-styles.php:515
+#: inc/block-styles.php:539 inc/classic/twentytwenty/customizer.php:1844
+#: inc/classic/twentytwentyone/customizer.php:1915 dist/index.js:1
+msgid "Square"
+msgstr "Carré"
+
+#: inc/classic/twentytwenty/customizer.php:2087
+#: inc/classic/twentytwentyone/customizer.php:2495
+msgid "Button Shape"
+msgstr "Forme du bouton"
+
+#: inc/classic/twentytwenty/customizer.php:2024
+#: inc/classic/twentytwentyone/customizer.php:2364
+msgid "Display comments section"
+msgstr "Afficher la section commentaire"
+
+#: inc/classic/twentytwenty/customizer.php:2001
+#: inc/classic/twentytwentyone/customizer.php:2342
+msgid "Navigation"
+msgstr "Navigation"
+
+#: inc/classic/twentytwenty/customizer.php:1897
+msgid "Display meta icons"
+msgstr "Afficher les icônes des métas"
+
+#: inc/classic/twentytwenty/customizer.php:1469
+msgid "Footer Link Color"
+msgstr "Couleur de lien du pied de page"
+
+#: inc/classic/twentytwenty/customizer.php:1283
+msgid "Display label for menu and search buttons"
+msgstr "Afficher le libellé des boutons de menu et de recherche"
+
+#: inc/block-styles.php:215 inc/block-styles.php:281
+#: inc/classic/twentytwenty/customizer.php:1151
+#: inc/classic/twentytwenty/customizer.php:1235
+#: inc/classic/twentytwentyone/customizer.php:1062
+#: inc/classic/twentytwentyone/customizer.php:1145 dist/index.js:1
+msgid "Border"
+msgstr "Bordure"
+
+#: inc/classic/twentytwenty/customizer.php:1185
+#: inc/classic/twentytwentyone/customizer.php:1118
+msgid "Menu Item Spacing"
+msgstr "Espacement des éléments du menu"
+
+#. translators: link to fonts panel
+#: inc/classic/twentytwenty/customizer.php:1166
+#: inc/classic/twentytwentyone/customizer.php:1099
+msgid "Visit the <a href=\"%s\">Fonts panel</a> to set the menu font."
+msgstr "Consultez le <a href=\"%s\">panneau Polices</a> pour définir la police du menu."
+
+#: inc/classic/twentytwenty/customizer.php:1065
+#: inc/classic/twentytwenty/customizer.php:1324
+#: inc/classic/twentytwentyone/customizer.php:954 dist/index.js:1
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/classic/twentytwenty/customizer.php:1005
+#: inc/classic/twentytwentyone/customizer.php:894
+msgid "Menu Text Transform"
+msgstr "Transformation de texte du menu"
+
+#: inc/classic/twentytwenty/customizer.php:982
+msgid "Menu Font Size"
+msgstr "Taille de police du menu"
+
+#: inc/classic/twentytwenty/customizer.php:961
+#: inc/classic/twentytwentyone/customizer.php:826
+msgid "Menu Font Weight"
+msgstr "Épaisseur de police du menu"
+
+#: inc/classic/twentytwenty/customizer.php:939
+#: inc/classic/twentytwentyone/customizer.php:804
+msgid "Menu Font"
+msgstr "Police du menu"
+
+#: inc/classic/twentytwenty/customizer.php:920
+#: inc/classic/twentytwenty/customizer.php:1162
+#: inc/classic/twentytwentyone/customizer.php:1095
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/classic/twentytwenty/customizer.php:910
+#: inc/classic/twentytwenty/customizer.php:1012
+#: inc/classic/twentytwentyone/customizer.php:775
+#: inc/classic/twentytwentyone/customizer.php:901
+msgid "Capitalize"
+msgstr "Capitaliser"
+
+#: inc/classic/twentytwenty/customizer.php:909
+#: inc/classic/twentytwenty/customizer.php:1011
+#: inc/classic/twentytwentyone/customizer.php:774
+#: inc/classic/twentytwentyone/customizer.php:900
+msgid "Lowercase"
+msgstr "Minuscule"
+
+#: inc/classic/twentytwenty/customizer.php:908
+#: inc/classic/twentytwenty/customizer.php:1010
+#: inc/classic/twentytwentyone/customizer.php:773
+#: inc/classic/twentytwentyone/customizer.php:899
+#: inc/classic/twentytwentyone/customizer.php:2544
+msgid "Uppercase"
+msgstr "Majuscule"
+
+#: inc/classic/twentytwentyone/customizer.php:1146 dist/index.js:1
+msgid "None"
+msgstr "Aucune"
+
+#: inc/classic/twentytwenty/customizer.php:903
+#: inc/classic/twentytwentyone/customizer.php:768
+msgid "Site Title Text Transform"
+msgstr "Transformation de texte du titre du site"
+
+#: inc/classic/twentytwenty/customizer.php:881
+#: inc/classic/twentytwentyone/customizer.php:745
+msgid "Site Title Letter Spacing"
+msgstr "Interlettrage du titre du site"
+
+#: inc/classic/twentytwenty/customizer.php:834
+#: inc/classic/twentytwentyone/customizer.php:696
+msgid "Site Title Font Size (px)"
+msgstr "Taille de police du titre du site (px)"
+
+#: inc/classic/twentytwenty/customizer.php:717
+msgid "As you’ve selected an image for the Logo, font settings for the Site Title are unavailable."
+msgstr "Comme vous avez sélectionné une image pour le logo, les réglages de police pour le titre du site ne sont pas disponibles."
+
+#: inc/classic/twentytwenty/customizer.php:714
+#: inc/classic/twentytwentyone/customizer.php:630
+msgid "Site Title"
+msgstr "Titre du site"
+
+#: inc/classic/twentytwenty/customizer.php:705
+msgid "Applies to meta, footer, button, caption, input…"
+msgstr "S’applique aux métas, pied de page, bouton, légende, champ de texte…"
+
+#: inc/classic/twentytwenty/customizer.php:698
+msgid "Secondary Font"
+msgstr "Police secondaire"
+
+#: inc/classic/twentytwenty/customizer.php:679
+#: inc/classic/twentytwentyone/customizer.php:595
+msgid "Secondary Elements"
+msgstr "Éléments secondaires"
+
+#: inc/classic/twentytwenty/customizer.php:641
+#: inc/classic/twentytwentyone/customizer.php:554
+msgid "Headings Letter Spacing"
+msgstr "Interlettrage de titre"
+
+#: inc/classic/twentytwenty/customizer.php:623
+#: inc/classic/twentytwentyone/customizer.php:533
+msgid "Headings Font Weight"
+msgstr "Épaisseur de police de titre"
+
+#: inc/classic/twentytwenty/customizer.php:547
+#: inc/classic/twentytwenty/customizer.php:703
+#: inc/classic/twentytwenty/customizer.php:944
+#: inc/classic/twentytwentyone/customizer.php:508
+#: inc/classic/twentytwentyone/customizer.php:619
+#: inc/classic/twentytwentyone/customizer.php:654
+#: inc/classic/twentytwentyone/customizer.php:809
+msgid "Headings Font"
+msgstr "Police de titre"
+
+#: inc/classic/twentytwenty/customizer.php:527
+#: inc/classic/twentytwentyone/customizer.php:488
+msgid "Headings"
+msgstr "Titres"
+
+#: inc/classic/twentytwentyone/customizer.php:1616
+#: inc/classic/twentytwentyone/customizer.php:2021
+#: inc/classic/twentytwentyone/customizer.php:2211
+msgid "Right"
+msgstr "À droite"
+
+#: inc/classic/twentytwenty/customizer.php:511
+#: inc/classic/twentytwentyone/customizer.php:472
+msgid "Body Line Height"
+msgstr "Interligne du corps"
+
+#: inc/classic/twentytwenty/customizer.php:489
+msgid "Body Font Size"
+msgstr "Taille de police du corps"
+
+#: inc/classic/twentytwenty/customizer.php:393
+#: inc/classic/twentytwentyone/customizer.php:183
+#: inc/classic/twentytwentyone/customizer.php:400
+msgid "Body"
+msgstr "Corps"
+
+#: inc/about.php:158 inc/classic/twentytwenty/customizer.php:371
+#: inc/classic/twentytwentyone/customizer.php:378
+msgid "Fonts"
+msgstr "Polices"
+
+#: inc/classic/twentytwenty/customizer.php:205
+msgid "Apply a custom color to the footer."
+msgstr "Appliquez une couleur personnalisée au pied de page."
+
+#: inc/classic/twentytwenty/customizer.php:204
+msgid "Footer Background Color"
+msgstr "Couleur d’arrière-plan du pied de page"
+
+#: inc/classic/twentytwenty/customizer.php:176
+msgid "Apply “Background Color” to the page title section"
+msgstr "Appliquer « Couleur d’arrière-plan » à la section de titre de page"
+
+#: inc/classic/twentytwenty/customizer.php:151
+msgid "Twentig Colors"
+msgstr "Couleurs Twentig"
+
+#: inc/classic/twentytwenty/customizer.php:1819
+#: inc/classic/twentytwentyone/customizer.php:1846
+msgid "Display featured image"
+msgstr "Afficher l’image mise en avant"
+
+#: inc/classic/twentytwenty/customizer.php:1780
+#: inc/classic/twentytwentyone/customizer.php:1979
+msgid "Excerpt Length (words)"
+msgstr "Longueur de l’extrait (en mots)"
+
+#: inc/classic/twentytwenty/customizer.php:1529
+#: inc/classic/twentytwentyone/customizer.php:1360
+msgid "To automatically display the current year, insert <code>[Y]</code>"
+msgstr "Pour afficher automatiquement l’année en cours, insérez <code>[Y]</code>"
+
+#: inc/classic/twentytwenty/customizer.php:1265
+msgid "Replace the menu icon (horizontal dots) with a hamburger icon"
+msgstr "Remplacer l’icône de menu (points horizontaux) par une icône de « hamburger »"
+
+#: inc/classic/twentytwenty/templates/template-cover.php:98
+msgid "Pages:"
+msgstr "Pages :"
+
+#: inc/about.php:183 inc/classic/twentytwenty/templates/template-cover.php:98
+#: inc/classic/twentytwentyone/customizer.php:2421
+#: inc/classic/twentytwentyone/template-tags.php:71
+#: inc/classic/twentytwentyone/templates/tw-header-transparent-light.php:22
+#: inc/classic/twentytwentyone/templates/tw-header-transparent.php:22
+#: inc/classic/twentytwentyone/templates/tw-no-header-footer.php:38
+#: inc/classic/twentytwentyone/templates/tw-no-title.php:22
+msgid "Page"
+msgstr "Page"
+
+#: inc/classic/twentytwenty/templates/template-cover.php:75
+msgid "Scroll Down"
+msgstr "Défiler vers le bas"
+
+#. translators: %s: HTML character for up arrow
+#: inc/classic/twentytwenty/template-tags.php:722
+msgid "Up %s"
+msgstr "Haut %s"
+
+#. translators: %s: HTML character for up arrow
+#: inc/classic/twentytwenty/template-tags.php:716
+msgid "To the top %s"
+msgstr "Vers le haut %s"
+
+#. translators: Copyright date format, see https://secure.php.net/date
+#: inc/classic/twentytwenty/template-tags.php:872
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/classic/twentytwenty/customizer.php:1508
+msgid "Copyright Only"
+msgstr "Copyright uniquement"
+
+#: inc/classic/twentytwenty/customizer.php:1485
+msgid "Footer Credit"
+msgstr "Crédit du pied de page"
+
+#: inc/about.php:173 inc/classic/twentytwenty/customizer.php:1313
+#: inc/classic/twentytwenty/customizer.php:2172
+#: inc/classic/twentytwenty/template-tags.php:795
+#: inc/classic/twentytwentyone/customizer.php:204
+#: inc/classic/twentytwentyone/customizer.php:1238
+#: inc/classic/twentytwentyone/customizer.php:1249
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/classic/twentytwenty/template-tags.php:26
+msgid "Continue reading"
+msgstr "Lire la suite"
+
+#: inc/classic/twentytwenty/block-editor.php:208
+msgctxt "Name of the medium font size in the block editor"
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/classic/twentytwenty/customizer.php:2194
+msgid "Logos Only"
+msgstr "Logos uniquement"
+
+#: inc/classic/twentytwenty/customizer.php:2189
+msgid "Social Icons Style"
+msgstr "Style des icônes de réseaux sociaux"
+
+#: inc/classic/twentytwenty/customizer.php:1236
+#: inc/classic/twentytwenty/customizer.php:2114
+msgid "Color"
+msgstr "Couleur"
+
+#: inc/block-styles.php:447 dist/index.js:1
+msgid "Underline"
+msgstr "Souligné"
+
+#: inc/classic/twentytwenty/customizer.php:2109
+msgid "Button Hover Style"
+msgstr "Style du bouton au survol"
+
+#: inc/classic/twentytwentyone/customizer.php:1804
+#: inc/classic/twentytwentyone/customizer.php:2089
+msgid "Minimal"
+msgstr "Minimal"
+
+#: inc/classic/twentytwenty/customizer.php:2065
+msgid "Separator Style"
+msgstr "Style du séparateur"
+
+#: inc/classic/twentytwenty/customizer.php:2036
+msgid "Additional Settings"
+msgstr "Réglages supplémentaires"
+
+#: inc/classic/twentytwenty/customizer.php:1952
+#: inc/classic/twentytwentyone/customizer.php:2252
+msgid "Display manual excerpt below the title"
+msgstr "Afficher l’extrait manuel sous le titre"
+
+#: inc/classic/twentytwenty/customizer.php:1907
+#: inc/classic/twentytwentyone/customizer.php:2100
+msgid "Single Post"
+msgstr "Article seul"
+
+#: inc/classic/twentytwenty/customizer.php:1878
+#: inc/classic/twentytwenty/customizer.php:1985
+#: inc/classic/twentytwentyone/customizer.php:2050
+#: inc/classic/twentytwentyone/customizer.php:2295
+#: inc/classic/twentytwentyone/customizer.php:2326
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/classic/twentytwenty/customizer.php:1876
+#: inc/classic/twentytwenty/customizer.php:1983
+#: inc/classic/twentytwentyone/customizer.php:2049
+#: inc/classic/twentytwentyone/customizer.php:2294
+#: inc/classic/twentytwentyone/customizer.php:2325 inc/patterns/posts.php:34
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/classic/twentytwenty/customizer.php:1875
+#: inc/classic/twentytwenty/customizer.php:1982
+#: inc/classic/twentytwentyone/customizer.php:2047
+#: inc/classic/twentytwentyone/customizer.php:2292
+#: inc/classic/twentytwentyone/customizer.php:2323
+msgid "Date"
+msgstr "Date"
+
+#: inc/classic/twentytwenty/customizer.php:1874
+#: inc/classic/twentytwenty/customizer.php:1981
+#: inc/classic/twentytwentyone/customizer.php:2048
+#: inc/classic/twentytwentyone/customizer.php:2293
+#: inc/classic/twentytwentyone/customizer.php:2324
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/classic/twentytwenty/customizer.php:1870
+#: inc/classic/twentytwenty/customizer.php:1977
+#: inc/classic/twentytwentyone/customizer.php:2044
+msgid "Post Meta"
+msgstr "Métas de la publication"
+
+#: inc/classic/twentytwenty/customizer.php:1801
+#: inc/classic/twentytwentyone/customizer.php:2000
+msgid "Display “Continue reading”"
+msgstr "Afficher le lien « Lire la suite »"
+
+#: inc/classic/twentytwenty/customizer.php:1714
+#: inc/classic/twentytwentyone/customizer.php:1757
+msgid "Blog Layout"
+msgstr "Mise en page du blog"
+
+#: inc/about.php:178 inc/classic/twentytwenty/customizer.php:1686
+#: inc/classic/twentytwentyone/customizer.php:1667
+#: inc/classic/twentytwentyone/customizer.php:1711
+#: inc/classic/twentytwentyone/customizer.php:2400
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/classic/twentytwenty/customizer.php:1637
+#: inc/classic/twentytwentyone/customizer.php:1662
+msgid "Search Results Layout"
+msgstr "Mise en page des résultats de recherche"
+
+#: inc/classic/twentytwenty/customizer.php:1570
+#: inc/classic/twentytwentyone/customizer.php:1516
+msgctxt "Customizer Section Title"
+msgid "Page"
+msgstr "Page"
+
+#: inc/classic/twentytwenty/customizer.php:1213
+#: inc/classic/twentytwenty/customizer.php:1475
+#: inc/classic/twentytwentyone/customizer.php:186
+#: inc/classic/twentytwentyone/customizer.php:193
+#: inc/classic/twentytwentyone/customizer.php:208
+#: inc/classic/twentytwentyone/customizer.php:215
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: inc/classic/twentytwenty/customizer.php:1212
+#: inc/classic/twentytwenty/customizer.php:1474
+msgid "Secondary Color"
+msgstr "Couleur secondaire"
+
+#: inc/classic/twentytwenty/customizer.php:1211
+#: inc/classic/twentytwenty/customizer.php:1473
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: inc/classic/twentytwenty/customizer.php:1207
+msgid "Menu Link Color"
+msgstr "Couleur de lien du menu"
+
+#: inc/classic/twentytwenty/customizer.php:1106
+#: inc/classic/twentytwentyone/customizer.php:995
+msgid "Header Width"
+msgstr "Largeur d’en-tête"
+
+#: inc/about.php:168 inc/classic/twentytwenty/customizer.php:1054
+#: inc/classic/twentytwentyone/customizer.php:196
+#: inc/classic/twentytwentyone/customizer.php:943
+msgid "Header"
+msgstr "En-tête"
+
+#: inc/classic/twentytwentyone/customizer.php:2523 dist/index.js:1
+msgid "Large"
+msgstr "Grande"
+
+#: inc/classic/twentytwentyone/customizer.php:2521 dist/index.js:1
+msgid "Small"
+msgstr "Petite"
+
+#: inc/classic/twentytwenty/customizer.php:662
+msgid "Heading 1 Font Size"
+msgstr "Taille de police du titre 1"
+
+#: inc/classic/twentytwenty/customizer.php:417
+#: inc/classic/twentytwenty/customizer.php:551
+#: inc/classic/twentytwenty/customizer.php:739
+#: inc/classic/twentytwentyone/customizer.php:423
+#: inc/classic/twentytwentyone/customizer.php:511
+#: inc/classic/twentytwentyone/customizer.php:653
+msgid "Default Theme Font"
+msgstr "Police par défaut du thème"
+
+#: inc/classic/twentytwenty/customizer.php:413
+#: inc/classic/twentytwenty/customizer.php:702
+#: inc/classic/twentytwenty/customizer.php:943
+#: inc/classic/twentytwentyone/customizer.php:420
+#: inc/classic/twentytwentyone/customizer.php:618
+#: inc/classic/twentytwentyone/customizer.php:808
+msgid "Body Font"
+msgstr "Police du corps"
+
+#: inc/classic/twentytwenty/customizer.php:307
+msgid "Post Cover Height"
+msgstr "Hauteur de la bannière d’article"
+
+#: inc/classic/twentytwentyone/customizer.php:1938
+#: inc/classic/twentytwentyone/customizer.php:2522 dist/index.js:1
+msgid "Medium"
+msgstr "Moyenne"
+
+#: inc/classic/twentytwenty/customizer.php:268
+msgid "Page Cover Height"
+msgstr "Hauteur de la bannière de page"
+
+#: inc/classic/twentytwenty/customizer.php:252 dist/index.js:1
+msgid "Bottom"
+msgstr "Bas"
+
+#: inc/classic/twentytwenty/customizer.php:251
+msgid "Middle"
+msgstr "Milieu"
+
+#: inc/classic/twentytwenty/customizer.php:247
+msgid "Content Vertical Alignment"
+msgstr "Alignement vertical du contenu"
+
+#: inc/about.php:33 inc/about.php:321
+#: inc/classic/twentytwenty/customizer.php:229
+msgid "Twentig Settings"
+msgstr "Réglages Twentig"
+
+#: inc/classic/twentytwenty/customizer.php:84
+msgid "Display Tagline"
+msgstr "Afficher le slogan"
+
+#: inc/classic/twentytwenty/customizer.php:67
+#: inc/classic/twentytwentyone/customizer.php:68
+msgid "Choose logo"
+msgstr "Choisir le logo"
+
+#: inc/classic/twentytwenty/customizer.php:65
+#: inc/classic/twentytwentyone/customizer.php:66
+msgid "No logo selected"
+msgstr "Aucun logo sélectionné"
+
+#: inc/classic/twentytwenty/customizer.php:64
+#: inc/classic/twentytwenty/customizer.php:122
+#: inc/classic/twentytwenty/customizer.php:1087
+#: inc/classic/twentytwenty/customizer.php:1345
+#: inc/classic/twentytwenty/customizer.php:1507
+#: inc/classic/twentytwenty/customizer.php:1602
+#: inc/classic/twentytwenty/customizer.php:1641
+#: inc/classic/twentytwenty/customizer.php:1718
+#: inc/classic/twentytwenty/customizer.php:1928
+#: inc/classic/twentytwenty/customizer.php:2005
+#: inc/classic/twentytwenty/customizer.php:2069
+#: inc/classic/twentytwenty/customizer.php:2193
+#: inc/classic/twentytwenty/customizer.php:2547
+#: inc/classic/twentytwenty/font.php:742
+#: inc/classic/twentytwentyone/customizer.php:65
+#: inc/classic/twentytwentyone/customizer.php:975
+#: inc/classic/twentytwentyone/customizer.php:1144
+#: inc/classic/twentytwentyone/customizer.php:1270
+#: inc/classic/twentytwentyone/customizer.php:1339
+#: inc/classic/twentytwentyone/customizer.php:1548
+#: inc/classic/twentytwentyone/customizer.php:1666
+#: inc/classic/twentytwentyone/customizer.php:1937
+#: inc/classic/twentytwentyone/customizer.php:2088
+#: inc/classic/twentytwentyone/customizer.php:2143
+#: inc/classic/twentytwentyone/customizer.php:2346
+#: inc/classic/twentytwentyone/customizer.php:2399
+#: inc/classic/twentytwentyone/customizer.php:2419
+#: inc/classic/twentytwentyone/customizer.php:3121
+#: inc/classic/twentytwentyone/font.php:325 dist/index.js:1
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/classic/twentytwenty/customizer.php:63
+#: inc/classic/twentytwentyone/customizer.php:64
+msgid "Remove"
+msgstr "Retirer"
+
+#: inc/classic/twentytwenty/customizer.php:62
+#: inc/classic/twentytwentyone/customizer.php:63
+msgid "Change logo"
+msgstr "Changer le logo"
+
+#: inc/classic/twentytwenty/customizer.php:61
+#: inc/classic/twentytwenty/customizer.php:66
+#: inc/classic/twentytwentyone/customizer.php:62
+#: inc/classic/twentytwentyone/customizer.php:67
+msgid "Select logo"
+msgstr "Sélectionner un logo"
+
+#: inc/classic/twentytwenty/customizer.php:53
+msgid "Transparent Header Logo"
+msgstr "Logo pour l’en-tête transparent"
+
+#. Plugin Name of the plugin
+msgid "Twentig"
+msgstr "Twentig"

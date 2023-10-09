@@ -1,0 +1,109 @@
+# Translation of Plugins - Elementor Blocks for Gutenberg - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Elementor Blocks for Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-06 13:53:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Elementor Blocks for Gutenberg - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://elementor.com/?utm_source=block-builder&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=block-builder&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Author of the plugin
+msgid "Elementor.com"
+msgstr "Elementor.com"
+
+#. Description of the plugin
+msgid "Embed Elementor templates inside Gutenberg"
+msgstr "Incorporer les modèles Elementor dans l’éditeur Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://elementor.com/?utm_source=block-builder&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=block-builder&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#. translators: 1: Plugin name 2: missing plugin
+#: classes/dependency-installer.php:111
+msgid "In order to use %1$s, you need to install and activate %2$s first."
+msgstr "Pour pouvoir utiliser %1$s, vous devez d’abord installer et activer %2$s."
+
+#: classes/dependency-installer.php:96
+msgid "Install"
+msgstr "Installer"
+
+#: classes/dependency-installer.php:93 classes/dependency-installer.php:96
+msgid "Activate"
+msgstr "Activer"
+
+#: blocks/template-block.php:91
+msgid "Embed Elementor blocks and templates inside Gutenberg"
+msgstr "Incorporer les blocs et les modèles Elementor dans l’éditeur Gutenberg"
+
+#: blocks/template-block.php:90 assets/template-block.js:1
+msgid "Settings"
+msgstr "Réglages"
+
+#: blocks/template-block.php:89 assets/template-block.js:1
+msgid "Create Your First Template"
+msgstr "Créer votre premier modèle"
+
+#: blocks/template-block.php:88 assets/template-block.js:1
+msgid "Loading..."
+msgstr "Chargement&hellip;"
+
+#: blocks/template-block.php:87 assets/template-block.js:1
+msgid "create a new one."
+msgstr "créer un nouveau."
+
+#: blocks/template-block.php:86 assets/template-block.js:1
+msgid "Select a template from your library or"
+msgstr "Sélectionnez un modèle dans votre bibliothèque ou"
+
+#: blocks/template-block.php:85 assets/template-block.js:1
+msgid "Select a Template"
+msgstr "Sélectionnez un modèle"
+
+#: blocks/template-block.php:84
+msgid "No Template Selected"
+msgstr "Aucun modèle sélectionné"
+
+#: blocks/template-block.php:83
+msgid "Choose Template"
+msgstr "Choisir un modèle"
+
+#: blocks/template-block.php:82 assets/template-block.js:1
+msgid "Edit Template with Elementor"
+msgstr "Modifier le modèle avec Elementor"
+
+#: blocks/template-block.php:34 assets/template-block.js:1
+msgid "Elementor Library"
+msgstr "Bibliothèque Elementor"
+
+#: block-builder.php:170 block-builder.php:184
+msgid "Elementor"
+msgstr "Elementor"
+
+#: block-builder.php:150
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: block-builder.php:125
+msgid "PHP"
+msgstr "PHP"
+
+#. Plugin Name of the plugin
+#: block-builder.php:124 block-builder.php:183
+#: classes/dependency-installer.php:112
+msgid "Elementor Blocks for Gutenberg"
+msgstr "Elementor Blocks for Gutenberg"
+
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#: block-builder.php:123 block-builder.php:182
+msgid "%1$s requires %2$s version %3$s or greater."
+msgstr "%1$s nécessite %2$s version %3$s ou supérieure."
